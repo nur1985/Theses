@@ -1,0 +1,160 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2009.7.8)  24 SEP 2009 02:30
+entering extended mode
+**msuthesis.cls
+(msuthesis.cls
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2008-06-18, ngerman-x-2008-06-18, french, loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `msuthesis'.
+
+Package: msuthesis 2012/02/15 MSU thesis class
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\book.cls"
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\bk12.clo"
+File: bk12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\theorem.sty"
+Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks14
+\theorem@bodyfont=\toks15
+\theorempreskipamount=\skip43
+\theorempostskipamount=\skip44
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\thp.sty"
+File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\xspace.sty"
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+\figwidth=\skip45
+\tabwidth=\skip46
+\tmplen=\skip47
+\titletopspace=\skip48
+\sigwidth=\skip49
+\sigheight=\skip50
+\sigtitletoauthor=\skip51
+\sigauthortoapproved=\skip52
+\tocspace=\skip53
+\maxchapwidth=\skip54
+\maxsectwidth=\skip55
+\maxsubsectwidth=\skip56
+\maxsubsubsectwidth=\skip57
+\maxtabnowidth=\skip58
+\maxfignowidth=\skip59
+\tocchapindent=\skip60
+\tocsectindent=\skip61
+\tocsubsectindent=\skip62
+\tocsubsubsectindent=\skip63
+\tocparaindent=\skip64
+\tocsubparaindent=\skip65
+\tocchaptitleindent=\skip66
+\tocsecttitleindent=\skip67
+\tocsubsecttitleindent=\skip68
+\tocsubsubsecttitleindent=\skip69
+\tocparatitleindent=\skip70
+\tocsubparatitleindent=\skip71
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.569 \renewcommand\@ma
+                       kefntext[1]{%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.573     \hb
+             @xt@1.8em{\hss\@makefnmark}#1%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.573     \hb@xt@1.8em{\hss\@makefnmark}#
+                                         1%
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Infinite glue shrinkage found in a paragraph.
+l.575 
+      
+The paragraph just ended includes some glue that has
+infinite shrinkability, e.g., `\hskip 0pt minus 1fil'.
+Such glue doesn't belong there---it allows a paragraph
+of any length to fit on one line. But it's safe to proceed,
+since the offensive shrinkability has been made finite.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\thb.sty"
+File: thb.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+)
+\c@thm=\count88
+\c@lem=\count89
+\c@cor=\count90
+\c@defn=\count91
+\c@case=\count92
+)
+! Emergency stop.
+<*> msuthesis.cls
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 792 strings out of 95305
+ 8781 string characters out of 1183098
+ 57284 words of memory out of 1500000
+ 4048 multiletter control sequences out of 110000
+ 4637 words of font info for 17 fonts, out of 3000000 for 5000
+ 14 hyphenation exceptions out of 8191
+ 25i,1n,21p,246b,67s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

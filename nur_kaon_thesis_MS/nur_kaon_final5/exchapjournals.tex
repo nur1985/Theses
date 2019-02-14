@@ -1,0 +1,359 @@
+%exchapjnls.tex Features for Compatibility with Journals
+%
+This chapter explains a variety of commands defined by {\tt msuthesis.cls}
+that you can redefine when your are preparing an article for
+a journal.  
+Thus, your writing ({\tt *.tex}) will need few modifications
+to conform to the journal's style requirements.
+Some journals provide \LaTeX\ style files, as well.
+
+\Section{Organize Your Files for Journal Articles}%
+%
+{\sloppy
+You may be able to publish the content of individual chapters
+of your thesis or dissertation
+as journal articles.  
+Note that journal articles do not have chapters.
+To allow for possible publication,
+put all \verb+\chapter+ commands in your main thesis file
+(\eg {\tt thesis.tex}),
+and let \verb+\Section+ be the highest level in any chapter file.
+
+} %end sloppy
+
+\Section{Citations}%
+%
+{\tt msuthesis.cls} provides commands 
+that combine punctuation and citation.
+For example, this citation%
+\spacecite{SPTD07} is in the middle of a sentence.
+This citation%
+\commacite{SPTD07} is combined with a comma,
+and this citation is combined with a period%
+\periodcite{SPTD07}
+Journals have various styles of citations which differ in 
+where spaces and punctuation should go.
+Your thesis may be one style and the final submission
+of a journal article
+may be a different style.
+Use the following commands 
+so that changes are easy to make.
+
+\newspacing{\singlespacing}\begin{verbatim}
+\spacecite{biblabels} %in the middle of a sentence
+\commacite{biblabels} %includes a comma
+\periodcite{biblabels}%includes a period
+\end{verbatim}\newspacing{\defaultspacing}
+
+\Section{References}%
+%
+\nocite{*}%
+The following are examples in the References and guidance 
+from the IEEE Computer Society.
+
+\begin{itemize}
+\item
+Article in a collection \cite{Albrecht81:PPIFTE}
+\item
+Article in a conference proceedings \cite{Weiser98:ICDE}
+\item
+Article in a journal or magazine \cite{SSS74:ACMCS}
+\item
+Book \cite{Arbib98,NS79}
+\item
+\textsc{cd-rom} \cite{NS79:CDROM}
+\item
+Dissertation or thesis \cite{Fagin87:PhD,Nichols85:MS}
+\item
+Electronic publication \cite{Burka00:MUD}
+\item
+Newsletter \cite{Butler87:SDN}
+\item
+Non-English source, 
+when original title is included \cite{ZS84},
+and when original title is unprintable \cite{Nakayama95:NE}
+\item
+Personal communication and
+                 unpublished materials
+are usually not referenced because they are not
+                 available to the reader. 
+However, footnotes can be used to give credit to such sources.
+General thanks can be given in an acknowledgments section.
+
+\item
+Standard \cite{IEEE15961992,BT60192}
+\item
+Technical memo \cite{IST83misc}
+\item
+Technical report with report number \cite{HH85:Cornell674}
+and without report number \cite{Yarwood77:UToronto}
+\item
+Technical or user manual without authors \cite{UnixID86}
+\end{itemize}
+
+In references to electronic publications,
+be sure to include all punctuation exactly as supplied (hyphens
+and tildes ($\sim$), in particular, are very common in Web addresses).
+Tilde is produced by \verb+$\sim$+ in \LaTeX.
+Verify addresses you tag as \textsc{url}s by copying and pasting them
+into your browser and seeing if the string of text that is in
+your document actually goes where it should.
+If the address must run across more than one line, follow these
+guidelines:
+   \begin{itemize}
+   \item Break only after a forward slash or a dot (period). 
+   \item Do not split the double slash. 
+   \item Do not split at hyphens, tildes, and so on, 
+         that are part of the address. 
+   \item Do not introduce hyphens to break words. 
+   \item Separating the extension (for example, the html at the
+                    end) is discouraged. 
+   \end{itemize}
+Some examples using\\
+\verb+http://www.web-pac.com/mall/pacific/start.html+:
+
+\noindent Acceptable:
+\begin{verbatim}
+http://
+www.web-pac.com/mall/pacific/start.html 
+
+http://www.web-pac.
+com/mall/pacific/start.html
+
+http://www.web-pac.com/mall/
+pacific/start.html
+\end{verbatim}
+Not acceptable:
+\begin{verbatim}
+http:/
+/www.web-pac.com/mall/pacific/start.html
+
+http://www.web-
+pac.com/mall/pacific/start.html
+
+http://www.web-pac
+.com/mall/pacific/start.html
+
+http://www.web-pac.com/mall/paci-
+fic/start.html
+\end{verbatim}
+Discouraged:
+\begin{verbatim}
+http://www.web-pac.com/mall/pacific/start.
+html
+\end{verbatim}
+
+
+In titles and captions,
+capitalize the first and last words, and all nouns, pronouns,
+adjectives, verbs, adverbs, and subordinating conjunctions.
+Lowercase articles, coordinating conjunctions, and
+prepositions, regardless of length. Example: Toward Better
+Real-Time Programming through Dataflow. 
+
+To make a source easy for researchers to find, use the title as
+it originally appears. Do not add or remove hyphens, change
+words to preferred spellings, or lowercase internal capitals. 
+
+Do not include the editor's name for a conference
+proceedings unless it is a carefully edited volume published
+as a regular book.
+
+The IEEE Computer Society's Web page also has detailed advice
+regarding references to electronic publications and other matters.%
+\footnote{%
+See {\footnotesize\tt http://computer.org/author/style/refer.htm}. Click Special Sections; click References.  
+}
+
+\Section{Common Abbreviations}%
+%
+{\tt msuthesis.cls} provides commands to produce abbreviations of 
+common Latin expressions for compatibility with various journals.
+Some journals require italics and some require Roman fonts.  
+The abbreviations are: \etc, \eg, \ie, \etal, and \vs
+Various publishers prefer different fonts for certain
+abbreviations.  The following commands are available
+to provide flexibility
+when a thesis chapter is published as a journal article.
+
+\newspacing{\singlespacing}\begin{verbatim}
+\etc
+\ie
+\eg
+\etal
+\vs
+\end{verbatim}\newspacing{\defaultspacing}
+
+\noindent Note that periods after abbreviations are included
+inside each command.
+
+
+\Section{Equations}%
+%
+Don't start a paragraph with a displayed equation, nor make
+one a paragraph by itself.
+
+You should use \verb+\begin{equation}+ and \verb+\end{equation}+
+to define one equation so that equation numbers are generated,
+instead of \verb+\[+ and \verb+\]+.
+It is convenient to use
+\verb+\begin{eqnarray}+ and \verb+\end{eqnarray}+ 
+to define all equations
+just in case a long equation needs to be broken into
+multiple lines later.
+
+Each major equation should have a \verb+\label{eq:label}+ command
+at the end of the equation.
+Journals have various standards for referring 
+to equation numbers in paragraphs.
+The following commands are provided by {\tt msuthesis.cls}
+as an alternative to 
+the standard \LaTeX\ command \verb+Equation~(\ref{eq:label})+.
+
+\newspacing{\singlespacing}\begin{verbatim}
+\eqnref{lable}         %in middle of sentence
+\eqnsref{firstlabel}   %in middle of sentence
+\andeqnref{lastlabel}  %at end of list
+\Eqnref{label}         %at start of sentence
+\Eqnsref{firstlabel}   %at start of sentence
+\end{verbatim}\newspacing{\defaultspacing}
+
+If you are referring to one equation, use
+\verb+\eqnref{label}+,
+or as the first word in a sentence, \verb+\Eqnref{label}+.
+If you are referring to a list of equation numbers, use
+
+\newspacing{\singlespacing}\begin{verbatim}
+\eqnsref{firstlabel}, \ref{eq:secondlabel}, 
+\andeqnref{thirdlabel}
+\end{verbatim}\newspacing{\defaultspacing}
+
+\noindent 
+or similarly, at the beginning of a sentence,
+\verb+\Eqnsref{firstlabel}+ \etc
+\Eqnref{example} is an example of a multiline equation.
+%
+\begin{eqnarray}
+y &=& a x + b
+\nonumber\\
+&+& c x + d
+\label{eq:example}
+\end{eqnarray}
+
+
+
+\Section{Theorems}%
+%
+The following theorem environments are defined by 
+{\tt msuthesis.cls}
+for compatibility with journals 
+published by Elsevier and Kluwer.
+
+\newspacing{\singlespacing}\begin{verbatim}
+\begin{thm} \end{thm} %Theorem
+\begin{lem} \end{lem} %Lemma
+\begin{cor} \end{cor} %Corollary
+\begin{defn}\end{defn}%Definition
+\begin{case}\end{case}%Case
+\begin{pf}  \end{pf}  %Proof
+\end{verbatim}\newspacing{\defaultspacing}
+
+The command \verb+\qed+ is defined by {\tt msuthesis.cls}
+to produce a black box;
+it is used by the \verb+pf+ environment at the end of proofs.
+
+Unfortunately, the University's {\em Standards} prohibits using bold and italics for things like theorem headings and text.
+
+
+The following are examples of these.
+
+\begin{thm}
+This is an example theorem.  
+\end{thm}
+\begin{pf}
+This is a proof.
+\end{pf}
+
+\begin{lem}
+This is an example lemma.
+\end{lem}
+\begin{pf}
+This is another proof.
+\end{pf}
+
+\begin{cor}
+This is an example corollary.
+\end{cor}
+
+\begin{defn}
+This is an example definition.
+\end{defn}
+
+\begin{case}
+This is an example case.
+\end{case}
+
+\begin{case}
+This is another case.
+\end{case}
+
+\Section{Tables}%
+%
+{\sloppy 
+If a table needs to span the full page 
+in a double-column publication,
+use the \verb+\Tabledbl+ command. In a single-column thesis,
+it looks the same as the \verb+\Table+ command.
+
+} %end sloppy
+
+Journals have various standards for referring
+to table numbers in paragraphs.
+The following commands are defined by {\tt msuthesis.cls}
+as alternatives to 
+the standard \LaTeX\ command \verb+Table \ref{tab:filename}+.
+
+\newspacing{\singlespacing}\begin{verbatim}
+\tableref{filename}  %in middle of sentence
+\Tableref{filename}  %as first word of sentence
+\end{verbatim}\newspacing{\defaultspacing}
+
+\noindent where {\tt filename} is the identifier for your table data.
+
+
+\Section{Figures}%
+%
+Some journals and conference proceedings are published 
+in two column format.  Some figures fit within one column, 
+but others must span both columns (usually at the top of a page.  
+The following command
+is used when you want the figure to span two columns
+if the document is in two-column format.
+If this command is used in a one column document,
+such as a thesis, 
+then the figure is typeset the same as 
+the ordinary \verb+\Figure+ command.
+
+\newspacing{\singlespacing}\begin{verbatim}
+\Figuredbl{filename}{\figwidth}{This is a Caption}
+\end{verbatim}\newspacing{\defaultspacing}
+
+This command lets your thesis chapter's {\tt *.tex} file 
+be practically the same
+as your conference paper's with respect to figures.
+
+Journals have various standards for referring 
+to figure numbers in paragraphs.
+The following commands are defined by {\tt msuthesis.cls}
+as alternatives to 
+the standard \LaTeX\ command \verb+Figure~\ref{fig:filename}+.
+
+
+
+\newspacing{\singlespacing}\begin{verbatim}
+\figureref{filename} %in middle of sentence
+\Figureref{filename} %as first word of sentence
+\end{verbatim}\newspacing{\defaultspacing}
+
+\noindent where {\tt filename} is the identifier for your artwork.
+

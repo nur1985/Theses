@@ -1,0 +1,209 @@
+% nur_msuthesis.tex
+\documentclass{msuthesis}
+%\usepackage[light,first]{draftcopy} %remove for final version
+
+% book design declarations------------
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{subfigure}
+\usepackage[hang,labelsep=quad,singlelinecheck=no]{caption}
+
+
+%default SubSubSection is lowest section level \setcounter{tocdepth}{3}
+\settowidth{\maxchapwidth}{\normalfont XVII.} 
+\settowidth{\maxsectwidth}{\normalfont 0.0} 
+\settowidth{\maxsubsectwidth}{\normalfont 0.0.0} 
+\settowidth{\maxsubsubsectwidth}{\normalfont 0.0.0.0} 
+\settowidth{\maxtabnowidth}{0.0}
+\settowidth{\maxfignowidth}{0.0}
+
+\usepackage{setspace}
+%%% bibliography definitions %%%%
+\newcommand{\biblist}{nur_thesis} 
+
+%%% Front matter info %%%
+%maximum 3 title lines on title page
+\renewcommand{\booktitle}{Effective Kaon-Nucleon Cross Section from Nuclear Transparency Measured in the $A(e,e^\prime K^+)$ Reaction}
+\renewcommand{\booktitletwo}{}
+%\renewcommand{\booktitlethree}{in the Hall-C of Thomas Jefferson National Accelerator Facility}
+%default abstracttitle is all booktitle lines on one line
+\renewcommand{\authorname}{Nuruzzaman}
+\renewcommand{\doctype}{Thesis Dissertation} %Dissertation, project, whatever you like
+%default university is Mississippi State University
+%default city is Mississippi State
+%default state is Mississippi
+%\setlength{\figwidth}{0.4\linewidth}
+%\Figure{MSU_logo}{\figwidth}{}
+\renewcommand{\department}{Department of Physics and Astronomy}
+\renewcommand{\major}{Physics}
+\renewcommand{\majorprofessor}{Dr. Dipangkar Dutta}
+\renewcommand{\thesisdirector}{} %default thesisdirector is same as major professor
+\renewcommand{\degree}{Master of Science}
+\renewcommand{\degreemonth}{August}
+\renewcommand{\degreeday}{7}
+\renewcommand{\degreeyear}{2010}
+\renewcommand{\kwlist}{%    %%%MSU 5/17/07%%% keywords allowed
+thesis, 
+dissertation, 
+LaTeX, 
+book design, 
+format, 
+template
+}
+%%% other definitions %%%%%
+\renewcommand{\listofsymbolsname}{List of Symbols, Abbreviations, and Nomenclature}
+
+\begin{document}  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frontmatter %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\maketitlepage
+\copyrightpage    %MSU recommended%%%p.15
+
+%default \setlength{\sigwidth}{2.8in}
+%default \setlength{\sigheight}{0.5in}
+% this command adjusts the distance from the title to the author's
+% name. if you have <= 6 signatures, you shouldn't need to change
+% this. if you have more than 6, you can set this to something smaller
+% to leave more space for signatures
+\setlength{\sigtitletoauthor}{0.8in} % this is the default value
+% this one sets the distance from the author name to the word
+% ``approved'', for the same purpose as \sigtitletoauthor
+\setlength{\sigauthortoapproved}{0.3in} % this is the default value
+
+\approvals
+\begin{center}
+\noindent
+\signature{%
+Dipangkar Dutta
+}{Assistant Professor of Department 
+}{of Physics and Astronomy
+}{(Major Professor)
+}
+\hfill
+\signature{%
+James A. Dunne
+}{Professor of Department 
+}{of Physics and Astronomy
+}{(Committee Member)
+}
+\\
+%\signature{%
+%Anatoli Afanasjev
+%}{Associate Professor of Department 
+%}{of Physics and Astronomy
+%}{(Committee Member)
+%}
+%\hfill
+\end{center}
+
+
+\begin{center}
+\noindent
+\signature{%
+David L. Monts
+}{Professor of Department 
+}{of Physics and Astronomy
+}{and Graduate Coordinator
+\\(Committee Member)}
+\hfill
+\signature{%
+Gary Myers
+}{Dean of Arts and Sciences
+}{}
+{}
+\end{center}
+%%% MSU 4/23/08 Dean's name even though associate dean signs
+
+\abstractpage
+\input{abstract}
+
+% %%%MSU 5/17/07%%%% the following logic is for optional key words
+%                    If kwlist is empty, then keywords line is not printed.
+\settowidth{\tmplen}{\kwlist}
+\ifthenelse{%
+\lengthtest{\tmplen > 0pt}%
+}{%
+\par
+\vspace{\baselineskip}        
+%\noindent Key words: \kwlist
+}{}%
+%%%end MSU 5/17/07 %%%
+
+
+%Correct page numbering requires 
+%either \dedication or \acknowledgments\setcounter{page}{2}
+%default is to make Dedication page ii
+
+\dedication       %MSU%%%required here for correct page numbering. Guidelines says optional%%%p.16
+\begin{center}
+To my parents Md. Shamsuzzoha, Nurun Nahar and my sister Arjun Nahar and my dearest friend Shampa Samanta,\\
+
+And
+
+My teacher Probodh Mondal, Malay Dutta, Subroto Kundu and Dipangkar Dutta
+\end{center}
+
+\acknowledgments  %MSU optional%%%p.16 but not optional for this template
+%Uncomment this \setcounter if there is no dedication
+%\setcounter{page}{2} %MSU%%%title page is page 1, other pages not counted
+
+\input{exack}
+
+\tableofcontents
+\listoftables
+\listoffigures 
+
+\listofsymbols %MSU optional%%% list of symbols, abbreviations, and special nomenclature not implemented%%%
+\input{exlos}
+
+%%%preface not implemented%%%
+
+\mainmatter %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+\input{chapintroduction}
+
+%\chapter{\Large Other Experiments}
+%\input{chapexperiment}
+
+\chapter{Experimental Appratus}
+\input{chapappratus}
+
+\chapter{Monte Carlo Simulation}
+\input{chapsimc}
+
+\chapter{Analysis}
+\input{chapanalysis}
+
+\chapter{Results}
+\input{chapresult}
+
+\chapter{Conclusions}
+\input{chapdiscussion}
+
+\backmatter %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\msubibliography{\biblist}
+
+\appendix %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+%MSU library requires title page for each appendix
+\renewcommand{\appendixname}{\vspace*{3.25in}Appendix} %for appendix title page %%%MSU 6/11/09 title centered vertically
+
+%\oneappendix{\Large Transparency with Hydrogen} %for a single appendix
+%\chapter{An Appendix Title} %alternative for each of multiple appendices
+
+\chapter{Transparency with Hydrogen}
+\newpage %end of appendix title page
+\input{chapappendixa} %content of appendix
+%\newpage %end of appendix title page
+
+\chapter{Miscellaneous} %for a single appendix
+\newpage %end of appendix title page
+\input{chapappendixb} %content of appendix
+%\chapter{An Appendix Title} %alternative for each of multiple appendices
+
+%\newpage %end of appendix title page
+
+
+\end{document}

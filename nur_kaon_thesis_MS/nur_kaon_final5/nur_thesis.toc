@@ -1,0 +1,96 @@
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\dedicationname }}{ii}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\acknowledgmentsname }}{iii}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\listtablename }}{viii}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\listfigurename }}{ix}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\listofsymbolsname }}{xi}
+\par \unhbox \voidb@x \hbox {}
+\par \noindent \MakeUppercase {\chaptername }
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 1.\hspace {\tocspace }}\MakeUppercase {Introduction}}{1}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {1.1}Experimental Motivation}{1}
+\contentsline {section}{\numberline {1.2}Nuclear Transparency}{3}
+\contentsline {section}{\numberline {1.3}Previous Measurements}{3}
+\contentsline {section}{\numberline {1.4}Experimental Background}{4}
+\contentsline {section}{\numberline {1.5}Kinematics}{4}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 2.\hspace {\tocspace }}\MakeUppercase {Experimental Appratus}}{8}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {2.1}TJNAF Overview}{8}
+\contentsline {section}{\numberline {2.2}Accelerator}{8}
+\contentsline {subsection}{\numberline {2.2.1}Polarized Source}{10}
+\contentsline {subsection}{\numberline {2.2.2}LINAC}{10}
+\contentsline {section}{\numberline {2.3}Beamline}{12}
+\contentsline {subsection}{\numberline {2.3.1}Hall-C Beamline}{12}
+\contentsline {subsection}{\numberline {2.3.2}Beam Position Monitor}{12}
+\contentsline {subsection}{\numberline {2.3.3}Beam Current Monitor}{12}
+\contentsline {subsection}{\numberline {2.3.4}Raster}{13}
+\contentsline {section}{\numberline {2.4}Hall-C}{13}
+\contentsline {subsection}{\numberline {2.4.1}Short Orbit Spectrometer (SOS)}{14}
+\contentsline {subsection}{\numberline {2.4.2}High Momentum Spectrometer (HMS)}{14}
+\contentsline {subsection}{\numberline {2.4.3}Target}{15}
+\contentsline {subsection}{\numberline {2.4.4}Detector Packages}{15}
+\contentsline {section}{\numberline {2.5}Data Acquisition}{17}
+\contentsline {section}{\numberline {2.6}Kinematic Settings}{17}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 3.\hspace {\tocspace }}\MakeUppercase {Monte Carlo Simulation}}{19}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {3.1}General Overview}{19}
+\contentsline {section}{\numberline {3.2}Ingredients of SIMC}{19}
+\contentsline {subsection}{\numberline {3.2.1}Event Generation}{19}
+\contentsline {subsection}{\numberline {3.2.2}Spectrometer Simulation}{20}
+\contentsline {subsection}{\numberline {3.2.3}Physics Model}{21}
+\contentsline {subsection}{\numberline {3.2.4}Kaon Decay}{22}
+\contentsline {subsection}{\numberline {3.2.5}Spectral Function}{23}
+\contentsline {section}{\numberline {3.3}Comparison of Data with SIMC}{23}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 4.\hspace {\tocspace }}\MakeUppercase {Analysis}}{27}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {4.1}General Overview}{27}
+\contentsline {section}{\numberline {4.2}Particle Identification(PID)}{28}
+\contentsline {subsection}{\numberline {4.2.1}Tracking}{28}
+\contentsline {subsection}{\numberline {4.2.2}Charge-Normalized Yield}{28}
+\contentsline {subsection}{\numberline {4.2.3}Coincidence Time}{29}
+\contentsline {subsection}{\numberline {4.2.4}Missing Mass}{32}
+\contentsline {subsection}{\numberline {4.2.5}$\mathaccent "7015\relax {C}$erenkov Radiation}{37}
+\contentsline {section}{\numberline {4.3}Cuts}{40}
+\contentsline {subsection}{\numberline {4.3.1}Other Cuts}{41}
+\contentsline {section}{\numberline {4.4}Comparison of Data with SIMC Yields}{42}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 5.\hspace {\tocspace }}\MakeUppercase {Results}}{48}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {5.1}Transparency}{48}
+\contentsline {subsection}{\numberline {5.1.1}Transparency with Respect to Deuterium}{49}
+\contentsline {section}{\numberline {5.2}Error Calculation}{49}
+\contentsline {subsection}{\numberline {5.2.1}Statistical Error Calculation}{51}
+\contentsline {subsection}{\numberline {5.2.2}Systematic Error Calculation}{52}
+\contentsline {section}{\numberline {5.3}Effective Cross Section}{52}
+\contentsline {subsection}{\numberline {5.3.1}Effective Cross Section of Kaons($K^+$)}{53}
+\contentsline {subsection}{\numberline {5.3.2}Effective Cross Section of Pions ($\pi ^+$)}{56}
+\contentsline {subsection}{\numberline {5.3.3}Effective Cross Section of Protons (p)}{56}
+\contentsline {subsection}{\numberline {5.3.4}Effective Cross Section for All Hadrons ($\pi ^+$, $K^+$, p)}{58}
+\contentsline {subsection}{\numberline {5.3.5}$A$ Dependency of Transparency}{62}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 6.\hspace {\tocspace }}\MakeUppercase {Conclusions}}{65}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {6.1}Conclusions}{65}
+\contentsline {section}{\numberline {6.2}Further Research}{66}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\bibname }}{67}
+\par \unhbox \voidb@x \hbox {}
+\par \noindent \MakeUppercase {\appendixname }
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill A.\hspace {\tocspace }}\MakeUppercase {Transparency with Hydrogen}}{71}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {A.1}Transparency with Respect to Hydrogen}{72}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill B.\hspace {\tocspace }}\MakeUppercase {Miscellaneous}}{75}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {B.1}$\alpha $ Plot}{76}
+\contentsline {section}{\numberline {B.2}Comparison of Yields for Data with SIMC}{78}
+\contentsline {section}{\numberline {B.3}Iteration}{78}

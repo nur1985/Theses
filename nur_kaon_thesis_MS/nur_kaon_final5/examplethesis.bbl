@@ -1,0 +1,131 @@
+\begin{thebibliography}{10}
+
+\bibitem{Albrecht81:PPIFTE}
+A.~J. Albrecht,
+\newblock ``Measuring Application-Development Productivity,''
+\newblock {\em Programmer Productivity Issues for the Eighties}, C.~Jones, ed.,
+  IEEE CS Press, Los Alamitos, California, 1981, pp. 34--43.
+
+\bibitem{Arbib98}
+M.~A. Arbib, ed.,
+\newblock {\em The Handbook of Brain Theory and Neural Networks},
+\newblock MIT Press, Cambridge, Massachusetts, 1998.
+
+\bibitem{UnixID86}
+{\em Unix System {V} Interface Definition, {\normalfont issue 2, vol. 2}},
+\newblock AT\&T, Murray Hill, New Jersey, 1986.
+
+\bibitem{Burka00:MUD}
+L.~P. Burka,
+\newblock ``A Hypertext History of Multiuser Dimensions,''
+\newblock {\em {MUD} History},
+\newblock http://www.ccs.neu.edu/home/home/lpb/mud-history.html (current 5 Dec.
+  2000).
+
+\bibitem{BA98:ch3}
+K.~P. Burnham and D.~R. Anderson,
+\newblock {\em Model Selection and Inference: {A} Practical
+  Information-Theoretic Approach}, chapter~3,
+\newblock Springer-Verlag, New York, 1998, pp. 75--117.
+
+\bibitem{Butler87:SDN}
+J.~Butler,
+\newblock ``{CASE} Outlook,'' {\em System Development Newsletter}, Applied
+  Computer Research, Phoenix, Arizona, Nov. 1987,
+\newblock p. 3.
+
+\bibitem{Chic82}
+{\em The Chicago Manual of Style}, 13th edition,
+\newblock University of Chicago Press, Chicago, 1982.
+
+\bibitem{EN92}
+R.~Elmasri and S.~B. Navathe,
+\newblock {\em Fundamentals of Database Systems},
+\newblock Benjamin/Cummings, Redwood City, California, 1992.
+
+\bibitem{Fagin87:PhD}
+B.~Fagin,
+\newblock {\em A Parallel Execution Model for Prolog},
+\newblock doctoral dissertation, Department of Computer Sciences, University of
+  California, Berkeley, California, 1987.
+
+\bibitem{Grant87}
+J.~Grant,
+\newblock {\em Logical Introduction to Databases},
+\newblock Harcourt Brace Jovanovich, San Diego, California, 1987.
+
+\bibitem{HH85:Cornell674}
+C.~Hoffman and J.~Hopcroft,
+\newblock {\em Quadratic Blending Surfaces},
+\newblock technical report TR-85-674, Computer Science Department, Cornell
+  University, Ithaca, New York, 1985.
+
+\bibitem{IEEE15961992}
+{\em IEEE Std. 1596-1992, Scalable Coherent Interface ({SCI})},
+\newblock IEEE, Piscataway, New Jersey, 1992.
+
+\bibitem{BT60192}
+{\em Recommendation {ITU-R BT.601}, Encoding Parameters of Digital Television
+  for Studios},
+\newblock International Telecommunications Union, Geneva, 1992.
+
+\bibitem{Nakayama95:NE}
+T.~Nakayama et~al.,
+\newblock ``{NEC} Corporation Develops 32-Bit {RISC} Microprocessor,''
+\newblock {\em Nikkei Electronics}, vol. 6, no. 12, Dec. 1995, pp. 111--121,
+\newblock (in Japanese).
+
+\bibitem{NS79}
+W.~M. Newman and R.~F. Sproull,
+\newblock {\em Principles of Interactive Computer Graphics},
+\newblock McGraw-Hill, Hightstown, New Jersey, 1979.
+
+\bibitem{NS79:CDROM}
+W.~M. Newman and R.~F. Sproull,
+\newblock {\em Principles of Interactive Computer Graphics, {\normalfont
+  CD-ROM}},
+\newblock McGraw-Hill, Hightstown, New Jersey, 1979.
+
+\bibitem{Nichols85:MS}
+M.~Nichols,
+\newblock {\em The Graphical Kernel System in {Prolog}},
+\newblock master's thesis, Department of Computer Science and Engineering,
+  Rensselaer Polytechnic Institute, Troy, New York, 1985.
+
+\bibitem{SPTD07}
+{Office of Graduate Studies},
+\newblock {\em Standards for Preparing Theses and Dissertations}, 5th edition,
+\newblock Mississippi State University, Mississippi State, Mississippi, 2007.
+
+\bibitem{IST83misc}
+``Requirements for Software-Engineering Databases,'' technical memo, Imperial
+  Software Technology, London, 1983.
+
+\bibitem{SSS74:ACMCS}
+I.~E. Sutherland, R.~F. Sproull, and R.~A. Schumaker,
+\newblock ``A Characterization of 10 Hidden-Surface Algorithms,''
+\newblock {\em ACM Computing Surveys}, vol. 6, no. 1, Mar. 1974, pp. 1--55.
+
+\bibitem{Webs94}
+{\em Webster's New Collegiate Dictionary}, 10th edition,
+\newblock Merriam-Webster, Springfield, Massachusetts, 1994.
+
+\bibitem{Weiser98:ICDE}
+M.~Weiser,
+\newblock ``Program Slicing,''
+\newblock {\em Proceedings: 14th International Conference on Data Engineering},
+  San Diego, California, 1998, IEEE Computer Society, pp. 439--449.
+
+\bibitem{Yarwood77:UToronto}
+E.~Yarwood,
+\newblock {\em Toward Program Illustration},
+\newblock technical report, Computer Systems Research Group, University of
+  Toronto, Toronto, 1977.
+
+\bibitem{ZS84}
+A.~N. Zhirabok and A.~E. Shumskii,
+\newblock {\em Electronnoe modelirovanie [{E}lectronic Modeling]},
+\newblock Energoatomizdat, Leningrad, 1984,
+\newblock (in Russian).
+
+\end{thebibliography}

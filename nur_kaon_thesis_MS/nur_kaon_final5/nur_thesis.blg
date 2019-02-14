@@ -1,0 +1,43 @@
+This is BibTeX, Version 0.99cThe top-level auxiliary file: C:\Users\nur\Desktop\nur_kaon_final\nur_thesis.aux
+The style file: msucs.bst
+A level-1 auxiliary file: kine.aux
+A level-1 auxiliary file: cuts.aux
+A level-1 auxiliary file: t_4.aux
+A level-1 auxiliary file: err_1.aux
+A level-1 auxiliary file: eff_cr1.aux
+A level-1 auxiliary file: eff_cr3.aux
+A level-1 auxiliary file: alpha2.aux
+A level-1 auxiliary file: alpha1.aux
+Database file #1: nur_thesis.bib
+Warning--string name "march" is undefined
+--line 59 of file nur_thesis.bib
+You're missing a field part---line 68 of file nur_thesis.bib
+ :   year = 
+ :          ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 79 of file nur_thesis.bib
+ :   month= 
+ :          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 86 of file nur_thesis.bib
+ : %@phdthesis{hinton01
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 776 of file nur_thesis.bib
+ : %@article{hinton01
+ :                   ,
+I'm skipping whatever remains of this entry
+Name 1 in "Jiang, and M. F. Koltun, and D. S." has a comma at the end for entry kccth6
+while executing---line 1178 of file msucs.bst
+Name 2 in "Jiang, and M. F. Koltun, and D. S." has a comma at the end for entry kccth6
+while executing---line 1178 of file msucs.bst
+Warning--empty title in PDG
+Warning--empty publisher in PDG
+Warning--empty title in jlab
+Warning--empty publisher in jlab
+Warning--empty year in jlab
+Name 1 in "Jiang, and M. F. Koltun, and D. S." has a comma at the end for entry kccth6
+while executing---line 1219 of file msucs.bst
+Name 2 in "Jiang, and M. F. Koltun, and D. S." has a comma at the end for entry kccth6
+while executing---line 1219 of file msucs.bst
+(There were 8 error messages)

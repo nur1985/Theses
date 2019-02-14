@@ -1,0 +1,102 @@
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\dedicationname }}{ii}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\acknowledgmentsname }}{iii}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\listtablename }}{vii}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\listfigurename }}{viii}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\listofsymbolsname }}{ix}
+\par \unhbox \voidb@x \hbox {}
+\par \noindent \MakeUppercase {\chaptername }
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 1.\hspace {\tocspace }}\MakeUppercase {Introduction}}{1}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {1.1}University Requirements}{1}
+\contentsline {section}{\numberline {1.2}Departmental Requirements}{1}
+\contentsline {section}{\numberline {1.3}What is \LaTeX ?}{4}
+\contentsline {section}{\numberline {1.4}Limitations of this Template}{4}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 2.\hspace {\tocspace }}\MakeUppercase {Getting Started}}{6}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {2.1}Compiling the Example Thesis}{6}
+\contentsline {section}{\numberline {2.2}Compiling Your Thesis}{7}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 3.\hspace {\tocspace }}\MakeUppercase {Typesetting Using LaTeX}}{10}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {3.1}Chapter Titles}{11}
+\contentsline {section}{\numberline {3.2}Section Titles}{11}
+\contentsline {subsection}{\numberline {3.2.1}Subsecton Title without Paragraph}{11}
+\contentsline {subsubsection}{\numberline {3.2.1.1}When There is No Paragraph}{11}
+\contentsline {subsubsection}{\numberline {3.2.1.2}Another Subsubsection}{11}
+\contentsline {subsection}{\numberline {3.2.2}When There is a Paragraph}{12}
+\contentsline {paragraph}{Titled paragraphs.}{12}
+\contentsline {section}{\numberline {3.3}Paragraphs}{13}
+\contentsline {section}{\numberline {3.4}Justification}{13}
+\contentsline {section}{\numberline {3.5}Special Considerations}{13}
+\contentsline {subsection}{\numberline {3.5.1}Quotation Marks}{14}
+\contentsline {subsection}{\numberline {3.5.2}Dashes}{14}
+\contentsline {subsection}{\numberline {3.5.3}Spaces}{14}
+\contentsline {subsubsection}{\numberline {3.5.3.1}Space After a Period}{14}
+\contentsline {subsubsection}{\numberline {3.5.3.2}Ellipsis}{15}
+\contentsline {subsection}{\numberline {3.5.4}Special Characters}{15}
+\contentsline {subsection}{\numberline {3.5.5}Emphasized Type}{15}
+\contentsline {subsection}{\numberline {3.5.6}Line Breaks}{15}
+\contentsline {section}{\numberline {3.6}Footnotes}{16}
+\contentsline {section}{\numberline {3.7}Embedded Mathematics}{16}
+\contentsline {section}{\numberline {3.8}Quotations}{16}
+\contentsline {section}{\numberline {3.9}Lists}{16}
+\contentsline {section}{\numberline {3.10}Poetry}{17}
+\contentsline {section}{\numberline {3.11}Mathematics}{17}
+\contentsline {section}{\numberline {3.12}Tables}{18}
+\contentsline {section}{\numberline {3.13}Figures}{23}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 4.\hspace {\tocspace }}\MakeUppercase {Features for Compatibility with Journal Articles}}{27}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {4.1}Organize Your Files for Journal Articles}{27}
+\contentsline {section}{\numberline {4.2}Citations}{27}
+\contentsline {section}{\numberline {4.3}References}{28}
+\contentsline {section}{\numberline {4.4}Common Abbreviations}{31}
+\contentsline {section}{\numberline {4.5}Equations}{31}
+\contentsline {section}{\numberline {4.6}Theorems}{32}
+\contentsline {section}{\numberline {4.7}Tables}{34}
+\contentsline {section}{\numberline {4.8}Figures}{34}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 5.\hspace {\tocspace }}\MakeUppercase {Suggestions}}{36}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {5.1}Organize Your Files}{36}
+\contentsline {section}{\numberline {5.2}Local Definitions}{36}
+\contentsline {section}{\numberline {5.3}Bibliography}{37}
+\contentsline {section}{\numberline {5.4}Tables}{38}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 6.\hspace {\tocspace }}\MakeUppercase {Frequently Asked Questions}}{40}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {6.1}How can I remove DRAFT on the title page?}{40}
+\contentsline {section}{\numberline {6.2}Why can't \LaTeX \ find my files?}{40}
+\contentsline {section}{\numberline {6.3}How can I fix the top margin of my title page?}{40}
+\contentsline {section}{\numberline {6.4}Why is there extra white space after a section title?}{41}
+\contentsline {section}{\numberline {6.5}How do I create subsubsubsection 3.5.3.1.1?}{41}
+\contentsline {section}{\numberline {6.6}Why are figure titles double spaced instead of single?}{41}
+\contentsline {section}{\numberline {6.7}How do I fix not enough memory for figures and tables?}{42}
+\contentsline {section}{\numberline {6.8}How can I refer to a list of equations, tables, or figures?}{42}
+\contentsline {section}{\numberline {6.9}How can I make a table heading span more than one column?}{42}
+\contentsline {section}{\numberline {6.10}Why is a missing \$ inserted?}{43}
+\contentsline {section}{\numberline {6.11}How can I typeset ``John Wiley \& Sons'' in a reference?}{43}
+\contentsline {section}{\numberline {6.12}How can I typeset a tilda in a URL?}{43}
+\contentsline {section}{\numberline {6.13}How can I change to single spacing?}{43}
+\contentsline {section}{\numberline {6.14}How can I change to bold and then back to normal print?}{43}
+\contentsline {section}{\numberline {6.15}How can I create a superscript or subscript?}{44}
+\contentsline {section}{\numberline {6.16}How can I make a fraction in an equation?}{44}
+\contentsline {section}{\numberline {6.17}How can I typeset all my references?}{44}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\numberline {\hfill 7.\hspace {\tocspace }}\MakeUppercase {Conclusions}}{45}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {section}{\numberline {7.1}Contributions}{45}
+\contentsline {section}{\numberline {7.2}For Further Research}{45}
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\MakeUppercase {\bibname }}{46}
+\par \unhbox \voidb@x \hbox {}
+\par \noindent \MakeUppercase {\appendixname }
+\par \unhbox \voidb@x \hbox {}
+\contentsline {chapter}{\hspace *{\maxchapwidth }\MakeUppercase {An Example}}{48}

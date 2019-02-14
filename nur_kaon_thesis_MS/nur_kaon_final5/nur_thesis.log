@@ -1,0 +1,620 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=latex 2010.7.19)  21 JUL 2010 17:36
+entering extended mode
+**nur_thesis.tex
+(nur_thesis.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+(msuthesis.cls
+Document Class: msuthesis 2012/02/15 MSU thesis class
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\theorem.sty"
+Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks14
+\theorem@bodyfont=\toks15
+\theorempreskipamount=\skip43
+\theorempostskipamount=\skip44
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\thp.sty"
+File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\xspace.sty"
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+\figwidth=\skip45
+\tabwidth=\skip46
+\tmplen=\skip47
+\titletopspace=\skip48
+\sigwidth=\skip49
+\sigheight=\skip50
+\sigtitletoauthor=\skip51
+\sigauthortoapproved=\skip52
+\tocspace=\skip53
+\maxchapwidth=\skip54
+\maxsectwidth=\skip55
+\maxsubsectwidth=\skip56
+\maxsubsubsectwidth=\skip57
+\maxtabnowidth=\skip58
+\maxfignowidth=\skip59
+\tocchapindent=\skip60
+\tocsectindent=\skip61
+\tocsubsectindent=\skip62
+\tocsubsubsectindent=\skip63
+\tocparaindent=\skip64
+\tocsubparaindent=\skip65
+\tocchaptitleindent=\skip66
+\tocsecttitleindent=\skip67
+\tocsubsecttitleindent=\skip68
+\tocsubsubsecttitleindent=\skip69
+\tocparatitleindent=\skip70
+\tocsubparatitleindent=\skip71
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\thb.sty"
+File: thb.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+)
+\c@thm=\count88
+\c@lem=\count89
+\c@cor=\count90
+\c@defn=\count91
+\c@case=\count92
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip72
+\subfigcapskip=\skip73
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip74
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip75
+\c@subfigure=\count93
+\c@lofdepth=\count94
+\c@subtable=\count95
+\c@lotdepth=\count96
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.7\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip76
+\subfig@bottom=\skip77
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\caption\caption.sty"
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\caption\caption3.sty"
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen107
+\captionmargin@=\dimen108
+\captionwidth=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used on input line 1084.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {#2}\ifdim \wd \@tempboxa >\hsize \centering {#1} \\ \mbox {
+} \\ #2\par \else \global \@minipagefalse \centering {#1} \\ \mbox {} \\ \hb@xt
+@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count97
+Package caption Info: subfigure package is loaded.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 14.
+ ("C:\Program Files\MiKTeX 2.7\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\setspace\setspace.sty"
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+
+! LaTeX Error: Command \singlespacing already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.325 }
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (nur_thesis.aux (kine.aux) (cuts.aux) (t_4.aux) (err_1.aux) (eff_cr1.aux)
+(eff_cr3.aux) (alpha2.aux) (alpha1.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 59.
+ [1
+
+
+
+] [1
+
+] [1
+
+]
+Underfull \hbox (badness 2582) in paragraph at lines 117--117
+[]\OT1/ptm/m/n/12 EFFECTIVE KAON-NUCLEON CROSS SEC-TION FROM NU-
+ []
+
+(abstract.tex) [2
+
+] [2
+
+] (exack.tex [3
+
+]) [4] (nur_thesis.toc [5
+
+] [6])
+\tf@toc=\write3
+ [7]
+(nur_thesis.lot)
+\tf@lot=\write4
+ [8
+
+] (nur_thesis.lof [9
+
+])
+\tf@lof=\write5
+ [10] (exlos.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 5.
+ [11
+
+]) [12]
+Chapter 1.
+(chapintroduction.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+ [1
+
+
+] [2] [3]
+Overfull \hbox (2.31436pt too wide) in paragraph at lines 28--30
+\OT1/ptm/m/n/12 nucleus scat-ter-ing in or-der to ex-plore the prop-a-ga-tion o
+f kaons through the nu-clear medium.
+ []
+
+File: reaction_fig1.eps Graphic file (type eps)
+<reaction_fig1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 166--166
+\OT1/ptm/m/n/12 The az-imuthal an-gle be-tween the scat-ter-ing and re-ac-tion 
+planes with
+ []
+
+[4] [5]) [6] [7]
+Chapter 2.
+(chapappratus.tex
+File: jlab.eps Graphic file (type eps)
+ <jlab.eps> [8
+
+] [9]
+File: beamline.eps Graphic file (type eps)
+ <beamline.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+
+ []
+
+[10] [11] [12]
+File: HALC_33.eps Graphic file (type eps)
+ <HALC_33.eps>
+Overfull \hbox (24.35396pt too wide) in paragraph at lines 77--80
+[][] []\OT1/ptm/m/n/12 The Short Or-bit Spec-trom-e-ter uses three room tem-per
+-a-ture mag-netic el-e-ments: a quadrupole
+ []
+
+[13]
+File: sos.eps Graphic file (type eps)
+ <sos.eps>
+File: hms.eps Graphic file (type eps)
+ <hms.eps> [14]
+File: target.eps Graphic file (type eps)
+ <target.eps> [15] [16] (kine.tex)) [17] [18
+
+
+\newlabel{table1}{{2.1}{18}}
+
+]
+Chapter 3.
+(chapsimc.tex [19
+
+] [20]
+File: reaction1.eps Graphic file (type eps)
+ <reaction1.eps> [21]
+File: reaction2.eps Graphic file (type eps)
+ <reaction2.eps> [22] [23]
+File: com_plot_2_hms_2.eps Graphic file (type eps)
+
+<com_plot_2_hms_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+
+ []
+
+File: com_plot_2_sos_2.eps Graphic file (type eps)
+<com_plot_2_sos_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 140--140
+\OML/cmm/m/it/12 ssxptar$\OT1/ptm/m/n/12 , $\OML/cmm/m/it/12 ssyptar$\OT1/ptm/m
+/n/12 , $\OML/cmm/m/it/12 ssytar$ \OT1/ptm/m/n/12 and $\OML/cmm/m/it/12 ssdelta
+$ \OT1/ptm/m/n/12 for $\OT1/cmr/m/n/12 $ \OT1/ptm/m/n/12 pro-duc-tion of $\OML
+/cmm/m/it/12 K[]$ \OT1/ptm/m/n/12 af-ter
+ []
+
+) [24] [25] [26]
+Chapter 4.
+(chapanalysis.tex [27
+
+] [28]
+File: cointime1.eps Graphic file (type eps)
+ <cointime1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+
+ []
+
+File: cointime2.eps Graphic file (type eps)
+<cointime2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+
+ []
+
+[29] [30] [31] [32] [33]
+File: missmass1.eps Graphic file (type eps)
+ <missmass1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+
+ []
+
+File: com_plot_missmass_2.eps Graphic file (type eps)
+<com_plot_missmass_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+
+ []
+
+File: misscoin.eps Graphic file (type eps)
+<misscoin.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 136--136
+\OT1/ptm/m/n/12 p, $\OML/cmm/m/it/12 K[]$ \OT1/ptm/m/n/12 and $\OML/cmm/m/it/12
+ []$ \OT1/ptm/m/n/12 are shown here from left to right, re-spec-tively, af-ter
+
+ []
+
+[34] [35] [36]
+File: pid1.eps Graphic file (type eps)
+ <pid1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+
+ []
+
+File: pid2.eps Graphic file (type eps)
+<pid2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+
+ []
+
+[37] [38] [39] (cuts.tex) [40] [41
+
+
+]
+File: Q2_1.eps Graphic file (type eps)
+ <Q2_1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+
+ []
+
+File: com_plot_2_Q2_2.eps Graphic file (type eps)
+<com_plot_2_Q2_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 207--207
+\OML/cmm/m/it/12 Q[]$ \OT1/ptm/m/n/12 com-bined $\OT1/cmr/m/n/12 $ \OT1/ptm/m/
+n/12 and $\OT1/cmr/m/n/12 $ \OT1/ptm/m/n/12 for both SIMC and data yields in R
+ED and
+ []
+
+File: com_plot_2_w_2.eps Graphic file (type eps)
+<com_plot_2_w_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+
+ []
+
+File: com_plot_2_t_2.eps Graphic file (type eps)
+<com_plot_2_t_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 227--227
+\OML/cmm/m/it/12 t$ \OT1/ptm/m/n/12 com-bined $\OT1/cmr/m/n/12 $ \OT1/ptm/m/n/
+12 and $\OT1/cmr/m/n/12 $ \OT1/ptm/m/n/12 for both SIMC and data yields in RED
+ and
+ []
+
+File: com_plot_2_phi_2.eps Graphic file (type eps)
+<com_plot_2_phi_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
+
+ []
+
+) [42] [43] [44] [45] [46] [47]
+Chapter 5.
+(chapresult.tex [48
+
+] (t_4.tex)
+File: transp2.eps Graphic file (type eps)
+ <transp2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+[49] [50] [51
+
+
+]
+Overfull \hbox (3.10849pt too wide) detected at line 79
+[]\OML/cmm/m/it/12 dT[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 T \OMS/cmsy/m/n/12 
+ []
+ []
+
+(err_1.tex) [52] (eff_cr1.tex) [53
+
+
+]
+File: eff_t_all.eps Graphic file (type eps)
+ <eff_t_all.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+(eff_cr2.tex) (eff_cr3.tex) [54
+
+
+] [55] (eff_cr4.tex)
+File: eff_av_all.eps Graphic file (type eps)
+ <eff_av_all.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+
+ []
+
+(eff_cr6.tex) [56
+
+
+] [57] (scalefactor.tex) [58]
+File: crr1.eps Graphic file (type eps)
+ <crr1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+
+ []
+
+File: crr2.eps Graphic file (type eps)
+<crr2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+
+ []
+
+(alpha2.tex) [59] [60] [61]
+File: carolplot.eps Graphic file (type eps)
+ <carolplot.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
+
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 211--211
+\OML/cmm/m/it/12 $ \OT1/ptm/m/n/12 from electro-production of kaons (from this
+ anal-y-sis), pi-ons, and
+ []
+
+) [62
+
+
+] [63] [64]
+Chapter 6.
+(chapdiscussion.tex [65
+
+]) [66] (nur_thesis.bbl
+Missing character: There is no ± in font cmr8!
+Missing character: There is no ± in font cmr8!
+ [67
+
+
+]
+Underfull \hbox (badness 2253) in paragraph at lines 70--75
+\OT1/ptm/m/it/12 dro-gen, Deu-terium and Helium-3, P.hD The-sis\OT1/ptm/m/n/12 
+,  Ore-gon State Uni-ver-sity,
+ []
+
+[68] [69]) [70]
+\vspace *{3.25in}Appendix A.
+[71
+
+] (chapappendixa.tex
+File: transp1.eps Graphic file (type eps)
+ <transp1.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+(t_1.tex) (t_2.tex
+Overfull \hbox (11.1516pt too wide) in paragraph at lines 2--18
+ [][] 
+ []
+
+) (t_3.tex)) [72] [73] [74]
+\vspace *{3.25in}Appendix B.
+[75
+
+] (chapappendixb.tex
+File: alpha.eps Graphic file (type eps)
+ <alpha.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 8--8
+\OT1/ptm/m/n/12 Electro-production data points in RED are for pro-tons, GREEN d
+ata
+ []
+
+(alpha1.tex) [76
+
+
+] [77]
+File: missmass2.eps Graphic file (type eps)
+ <missmass2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 24--24
+\OT1/ptm/m/n/12 One-dimensional plot of miss-ing mass are shown here af-ter ap-
+ply-ing
+ []
+
+File: com_plot_w_2.eps Graphic file (type eps)
+<com_plot_w_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+
+ []
+
+File: com_plot_t_2.eps Graphic file (type eps)
+<com_plot_t_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+File: com_plot_phi_2.eps Graphic file (type eps)
+<com_plot_phi_2.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 47--47
+\OT1/ptm/m/n/12 Clockwise from top left cor-ner: $\OML/cmm/m/it/12 []$ \OT1/pt
+m/m/n/12 and $\OML/cmm/m/it/12 []$ \OT1/ptm/m/n/12 SIMC shown in RED,
+ []
+
+File: fitfunction_kin2_1.eps Graphic file (type eps)
+<fitfunction_kin2_1.eps>
+File: fitfunction_kin2_2.eps Graphic file (type eps)
+ <fitfunction_kin2_2.eps>
+File: fitfunction_kin2_3.eps Graphic file (type eps)
+ <fitfunction_kin2_3.eps>)
+[78] [79] [80] [81] [82] [83] [84] [85] (nur_thesis.aux (kine.aux) (cuts.aux)
+(t_4.aux) (err_1.aux) (eff_cr1.aux) (eff_cr3.aux) (alpha2.aux) (alpha1.aux)) ) 
+Here is how much of TeX's memory you used:
+ 2516 strings out of 95305
+ 36040 string characters out of 1183097
+ 112575 words of memory out of 1500000
+ 5567 multiletter control sequences out of 110000
+ 10829 words of font info for 32 fonts, out of 3000000 for 5000
+ 14 hyphenation exceptions out of 8191
+ 36i,10n,38p,1617b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on nur_thesis.dvi (100 pages, 212608 bytes).

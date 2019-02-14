@@ -1,0 +1,164 @@
+%exfaq.tex Frequently Asked Questions
+%
+\Section{How can I remove DRAFT on the title page?}%
+The third line of {\tt examplethesis.tex} is
+
+\newspacing{\singlespacing}\begin{verbatim}
+\usepackage[light,first]{draftcopy} 
+%remove for final version
+\end{verbatim}\newspacing{\defaultspacing}
+
+Putting a \% at the beginning of this line will make this 
+line a comment, disabling DRAFT.
+
+\Section{Why can't \LaTeX\ find my files?}%
+%
+You must put all files for your document in the same directory,
+including all the figures (encapsulated postscript {\tt *.eps}). 
+A warning in the {\tt *.log} file may indicates that you had a command 
+like \verb+\Figure{./Drawings/tiles_fuel}{+\ldots.
+The template cannot handle paths. Remove paths in all 
+\verb+\Figure+,
+\verb+\Table+, 
+and \verb+\input+ commands.
+
+\Section{How can I fix the top margin of my title page?}%
+%
+If your title is 1 or 2 lines, then the top margin of the title page should be 
+satisfactory, 3.5--4.0 inches.
+
+If your title is 3 lines, the the top margin will be a bit more than 3 inches
+which does not conform with the University's standard.  
+The library has agreed to waive the 3.5 inch rule for theses and dissertations
+formatted with this template (per James Nail, 6/12/09).
+
+If you use this template, you should inform the library staff of this fact 
+when you turn it in for review.
+
+
+\Section{Why is there extra white space after a section title?}%
+%
+In most cases, 
+you should use \verb+\Section+, not \verb+\section+.  
+Also note that there must be no blank lines between a 
+\verb+\Section{}+ command and the the paragraph text, 
+\eg
+\verb+\Section{bla bla}This begins a paragraph+\ldots
+This rule was necessary to assure that 
+the first paragraph of a section is indented, 
+as required by the university.
+
+\Section{How do I create subsubsubsection 3.5.3.1.1?}%
+%
+The template does not support subsubsubsections. 
+
+They are usually short and can often be included in the 
+higher-level subsubsection.  
+A sentence or two could make the transition for the
+reader in lieu of a subsubsubsection title.
+
+An alternative workaround is to use an {\tt enumerate} environment
+to create a numbered list.  See your \LaTeX\ book for details.
+
+
+\Section{Why are figure titles double spaced instead of single?}%
+%
+This template does not support figure captions, table captions, 
+or section titles that are more than one line
+in the table of contents, 
+list of figures, 
+or list of tables.  
+The solution is to shorten the titles to less than one line.  
+The extra information removed from a caption can be
+annotated inside the figure or table, 
+or can be in an ordinary paragraph that explains the figure or table.
+
+Some journals use a block-caption style, where the caption explains the figure or table.  This template does not support block-caption style, because the University's requirements for the List of Figures and List of Tables are incompatible with this style.
+
+\Section{How do I fix not enough memory for figures and tables?}%
+%
+A large number of figure/tables
+on consecutive pages causes \LaTeX\ to become confused due 
+to limited memory.  When you have numerous consecutive ``floats'' 
+(\ie figures or tables), you should have a \verb+\clearpage+ command
+between groups of three to five floats.   
+{\tt Clearpage} forces a page break and typesets all known floats
+beginning on the new page.  So you should position the {\tt clearpage}
+commands at points you want a page break to occur, 
+such as between consecutive figures.
+
+\Section{How can I refer to a list of equations, tables, or figures?}%
+See Sections~4.5, 4.7, and~4.8.
+Here are three examples of lists of references.
+
+\newspacing{\singlespacing}\begin{verbatim}
+\eqnsref{aaa}, \ref{eq:bbb}, \andeqnref{ccc}
+Tables~\ref{tab:aaa}, \ref{tab:bbb}, and~\ref{tab:ccc}
+Figures~\ref{fig:aaa}, \ref{fig:bbb}, and~\ref{fig:ccc}
+\end{verbatim}\newspacing{\defaultspacing}
+
+\Section{How can I make a table heading span more than one column?}%
+See your \LaTeX\ book for commands associated 
+with the tabular environment, 
+such as \verb+\multicolumn+.
+
+\Section{Why is a missing \$ inserted?}%
+%
+When your {\tt *.log} file has this warning,
+{\tt ! Missing \$ inserted.},
+this is most often caused by the use of underline characters in 
+nonmath mode.  
+If you have a filename, URL, \etc that has an underline in the
+middle of a paragraph, you must substitute \verb+\_+ 
+for the plain underline.  
+
+Plain underline is interpreted as a
+subscript command in math mode. 
+\LaTeX\ assumes you want to begin math mode.
+
+\Section{How can I typeset ``John Wiley \& Sons'' in a reference?}%
+BibTeX fields can have \LaTeX\ commands like paragraphs.  
+Ampersand is a special character.
+See your \LaTeX\ book for escape sequences for special characters, 
+such as \verb+\&+.
+
+\Section{How can I typeset a tilda in a URL?}%
+Tilda is a special character in \LaTeX.
+A ``similar'' symbol ($\sim$) looks good in URLs.  
+It is created by \verb+$\sim$+.  See Section 4.3.
+
+\Section{How can I change to single spacing?}%
+See Section~3.3.
+
+\Section{How can I change to bold and then back to normal print?}%
+{\sloppy
+See your \LaTeX\ book for commands associated with fonts,
+such as \verb+\bfseries+,  
+\verb+\mdseries+, 
+and \verb+\textbf+.
+
+} %end sloppy
+
+\Section{How can I create a superscript or subscript?}%
+See your \LaTeX\ book for math mode formatting symbols,
+such as \verb+^+ and \verb+_+.
+
+\Section{How can I make a fraction in an equation?}%
+See your \LaTeX\ book for math mode commands, 
+such as \verb+\frac+ in displayed equations.
+Stacked fractions are ugly inline in paragraphs; 
+use / instead to represent division in paragraphs.
+
+\Section{How can I typeset all my references?}%
+{\sloppy
+Even though \LaTeX\ provides a \verb+\nocite+ command,
+which causes all references in the {\tt *.bib} file to be in the References section,
+I recommend that you just put a \verb+\cite+ command 
+for each reference in any convenient place in your draft document.  
+Later you can add the sentences to go with each citation.
+Because the university requires that all references be cited,
+your final thesis should not use 
+\verb+\nocite+ at all.
+
+} %end sloppy
+

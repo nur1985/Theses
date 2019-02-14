@@ -1,0 +1,339 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.7.6)  3 OCT 2009 16:21
+entering extended mode
+**C:/Users/nur/Desktop/Elog_Doc/Thesis/nur_kaon/kaon_writeup.tex
+(C:/Users/nur/Desktop/Elog_Doc/Thesis/nur_kaon/kaon_writeup.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2008-06-18, ngerman-x-2008-06-18, french, loaded.
+("C:\Program Files\MiKTeX 2.7\tex\latex\revtex4\revtex4.cls"
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+("C:\Program Files\MiKTeX 2.7\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\natbib\natbib.sty"
+Package: natbib 2009/02/02 8.3 (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\revtex4\revsymb.sty"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+("C:\Program Files\MiKTeX 2.7\tex\latex\revtex4\aps.rtx"
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\revtex4\11pt.rtx"
+File: 11pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2008/09/08 v0.04l Graphics/color for pdfTeX
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\tools\hhline.sty"
+Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
+) (kaon_writeup.aux
+
+LaTeX Warning: Label `table1' multiply defined.
+
+
+LaTeX Warning: Label `table1' multiply defined.
+
+
+LaTeX Warning: Label `table1' multiply defined.
+
+
+LaTeX Warning: Label `table1' multiply defined.
+
+
+LaTeX Warning: Label `table1' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+Class revtex4 Info: Patching LaTeX tabular. on input line 52.
+Class revtex4 Info: cite was not loaded (OK!) on input line 52.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 52.
+ ("C:\Program Files\MiKTeX 2.7\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen104
+\scratchbox=\box34
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen105
+\MPnumerator=\count98
+\everyMPtoPDFconversion=\toks18
+) <MSU_logo.png, id=1, 271.0125pt x 159.59625pt>
+File: MSU_logo.png Graphic file (type png)
+ <use MSU_logo.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 124.
+ [1{C:/ProgramData/MiKTeX/2.7/pdftex/config/pdftex.map} <MSU_logo.png>] (kaon_w
+riteup.toc
+Overfull \hbox (5.95001pt too wide) detected at line 8
+ \OT1/cmr/m/n/10.95 10
+ []
+
+
+Overfull \hbox (5.95001pt too wide) detected at line 9
+ \OT1/cmr/m/n/10.95 11
+ []
+
+
+Overfull \hbox (5.95001pt too wide) detected at line 10
+ \OT1/cmr/m/n/10.95 13
+ []
+
+
+Overfull \hbox (5.95001pt too wide) detected at line 11
+ \OT1/cmr/m/n/10.95 13
+ []
+
+
+Overfull \hbox (5.95001pt too wide) detected at line 12
+ \OT1/cmr/m/n/10.95 15
+ []
+
+
+Overfull \hbox (5.95001pt too wide) detected at line 13
+ \OT1/cmr/m/n/10.95 19
+ []
+
+
+Overfull \hbox (5.95001pt too wide) detected at line 14
+ \OT1/cmr/m/n/10.95 20
+ []
+
+)
+\tf@toc=\write3
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 130.
+
+ ("C:\Program Files\MiKTeX 2.7\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+ [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 149.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 149.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 149.
+ [4] [5]
+[6] <HALC_33.jpg, id=35, 2107.875pt x 852.18375pt>
+File: HALC_33.jpg Graphic file (type jpg)
+ <use HALC_33.jpg> [7 <HALC_33.jpg>] [8] <cointime1.png, id=45, 355.0866pt x 26
+2.0992pt>
+File: cointime1.png Graphic file (type png)
+
+<use cointime1.png> <cointime.png, id=46, 398.99063pt x 414.04688pt>
+File: cointime.png Graphic file (type png)
+
+<use cointime.png> [9 <cointime1.png> <cointime.png (PNG copy)>]
+<reaction.png, id=51, 278.9622pt x 129.6042pt>
+File: reaction.png Graphic file (type png)
+ <use reaction.png>
+<missmass.png, id=52, 398.99063pt x 414.04688pt>
+File: missmass.png Graphic file (type png)
+ <use missmass.png> [10 <reaction.png> <missmass.png (PNG copy)>] <pid1.png, id
+=58, 327.624pt x 277.9986pt>
+File: pid1.png Graphic file (type png)
+
+<use pid1.png> <pid2.png, id=59, 323.7696pt x 277.5168pt>
+File: pid2.png Graphic file (type png)
+ <use pid2.png>
+<coin_miss.png, id=60, 398.99063pt x 414.04688pt>
+File: coin_miss.png Graphic file (type png)
+ <use coin_miss.png> [11 <pid1.png> <pid2.png>] [12 <coin_miss.png (PNG copy)>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--304
+
+ []
+
+<missmass2.png, id=69, 398.99063pt x 414.04688pt>
+File: missmass2.png Graphic file (type png)
+ <use missmass2.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 317.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 317.
+
+<missmass3.png, id=70, 398.99063pt x 414.04688pt>
+File: missmass3.png Graphic file (type png)
+ <use missmass3.png> [13]
+[14 <missmass2.png (PNG copy)> <missmass3.png (PNG copy)>] [15]
+<w_1.png, id=82, 398.99063pt x 414.04688pt>
+File: w_1.png Graphic file (type png)
+ <use w_1.png>
+<w_2.png, id=83, 398.99063pt x 414.04688pt>
+File: w_2.png Graphic file (type png)
+ <use w_2.png> [16 <w_1.png (PNG copy)> <w_2.png>] <t_1.png, id=88, 398.99063pt
+ x 414.04688pt>
+File: t_1.png Graphic file (type png)
+ <use t_1.png>
+<t_2.png, id=89, 398.99063pt x 414.04688pt>
+File: t_2.png Graphic file (type png)
+ <use t_2.png> [17 <t_1.png (PNG copy)> <t_2.png>] <phipq_1.png, id=94, 398.990
+63pt x 414.04688pt>
+File: phipq_1.png Graphic file (type png)
+
+<use phipq_1.png> <phipq_2.png, id=95, 398.99063pt x 414.04688pt>
+File: phipq_2.png Graphic file (type png)
+
+<use phipq_2.png> [18 <phipq_1.png (PNG copy)> <phipq_2.png>] [19]
+<transp.png, id=105, 509.905pt x 527.9725pt>
+File: transp.png Graphic file (type png)
+ <use transp.png>
+Overfull \hbox (26.44534pt too wide) in paragraph at lines 410--417
+ []$[]$ 
+ []
+
+
+Overfull \hbox (7.34946pt too wide) in paragraph at lines 426--433
+ []$[]$ 
+ []
+
+
+Overfull \hbox (20.30646pt too wide) in paragraph at lines 442--449
+ []$[]$ 
+ []
+
+
+Overfull \hbox (19.75089pt too wide) in paragraph at lines 458--465
+ []$[]$ 
+ []
+
+
+Overfull \hbox (8.9592pt too wide) in paragraph at lines 474--481
+ []$[]$ 
+ []
+
+<alpha.png, id=106, 503.8825pt x 527.9725pt>
+File: alpha.png Graphic file (type png)
+ <use alpha.png> [20 <transp.png (PNG copy)>] [21 <alpha.png (PNG copy)>] (kaon
+_writeup.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2703 strings out of 95304
+ 33454 string characters out of 1183071
+ 109257 words of memory out of 1500000
+ 5908 multiletter control sequences out of 110000
+ 11002 words of font info for 38 fonts, out of 3000000 for 5000
+ 14 hyphenation exceptions out of 8191
+ 25i,8n,22p,1578b,292s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx10.pfb><C:/Program Fi
+les/MiKTeX 2.7/fonts/type1/bluesky/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.7/f
+onts/type1/bluesky/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/blues
+ky/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmmi6.pfb>
+<C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmmi7.pfb><C:/Program Files
+/MiKTeX 2.7/fonts/type1/bluesky/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.7/fonts
+/type1/bluesky/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm
+/cmr12.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr17.pfb><C:/Pr
+ogram Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmr6.pfb><C:/Program Files/MiKTeX
+ 2.7/fonts/type1/bluesky/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/b
+luesky/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsy10.p
+fb><C:/Program Files/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsy6.pfb><C:/Program Fi
+les/MiKTeX 2.7/fonts/type1/bluesky/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.7/fo
+nts/type1/bluesky/cm/cmti10.pfb>
+Output written on kaon_writeup.pdf (21 pages, 524730 bytes).
+PDF statistics:
+ 168 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,14 @@
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{2}{}
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}\relax \fontsize {14.4}{18}\selectfont Introduction}{6}{}
+\contentsline {section}{\numberline {II}\relax \fontsize {14.4}{18}\selectfont Experiment}{7}{}
+\contentsline {section}{\numberline {III}\relax \fontsize {14.4}{18}\selectfont Analysis}{8}{}
+\contentsline {subsection}{\numberline {A}Coincidence Time:}{9}{}
+\contentsline {subsection}{\numberline {B}Missing Mass:}{10}{}
+\contentsline {subsection}{\numberline {C}Cherenkov:}{11}{}
+\contentsline {section}{\numberline {IV}\relax \fontsize {14.4}{18}\selectfont Results}{13}{}
+\contentsline {subsection}{\numberline {A}Basics}{13}{}
+\contentsline {subsection}{\numberline {B}The four different variables comparison between SIMC and data for Hydrozen:}{15}{}
+\contentsline {subsection}{\numberline {C}The four different variables comparison between SIMC and data for Liquid Deuterium:}{19}{}
+\contentsline {subsection}{\numberline {D}The nuclear transparency for different targets}{20}{}
