@@ -1,0 +1,57 @@
+%chapappendix.tex
+%
+%Appendices are written like the body of the paper using
+%\verb+\chapter+.
+%\LaTeX\ numbers them with capital letters.
+%If there is only one appendix, 
+%then use \verb+\oneappendix+ instead of \verb+\chapter+
+%so that the table of contents is properly formatted.
+%
+%The MSU library requires that each appendix have a 
+%separator page.  The following lines in 
+%{\tt examplethesis.tex} achieve this.
+%
+%\newspacing{\singlespacing}\begin{verbatim}
+%%MSU library requires title page for each appendix
+%\renewcommand{\appendixname}{\vspace*{2.5in}Appendix} 
+%%for appendix title page
+%\oneappendix{An Example} %for a single appendix
+%%\chapter{An Appendix Title} 
+%%alternative for each of multiple appendices
+%\newpage %end of appendix title page
+%\input{exappendix} %content of appendix
+%\end{verbatim}\newspacing{\defaultspacing}
+%
+%The \verb+\vspace*+ command provides 
+%the proper layout of the title page.
+%This example has only one appendix.  
+%Therefore, the
+%\verb+\oneappendix+ command is used.
+%The \verb+\newpage+ command forces a page break
+%after the title page.
+%If you have multiple appendices, then
+%use the \verb+\chapter+ command for each appendix
+%instead of \verb+\oneappendix+,
+%and put \verb+\newpage+ after each \verb+\chapter+ command.
+
+\Section{Transparency with Respect to Hydrogen}%
+\label{Transparency with respect to Hydrogen}
+Transparency of kaon with respect to free-nucleon cross section for three kinematics for all the targets is shown in \Tableref{t_2}. We used hydrogen cross section as the free-nucleon cross section. The total uncertainty has been taken as the quadrature sum of the statistical and systematic uncertainty. The different targets are shown by different colors as: BLACK- $LD_2$, RED- carbon, GREEN- copper and BLUE- gold for three different kinematics ($Q^2$= 1.1, 2.2 and 3.0 $(\mathrm{GeV/c})^2$). In \figureref{transp1}, the inner bar shows the statistical uncertainty and outer bar shows the systematic uncertainty and total uncertainty as quadrature sum these two.
+
+\begin{figure}[!tbp]
+  \centering
+  \includegraphics[width=0.8\columnwidth]{transp1}
+  \caption[Nuclear transparency with respect to $H_2$ target.]{\label{fig:transp1}Nuclear transparency with respect to $H_2$ target.\\\\ Copper, carbon and $LD_2$ are shifted by -0.05, 0.05 and -0.10 $(\mathrm{GeV/c})^2$ in $Q^2$, respectively, for convenience.}
+\end{figure}
+%\setlength{\figwidth}{0.8\linewidth}
+%\Figure{transp1}{\figwidth}{Nuclear transparency for different targets. Copper, carbon and $LD_2$ are shifted by -0.05, 0.05 and -0.10 $(\mathrm{GeV/c})^2$ in $Q^2$, respectively, for convenience.}
+
+\Table{t_1}{Cross section for hydrogen for different $Q^2$ for kaons.}
+
+%\begin{table}
+%  \caption[T and $\sigma_{eff}$ for different targets with respect to $H_2$.]{\label{tab:t_2}T and $\sigma_{eff}$ for different targets with respect to $H_2$.\\\\ Different kinematic settings for kaons with respect to the free space cross section are shown here.}
+%\include{t_2}
+%\end{table}
+\Table{t_2}{T and $\sigma_{eff}$ for different targets with respect to $H_2$.}
+
+\Table{t_3}{Cross section for deuterium for different $Q^2$ for kaons.}
