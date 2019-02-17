@@ -1,0 +1,1946 @@
+@Article{1,
+  author =	 "H. Geiger and E. Marsden",
+  title =	 "%%On a diffuse reflection of the $\alpha$ particles%%",
+  journal =	 "\emph{Proceedings of the Royal Society of London}",
+  volume =	 "Series A 82, 495 (1909)"
+  page =         "%%495%%",
+  year =	 "%%1909%%",
+}
+
+@Article{2,
+  author =	 "Rutherford, E.",
+  title =	 "%%The scattering of $\alpha$ and $\beta$ particles by matter and%% %%the%% %%structure of the atom%%",
+  journal =	 "\emph{Philosophical Magazine}",
+  volume =	 "21, 669-688 (1911)"
+  page =         "%%669-688%%",
+  year =         "%%1911%%",
+}
+
+@Article{3,
+  author =	 "H. Geiger and E. Marsden",
+  title =	 "%%The laws of deflection of $\alpha$ particles though%%
+                  %%large%% %%angles%%",
+  journal =	 "\emph{Philosophical Magazine}",
+  volume =	 "25, 148 (1913)"
+  page =         "%%148%%",
+  year =         "%%1913%%",
+}
+
+@Article{4,
+  author =	 "O. Stern",
+  title =	 "",
+  journal =	 "\emph{Nature}",
+  volume =	 "132, 169 (1933)"
+}
+
+@inproceedings{5,
+  author =	 "Francis Halzen and Alan D. Martin",
+  title =	 "{Quark and Leptons: An Introductory Course in Modern
+                  Particle Physics}",
+  publisher =	 "John Wiley and Sons, (1984)"
+}
+
+@inproceedings{6,
+  author =	 "M. Amaryan",
+  title =	 "Class notes, (2007)"
+}
+
+@inproceedings{7,
+  author =	 "Michael E. Peskin and Daniel V. Schroeder",
+  title =	 "{An Introduction to Quantum Field Theory}",
+  publisher =	 "Westview Press, (1995)"
+}
+
+@Article{8,
+  author =	 "C. Amsler \emph{et al.}",
+  title =	 "({Particle Data Group), ``2008 Review of Particle
+                  Physics"}",
+  journal =	 "\emph{Phys. Lett. B 667}",
+  volume =	 "1 (2008)",
+}
+
+@inproceedings{9,
+  author =	 "D. Griffiths",
+  title =	 "{Introduction to Elementary Particles}",
+  publisher =	 "John Wiley and Sons Inc, (1987)"
+}
+
+@Article{10,
+  author =	 "Hofstadter, Robert and McAllister, Robert W.",
+  title =	 "%%{Electron Scattering from the Proton}%%",
+  journal =	 "\emph{American Physical Society, Phys. Rev. 98,
+                   217-218 (1955)}"
+  pages  =       "%%217-218 (1955)%%",
+}
+
+@Article{11,
+  author =	 "Robert Hofstadter and Robert McAllister ",
+  title =	 "%%{Elastic Scattering of 188-MeV electrons from the%%
+                  %%Proton and%% %%the Alpha Particle}%%",
+  journal =	 "\emph{Phys. Rev. 102, 851 (1956)}"
+  pages  =       "%%851 (1956)%%",
+}
+
+@Article{12,
+  author =	 "Robert Hofstadter",
+  title =	 "%%{Electron Scattering and Nuclear Structure}%%",
+  journal =	 "\emph{Rev. of Mod. Phys. 28(3), 214 (1956)}"
+  volume =	 "%%3 (1956)%%",
+  page   =       "%%214%%",
+}
+
+@Article{13,
+  author =	 "S. D. Drell and J. D. Walecka",
+  title =	 "%%{Electrodynanic Processes with Nuclear Targets}%%",
+  journal =	 "\emph{Ann. Phys. 28, 18-33 (1964)}"
+  page =         "%%18-33 (1964)%%",
+}
+
+@Article{14,
+  author =	 "M. Anselmino and A. Efremov and E. Leader",
+  title =	 "%%{The theory and phenomenology of polarized deep%%
+                  %%inelastic%% %%scattering}%%",
+  journal =	 "\emph{Physics Reports}",
+  volume =	 "261(1-2), 1-124 (1995)"
+  pages =        "%%1-124%%",
+  year  =        "%%1995%%",
+}
+
+@inproceedings{15,
+  author =	 "Amitabha Lahiri and Palash B. Pal",
+  title =	 "{A First Book Of Quantum Field Theory}",
+  publisher =	 "CRC Press, (2001)"
+}
+
+@Article{16,
+  author =	 "C. M. Maekawa and U. Van Kolck",
+  journal =	 "\emph{Phys. Lett. B 478, 73 (2000)}"
+  pages =          "%%73 (2000)%%",
+}
+
+@Article{17,
+  author =	 "W. H. Hockings and U. Van Kolck",
+  title =	 "%%{The electric dipole form factor of the nucleon}%%",
+  journal =	 "\emph{Phys. Lett. B 605, 273-278 (2005)}"
+  pages  =       "%%273-278%% %%(2005)%%",
+}
+
+@Article{18,
+  author =	 "M. N. Rosenbluth",
+  title =	 "%%{High energy elastic scattering of electrons on%%
+                  %%protons.}%%",
+  journal =	 "\emph{Phys. Rev. 79(4), 615 (1950)}"
+  volume =	 "%%4%%",
+  pages =         "%%615 (1950)%%",
+}
+
+@Article{19,
+  author =	 "A. I. Akhiezer and M. P. Rekalo",
+  title =	 "%%{polarization phenomena in electron scattering by%%
+                  %%protons in%% %%the high-energy region.}%%",
+  journal =	 "\emph{Sov. Phys. Doklady Akademii Nauk SSSR. 180}",
+  volume =	 "5, 1081 (1968)"
+  pages =         "%%1081 (1968)%%",
+}
+
+@Article{20,
+  author =	 "A. I. Akhiezer and M. P. Rekalo",
+  title =	 "%%{polarization effects in the scattering of leptons%%
+                  %%by%% %%hadrons.}%%",
+  journal =	 "\emph{Sov. J. Part. Nucl. 3, 277 (1974)}"
+  volume =	 "%%3:277 (1974)%%",
+}
+
+@Article{21,
+  author =	 "Norman Dombey",
+  title =	 "%%{scattering of polarized leptons at high energy.}%%",
+  journal =	 "\emph{Rev. Mod. Phys. 41, 236 (1969)}"
+  volume =	 "%%1%%",
+  pages =         "%%236 (1969)%%",
+}
+
+@Article{22,
+  author =	 "Carl E. Carlson and Raymond G. Arnold and Franz
+                  Gross.",
+  title =	 "%%{polarization transfer in elastic electron%%
+                  %%scattering from%% %%nucleus and deuterons.}%%",
+  journal =	 "\emph{Phys. Rev. C 23, 363 (1981)}"
+  volume =	 "%%1%%",
+  pages =         "%%363 (1981)%%",
+}
+
+@Article{23,
+  author =	 "Andrew J. R. Puckett",
+  title =	 "{Recoil polarization Measurements of the Proton
+                  Electromagnetic Form Factor Ratio to High Momentum
+                  Transfer.}",
+  journal =	 "",
+  volume =	 "Ph.D. theses, Massachusetts Institute of Technology,
+                  (2010)"
+}
+
+@Article{24,
+  author =	 "T. W. Donnelly and A. S. Raskin",
+  title =	 "%%{Considerations of polarization in inclusive%%
+                  %%electron%% %%scattering from nuclei.}%%",
+  journal =	 "\emph{Ann. of Phys. 169:247, 191:78 (1986)}"
+  volume =	 "%%169:247; 191:78 (1986)%%",
+}
+
+@Article{25,
+  author =	 "M. Kohl",
+  title =	 "{new paper- Elastic form factor experiments: a
+                  serial story}",
+  journal =	 ""
+}
+@Article{tp1,
+  author =	 "{S. D. Drell and S. Fubini}",
+  title =	 "",
+  journal =	 "\emph{Phys. Rev. 113, 741 (1959)}"
+  pages =         "%%741 (1959)%%",
+}
+@Article{tp2,
+  author =	 "{G. K. Greenhut}",
+  title =	 "",
+  journal =	 "\emph{Phys. Rev. 184, 1840 (1969)}"
+  pages =         "%%1840 (1969)%%"
+}
+@article{89,
+      author         = "P. A. M. Guichon and M. Vanderhaeghen",
+      title          = "%%{How to reconcile the Rosenbluth and the polarization%%
+                        %%transfer%% %%method in the measurement of the proton%%
+                        %%form-factors}%%",
+      journal        = "\emph{Phys. Rev. Lett. 91, 142303 (2003)}"
+      pages          = "%%142303 (2003)%%",
+      doi            = "10.1103/PhysRevLett.91.142303",
+      eprint         = "hep-ph/0306007",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "DAPNIA-03-109, MKPH-T-03-09",
+      SLACcitation   = "%%CITATION = HEP-PH/0306007;%%",
+}
+
+@Article{26,
+  author =	 "I. A. Qattan \emph{et al.}",
+  title =	 "",
+  journal =	 "\emph{Phys. Rev. Lett. 94, 142301 (2005)}"
+  pages =	 "%%142301 (2005)%%",
+}
+@Article{27,
+  author =	 "{M. E. Christy \emph{et al.}}",
+  title =	 "",
+  journal =	 "\emph{Phys. Rev. C 70, 015206 (2004)}"
+  pages =	 "%%015206 (2004)%%",
+}
+@Article{28,
+  author =	 "L. Andivahis \emph{et al.}",
+  title =	 "%%{Measurements of the electric and magnetic form%%
+                  %%factors of%% %%the%% %%proton from $Q^2=1.75 to 8.83%%
+                  %%(GeV/c)^2$}%%",
+  journal =	 "\emph{Phys. Rev. Lett. D 50, 5491 (1994)}"
+  pages =	 "%%5491 (1994)%%",
+  year =	 "%%1994%%"
+}
+@Article{29,
+  author = 	 "R. C. Walker \emph{et al.}",
+  title = 	 "%%{Measurements of the proton elastic form factors for%% 
+                  %%$ 1 \le%% %%Q^2 \le 3 (GeV/c)^2$ at SLAC}%%",
+  journal =     "\emph{Phys. Rev. Lett. D 49, 5671 (1994)}"
+  pages = "%%5671 (1994)%%",
+}
+@Article{30,
+  author = 	 "F. Borkowski \emph{et al.}",
+  title = 	 "%%{Electromagnetic form factors of the proton%% 
+                  %%at law%% %%four-momentum transfer (II)}%%",
+  journal =     "\emph{Nucl. Phys. B 93, 461 (1975)}"
+  pages = "%%461 (1975)%%",
+}
+@Article{31,
+  author = 	 "F. Borkowski \emph{et al.}",
+  title = 	 "",
+  journal =     "\emph{Nucl. Phys. A 222, 269 (1974)}"
+  pages = "%%269 (1974)%%",
+}
+@Article{32,
+  author = 	 "W. Bartel \emph{et al.}",
+  title = 	 "%%{Measurement of proton and nutron electromagnetic%%
+                  %%form%% %%factors%% %%at squared%% %%four-momentum transfers up%%
+                  %%to 3%% %%(GeV/c)$^2$}%%",
+  journal =     "\emph{Nucl. Phys. B 58, 429 (1973)}"
+  pages = "%%429 (1973)%%",
+}
+@Article{33,
+  author = 	 "C. Berger \emph{et al.}",
+  title = 	 "%%{Electromagnetic form factors of the proton%% 
+                  %%at squared%% %%four-momentum transfers between 10 and 50 $fm^{-2}$}%%",
+  journal =     "\emph{Phys. Lett. B 35, 87 (1971)}"
+  pages = "%%87 (1971)%%",
+}
+@Article{34,
+  author = 	 "J. Litt \emph{et al.}",
+  title = 	 "",
+  journal =     "\emph{Phys. Lett. B 31, 40 (1970)}"
+  pages = "%%40 (1970)%%",
+}
+@Article{35,
+  author = 	 "T. Janssens \emph{et al.}",
+  title = 	 "%%{proton form factors from elastic electron-proton scattering.}%%",
+  journal =     "\emph{Phys. Rev. 142, 922 (1966)}"
+  pages = "%%922 (1966)%%",
+}
+@Article{36,
+  author = 	 "G. G. Simon \emph{et al.}",
+  title = 	 "%%{Absolute electron-proton cross sections at low momentum%%
+                 %%transfer measured with a high pressure gas target system.}%%",
+  journal =     "\emph{Nucl. Phys. A, 333-381 (1980)}"
+  pages = "%%333:381 (1980)%%",
+}
+@Article{37,
+  author = 	 "J. J. Murphy and  Y. M. Shin and D. M. Skopik",
+  title = 	 "",
+  journal =     "\emph{Phys. Rev. C 9, 2125 (1974)}"
+  pages = "%%2125 (1974)%%", 
+}
+@Article{38,
+  author = 	 "A. F. Sill \emph{et al.}",
+  title = 	 "%%{Measurements of elastic electron-proton scattering%%
+                  %%at large%% %%momentum transfer.}%%",
+  journal =     "\emph{Phys. Rev. D 48, 29 (1993)}"
+  pages = "%%29 (1993)%%",
+}
+@article{39,
+  title = "%%{Measurements of the deuteron and proton magnetic form factors%%
+            %%at large momentum transfers}%%",
+  author = {P. E. Bosted \emph{et al.} },
+  journal = {\emph{Phys. Rev. C 42(1), 38-64 (1990)}}
+  issue = "%%{1}%%",
+  pages = "%%38-64 (1990)%%",
+  doi = {10.1103/PhysRevC.42.38},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.42.38},
+  publisher = {American Physical Society}
+}
+@article{40,
+  title = "%%{Simple parametrization of nucleon form factors}%%",
+  author = {Kelly, J. J.},
+  journal = {\emph{Phys. Rev. C 70(6), 068202 (2004)}}
+  issue = "%%{6}%%",
+  pages = "%%{068202%% %%(2004)}%%",
+  doi = {10.1103/PhysRevC.70.068202},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.70.068202},
+  publisher = {American Physical Society}
+}
+@article{41,
+  title = "%%{Measurement of the Proton's Electric to Magnetic Form%%
+           %%Factor%% %%Ratio from}%%",
+  author = {C. B. Crawford  \emph{et al.}},
+  journal = {\emph{Phys. Rev. Lett. 98(5), 052301 (2007)}}
+  issue = "%%{5}%%",
+  pages = "%%{052301%% %%(2007)}%%",
+  doi = {10.1103/PhysRevLett.98.052301},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.98.052301},
+  publisher = {American Physical Society}
+}
+@article{42,
+  title = "%%{Proton ${G}_{E}/{G}_{M}$ from beam-target asymmetry}%%",
+  author = {M. K. Jones  \emph{et al.} },
+  collaboration = {(Resonance Spin Structure Collaboration)},
+  journal = {\emph{Phys. Rev. C 74(3), 035201 (2006)}}
+  issue = "%%{3}%%",
+  pages = {035201 (2006)},
+  doi = {10.1103/PhysRevC.74.035201},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.74.035201},
+  publisher = {American Physical Society}
+}
+@article{43,
+      author         = "M. Meziane \emph{et al.}",
+      title          = "%%{Search for effects beyond the Born approximation in%%
+                        %%polarization transfer observables in $\vec{e}p$ elastic%%
+                        %%scattering}%%",
+      collaboration  = "(GEp2$\gamma$ Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 106, 132501 (2011)}"
+      pages          = "%%132501 (2011)%%",
+      doi            = "10.1103/PhysRevLett.106.132501",
+      eprint         = "1012.0339",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-10-1280",
+}
+@article{44,
+  title = "%%{Recoil Polarization Measurements of the Proton%%
+           %%Electromagnetic%% %%Form Factor Ratio to %%
+           %%${Q}^{2}=8.5\text{\,}\text{\,}{\mathrm{GeV}}^{2}$}%%",
+  author = {A. J. R. Puckett  \emph{et al.} },
+  journal = {\emph{Phys. Rev. Lett. 104(24), 242301 (2010)}}
+  issue = "%%{24}%%",
+  pages = "%%242301 (2010)%%",
+  doi = {10.1103/PhysRevLett.104.242301},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.104.242301},
+  publisher = {American Physical Society}
+}
+@article{46,
+  title = "%%{Proton elastic form factor ratios to ${Q}^{2}=3.5%%
+           %%\phantom{\rule{0.3em}{0ex}}\text{GeV}{}^{2}$ by%%
+           %%polarization%% %%transfer}%%",
+  author = {V. Punjabi and Perdrisat \emph{et al.} },
+  collaboration = {(Jefferson Lab Hall A Collaboration)},
+  journal = {\emph{Phys. Rev. C 71(5), 055202 (E) (2005)}}
+  issue = "%%{5}%%",
+  pages = "%%{055202%% %%(E) (2005)}%%",
+  doi = {10.1103/PhysRevC.71.055202},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.71.055202},
+  publisher = {American Physical Society}
+}
+@article{45,
+  title = "%%{Proton elastic form factor ratios to ${Q}^{2}=3.5%%
+           %%\phantom{\rule{0.3em}{0ex}}\text{GeV}{}^{2}$ by polarization%%
+           %%transfer}%%",
+  author = {V. Punjabi and C. F. Perdrisat \emph{et al.}},
+  collaboration = {(Jefferson Lab Hall A Collaboration)},
+  journal = {\emph{Phys. Rev. C 71(5), 069902 (2005)}}
+  issue = "%%{5}%%",
+  pages = "%%069902 (2005)%%",
+  doi = {10.1103/PhysRevC.71.055202},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.71.055202},
+  publisher = {American Physical Society}
+}
+@article{47,
+      author         = "M. K. Jones \emph{et al.}",
+      title          = "%%{G(E(p)) / G(M(p)) ratio by polarization transfer in%%
+                        %%polarized%% %%e p ---$\textgreater$ e polarized p}%%",
+      collaboration  = "(Jefferson Lab Hall A Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 84, 1398-1402 (2000) 
+                        (superseded by \cite{45,46})}"
+      pages          = "%%1398-1402 (2000) (superseded by \cite{45,46})%%",
+      doi            = "10.1103/PhysRevLett.84.1398",
+      year           = "%%2000 (superseded by \cite{45,46}%%",
+      eprint         = "nucl-ex/9910005",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-00-71",
+}
+@article{48,
+      author         = "Gayou, O. and others",
+      title          = "%%{Measurement of G(Ep) / G(Mp) in polarized%%
+                        %%-e p%% %%---$\textgreater$ e%%
+                        %%polarized-p to Q**2 = 5.6-GeV**2}%%",
+      collaboration  = "(Jefferson Lab Hall A Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 88, 092301 (2002)}"
+      pages          = "%%092301 (2002)%%",
+      doi            = "10.1103/PhysRevLett.88.092301",
+      eprint         = "nucl-ex/0111010",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-01-63",
+      SLACcitation   = "%%CITATION = NUCL-EX/0111010;%%",
+}
+@article{49,
+      author         = "M. Paolone \emph{et al.}",
+      title          = "%%{Polarization Transfer in the 4He(e,e'p)3H Reaction at%%
+                        %%$Q^{\wedge}2 = 0.8$ and $1.3 (GeV/c)^{\wedge}2$}%%",
+      journal        = "\emph{Phys. Rev. Lett. 105, 072001 (2010)}"
+      pages          = "%%072001 (2010)%%",
+      doi            = "10.1103/PhysRevLett.105.072001",
+      eprint         = "1002.2188",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-10-1127",
+      SLACcitation   = "%%CITATION = ARXIV:1002.2188;%%",
+}
+@article{50,
+      author         = "G. Ron \emph{et al.}",
+      title          = "%%{The Proton Elastic Form Factor Ratio mu(p)%%
+                        %%G**p(E)/G**p(M)%% %%at%% %%Low Momentum Transfer}%%",
+      journal        = "\emph{Phys. Rev. Lett. 99, 202002 (2007)}"
+      pages          = "%%202002 (2007)%%",
+      doi            = "10.1103/PhysRevLett.99.202002",
+      eprint         = "0706.0128",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-07-650",
+      SLACcitation   = "%%CITATION = ARXIV:0706.0128;%%",
+}
+@article{51,
+      author         = "Hu and B. and M. K. Jones \emph{et al.}",
+      title          = "%%{Polarization transfer in the H-2(polarized-e, e-prime%%
+                        %%polarized-p) n reaction up to Q**2 = 1.61-(GeV/c)**2}%%",
+      journal        = "\emph{Phys. Rev. C 73, 064004 (2006)}"
+      pages          = "064004 (2006)",
+      doi            = "10.1103/PhysRevC.73.064004",
+      eprint         = "nucl-ex/0601025",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-06-458",
+      SLACcitation   = "%%CITATION = NUCL-EX/0601025;%%",
+}
+@article{52,
+      author         = "S. Strauch \emph{et al.}",
+      title          = "%%{Polarization transfer in the He-4 (polarized-e, e-prime%%
+                        %%polarized-p) H-3 reaction up to Q**2 = 2.6-(GeV/c)**2}%%",
+      collaboration  = "(Jefferson Lab E93-049)",
+      journal        = "\emph{Phys. Rev. Lett. 91, 052301 (2003)}"
+      pages          = "052301 (2003)",
+      doi            = "10.1103/PhysRevLett.91.052301",
+      eprint         = "nucl-ex/0211022",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-02-44",
+      SLACcitation   = "%%CITATION = NUCL-EX/0211022;%%",
+}
+@article{53,
+      author         = "O. Gayou \emph{et al.}",
+      title          = "%%{Measurements of the elastic electromagnetic form-factor%%
+                        %%ratio%% %%mu(p) G(Ep) / G(Mp) via polarization transfer}%%",
+      journal        = "\emph{Phys. Rev. C 64, 038202 (2001)}"
+      pages          = "038202 (2001)",
+      doi            = "10.1103/PhysRevC.64.038202",
+      SLACcitation   = "%%CITATION = PHRVA,C64,038202;%%",
+}
+@article{54,
+      author         = "G. MacLachlan \emph{et al.}",
+      title          = "%%{The ratio of proton electromagnetic form factors via%%
+                        %%recoil%% %%polarimetry at Q**2 = 1.13-(GeV/c)**2}%%",
+      journal        = "\emph{Nucl. Phys. A 764, 261-273 (2006)}"
+      pages          = "261-273 (2006)",
+      doi            = "10.1016/j.nuclphysa.2005.09.012",
+      reportNumber   = "JLAB-THY-06-469",
+      SLACcitation   = "%%CITATION = NUPHA,A764,261;%%",
+}
+@article{55,
+      author         = "T. Pospischil \emph{et al.}",
+      title          = "%%{Measurement of G(E(p))/G(M(p)) via polarization transfer%%
+                        %%at%% %%Q**2 = 0.4-GeV/c**2}%%",
+      collaboration  = "(A1 Collaboration)",
+      journal        = "\emph{Eur. Phys. J. A 12, 125-127 (2001)}"
+      pages          = "125-127 (2001)",
+      doi            = "10.1007/s100500170046",
+      SLACcitation   = "%%CITATION = EPHJA,A12,125;%%",
+}
+@article{56,
+      author         = "S. Dieterich \emph{et al.}",
+      title          = "%%{Polarization transfer in the He-4(polarized-e, e-prime%%
+                        %%polarized-p)H-3 reaction}%%",
+      journal        = "\emph{Phys. Lett. B 500, 47-52 (2001)}"
+      pages          = "47-52 (2001)",
+      doi            = "10.1016/S0370-2693(01)00052-1",
+      eprint         = "nucl-ex/0011008",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-00-91",
+      SLACcitation   = "%%CITATION = NUCL-EX/0011008;%%",
+}
+@article{57,
+      author         = "B. D. Milbrath \emph{et al.}",
+      title          = "%%{A Comparison of polarization observables in electron%%
+                        %%scattering from the proton and deuteron}%%",
+      collaboration  = "(Bates FPP collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 80, 452-455 (1998)}"
+      pages          = "452-455 (1998)",
+      doi            = "10.1103/PhysRevLett.80.452",
+      eprint         = "nucl-ex/9712006",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/9712006;%%",
+}
+@article{58,
+      author         = "B. D. Milbrath \emph{et al.}",
+      title          = "%%{A Comparison of polarization observables in electron%%
+                        %%scattering from the proton and deuteron}%%",
+      collaboration  = "(Bates FPP collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 82, 2221 (E) (1999)}"
+      pages          = "2221 (E) (1999)",
+      doi            = "10.1103/PhysRevLett.80.452",
+      eprint         = "nucl-ex/9712006",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/9712006;%%",
+}
+@article{59,
+      author         = "S. Platchkov \emph{et al.}",
+      title          = "%%{DEUTERON A(Q**2) STRUCTURE FUNCTION AND THE NEUTRON%%
+                        %%ELECTRIC%% %%FORM-FACTOR}%%",
+      journal        = "\emph{Nucl. Phys. A 510, 740-758 (1990)}"
+      pages          = "740-758 (1990)",
+      doi            = "10.1016/0375-9474(90)90358-S",
+      SLACcitation   = "%%CITATION = NUPHA,A510,740;%%",
+}
+@article{60,
+      author         = "R. Schiavilla and I. Sick",
+      title          = "%%{Neutron charge form-factor at large q**2}%%",
+      journal        = "\emph{Phys. Rev. C 64, 041002 (2001)}"
+      pages          = "041002 (2001)",
+      doi            = "10.1103/PhysRevC.64.041002",
+      eprint         = "nucl-ex/0107004",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-THY-01-23",
+      SLACcitation   = "%%CITATION = NUCL-EX/0107004;%%",
+}
+@article{61,
+      author         = "B. Plaster \emph{et al.}",
+      title          = "%%{Measurements of the neutron electric to magnetic%%
+                        %%form-factor%% %%ratio G(En) / G(Mn) via the H-2(polarized-e,%%
+                        %%e-prime,polarized-n)H-1%% %%reaction to Q**2 =%%
+                        %%1.45-(GeV/c)**2}%%",
+      collaboration  = "(Jefferson Laboratory E93-038 Collaboration)",
+      journal        = "\emph{Phys. Rev. C 73, 025205 (2006)}"
+      pages          = "025205 (2006)",
+      doi            = "10.1103/PhysRevC.73.025205",
+      eprint         = "nucl-ex/0511025",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-06-504",
+      SLACcitation   = "%%CITATION = NUCL-EX/0511025;%%",
+}
+@article{62,
+      author         = "R. Madey \emph{et al.}",
+      title          = "%%{Measurements of G(E)n / G(M)n from the%%
+                        %%H-2(polarized-e,e-prime%% %%polarized-n) reaction to Q**2 =%%
+                        %%1.45%% %%(GeV/c)**2}%%",
+      collaboration  = "(E93-038 Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 91, 122002 (2003) (superseded by \cite{61})}"
+      pages          = "122002 (2003) (superseded by \cite{61})",
+      doi            = "10.1103/PhysRevLett.91.122002",
+      eprint         = "nucl-ex/0308007",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-03-224",
+      SLACcitation   = "%%CITATION = NUCL-EX/0308007;%%",
+}
+@article{63,
+      author         = "D. I. Glazier \emph{et al.}",
+      title          = "%%{Measurement of the electric form-factor of the neutron%%
+                        %%at%% %%Q**2%% %%= 0.3-(GeV/c)**2 to 0.8-(GeV/c)**2}%%",
+      journal        = "\emph{Eur. Phys. J. A 24, 101-109 (2005)}"
+      pages          = "101-109 (2005)",
+      doi            = "10.1140/epja/i2004-10115-8",
+      eprint         = "nucl-ex/0410026",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/0410026;%%",
+}
+@article{64,
+      author         = "M. Ostrick \emph{et al.}",
+      title          = "%%{Measurement of the neutron electric form-factor G(E,n)%%
+                        %%in%% %%the%% %%quasifree H-2(e(pol.),e' n(pol.))p reaction}%%",
+      journal        = "\emph{Phys. Rev. Lett. 83, 276-279 (1999)}"
+      pages          = "276-279 (1999)",
+      doi            = "10.1103/PhysRevLett.83.276",
+      SLACcitation   = "%%CITATION = PRLTA,83,276;%%",
+}
+@article{65,
+      author         = "C. Herberg \emph{et al.}",
+      title          = "%%{Determination of the neutron electric form-factor in the%%
+                        %%D(e,e' n)p reaction and the influence of nuclear binding}%%",
+      journal        = "\emph{Eur. Phys. J. A5, 131-135 (1999)}"
+      pages          = "131-135 (1999)",
+      doi            = "10.1007/s100500050268",
+      SLACcitation   = "%%CITATION = EPHJA,A5,131;%%",
+}
+@article{66,
+      author         = "T. Eden \emph{et al.} ",
+      title          = "%%{Electric form-factor of the neutron from the H-2 (e%%
+                        %%(polarized), e-prime n (polarized) ) H-1 reaction at Q**2%%
+                        %%=%% %%0.255-(GeV/c)**2}%%",
+      journal        = "\emph{Phys. Rev. C 50, 1749-1753 (1994)}"
+      pages          = "1749-1753 (1994)",
+      doi            = "10.1103/PhysRevC.50.R1749",
+      SLACcitation   = "%%CITATION = PHRVA,C50,1749;%%",
+}
+@article{67,
+      author         = "E. Geis \emph{et al.}",
+      title          = "%%{The Charge Form Factor of the Neutron at Low Momentum%%
+                        %%Transfer%% %%from the H-2-polarized (e-polarized, e-prime n) p%%
+                        %%Reaction}%%",
+      collaboration  = "(BLAST Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 101, 042501 (2008)}"
+      pages          = "042501 (2008)",
+      doi            = "10.1103/PhysRevLett.101.042501",
+      eprint         = "0803.3827",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = ARXIV:0803.3827;%%",
+}
+@article{68,
+      author         = "G. Warren \emph{et al.}",
+      title          = "%%{Measurement of the electric form-factor of the neutron%%
+                        %%at%% %%Q**2%% %%= 0.5-GeV**2/c**2 and 1.0-GeV**2/c**2}%%",
+      collaboration  = "(Jefferson Lab E93-026 Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 92, 042301 (2004)}"
+      pages          = "042301 (2004)",
+      doi            = "10.1103/PhysRevLett.92.042301",
+      eprint         = "nucl-ex/0308021",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-03-215",
+      SLACcitation   = "%%CITATION = NUCL-EX/0308021;%%",
+}
+@article{69,
+      author         = "H. Zhu \emph{et al.}",
+      title          = "%%{A Measurement of the electric form-factor of the neutron%%
+                        %%through polarized-d (polarized-e, e-prime n)p at Q**2 =%%
+                        %%0.5-(GeV/c)**2}%%",
+      collaboration  = "(E93026 Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 87, 081801 (2001)}"
+      pages          = "081801 (2001)",
+      doi            = "10.1103/PhysRevLett.87.081801",
+      eprint         = "nucl-ex/0105001",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-01-45",
+      SLACcitation   = "%%CITATION = NUCL-EX/0105001;%%",
+}
+@article{70,
+      author         = "I. Passchier \emph{et al.}",
+      title          = "%%{The Charge form-factor of the neutron from the reaction%%
+                        %%polarized H-2(polarized e, e-prime n) p}%%",
+      journal        = "\emph{Phys. Rev. Lett. 82, 4988-4991 (1999)}"
+      pages          = "4988-4991 (1999)",
+      doi            = "10.1103/PhysRevLett.82.4988",
+      eprint         = "nucl-ex/9907012",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-99-67",
+      SLACcitation   = "%%CITATION = NUCL-EX/9907012;%%",
+}
+@article{71,
+      author         = "S. Riordan \emph{et al.}",
+      title          = "%%{Measurements of the Electric Form Factor of the Neutron%%
+                        %%up%% %%to%% %%$Q^2=3.4 GeV^2$ using the Reaction%%
+                        %%$^3He^{-\textgreater}(e^{-\textgreater},e'n)pp$}%%",
+      journal        = "\emph{Phys. Rev. Lett. 105, 262302 (2010)}"
+      pages          = "262302 (2010)",
+      doi            = "10.1103/PhysRevLett.105.262302",
+      eprint         = "1008.1738",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-10-1201",
+      SLACcitation   = "%%CITATION = ARXIV:1008.1738;%%",
+}
+@article{72,
+      author         = "J. Bermuth \emph{et al.}",
+      title          = "%%{The Neutron charge form-factor and target analyzing%%
+                        %%powers%% %%from polarized-He-3 (polarized-e,e-prime n)%%
+                        %%scattering}%%",
+      journal        = "\emph{Phys. Lett. B 564, 199-204 (2003)}"
+      pages          = "199-204 (2003)",
+      doi            = "10.1016/S0370-2693(03)00725-1",
+      eprint         = "nucl-ex/0303015",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/0303015;%%",
+}
+@article{73,
+      author         = "D. Rohe \emph{et al.}",
+      title          = "%%{Measurement of the neutron electric form-factor G(en) at%%
+                        %%0.67-(GeV/c)**2 via He-3(pol.)(e(pol.),e' n)}%%",
+      journal        = "\emph{Phys. Rev. Lett. 83, 4257-4260 (1999) (superseded by \cite{72})}"
+      pages          = "4257-4260 (1999) (superseded by \cite{72})",
+      doi            = "10.1103/PhysRevLett.83.4257",
+      SLACcitation   = "%%CITATION = PRLTA,83,4257;%%",
+}
+@article{74,
+      author         = "J. Golak \emph{et al.}",
+      title          = "%%{Extraction of electromagnetic neutron form-factors%%
+                        %%through%% %%inclusive and exclusive polarized electron%%
+                        %%scattering on polarized%% %%He-3%% %%target}%%",
+      journal        = "\emph{Phys. Rev. C 63, 034006 (2001) (Applying FSI corrections to \cite{75})}"
+      pages          = "034006 (2001) (Applying FSI corrections to \cite{75})",
+      doi            = "10.1103/PhysRevC.63.034006",
+      eprint         = "nucl-th/0008008",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = NUCL-TH/0008008;%%",
+}
+@article{75,
+      author         = "J. Becker \emph{et al.}",
+      title          = "%%{Determination of the neutron electric form-factor from%%
+                        %%the% %%reaction He-3(e,e' n) at medium momentum transfer}%%",
+      journal        = "\emph{Eur. Phys. J. A 6, 329-344 (1999) (without FSI corrections)}"
+      pages          = "329-344 (1999) (without FSI corrections)",
+      doi            = "10.1007/s100500050351",
+      SLACcitation   = "%%CITATION = EPHJA,A6,329;%%",
+}
+@article{76,
+      author         = "A. Lung \emph{et al.}",
+      title          = "%%{Measurements of the electric and magnetic form-factors%%
+                        %%of%% %%the%% %%neutron from Q**2 = 1.75-GeV/c**2 to 4-GeV/c**2}%%",
+      journal        = "\emph{Phys. Rev. Lett. 70, 718-721 (1993)}"
+      pages          = "718-721 (1993)",
+      doi            = "10.1103/PhysRevLett.70.718",
+      reportNumber   = "SLAC-PUB-5861",
+      SLACcitation   = "%%CITATION = PRLTA,70,718;%%",
+}
+@article{77,
+      author         = "P. Markowitz \emph{et al.}",
+      title          = "%%{Measurement of the magnetic form-factor of the neutron}%%",
+      journal        = "\emph{Phys. Rev. C 48, 5-9 (1993)}"
+      pages          = "5-9 (1993)",
+      doi            = "10.1103/PhysRevC.48.R5",
+      SLACcitation   = "%%CITATION = PHRVA,C48,5;%%",
+}
+@article{78,
+      author         = "S. Rock \emph{et al.}",
+      title          = "%%{Measurement of Elastic electron - Neutron Cross-Sections%%
+                        %%Up%% %%to%% %%Q**2 = 10-(GeV/c)**2}%%",
+      journal        = "\emph{Phys. Rev. Lett. 49, 1139 (1982)}"
+      pages          = "1139 (1982)",
+      doi            = "10.1103/PhysRevLett.49.1139",
+      reportNumber   = "SLAC-PUB-2949",
+      SLACcitation   = "%%CITATION = PRLTA,49,1139;%%",
+}
+@article{79,
+      author         = "K. M. Hanson \emph{et al.}",
+      title          = "%%{Large angle quasielastic electron-deuteron scattering}%%",
+      journal        = "\emph{Phys. Rev. D 8, 753-778 (1973)}"
+      pages          = "753-778 (1973)",
+      doi            = "10.1103/PhysRevD.8.753",
+      SLACcitation   = "%%CITATION = PHRVA,D8,753;%%",
+}
+@article{80,
+      author         = "J. Lachniet \emph{et al.}",
+      title          = "%%{A Precise Measurement of the Neutron Magnetic Form%%
+                        %%Factor%% %%G**n(M)in the Few-GeV**2 Region}%%",
+      collaboration  = "(CLAS Collaboration)",
+      journal        = "\emph{Phys. Rev. Lett. 102, 192001 (2009)}"
+      pages          = "192001 (2009)",
+      doi            = "10.1103/PhysRevLett.102.192001",
+      eprint         = "0811.1716",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-08-911",
+      SLACcitation   = "%%CITATION = ARXIV:0811.1716;%%",
+}
+@article{81,
+      author         = "G. Kubon \emph{et al.}",
+      title          = "%%{Precise neutron magnetic form-factors}%%",
+      journal        = "\emph{Phys. Lett. B 524, 26-32 (2002)}"
+      pages          = "26-32 (2002)",
+      doi            = "10.1016/S0370-2693(01)01386-7",
+      eprint         = "nucl-ex/0107016",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/0107016;%%",
+}
+@article{82,
+      author         = "H. Anklin \emph{et al.}",
+      title          = "%%{Precise measurements of the neutron magnetic%%
+                        %%form-factor}%%",
+      journal        = "\emph{Phys. Lett. B 428, 248-253 (1998)}"
+      pages          = "248-253 (1998)",
+      doi            = "10.1016/S0370-2693(98)00442-0",
+      SLACcitation   = "%%CITATION = PHLTA,B428,248;%%",
+}
+@article{83,
+      author         = "E. E. W. Bruins \emph{et al.} ",
+      title          = "%%{Measurement of the neutron magnetic form-factor}%%",
+      journal        = "\emph{Phys. Rev. Lett. 75, 21-24 (1995)}"
+      pages          = "21-24 (1995)",
+      doi            = "10.1103/PhysRevLett.75.21",
+      SLACcitation   = "%%CITATION = PRLTA,75,21;%%",
+}
+@article{84,
+      author         = "H. Anklin \emph{et al.}",
+      title          = "%%{Precision measurement of the neutron magnetic%%
+                        %%form-factor}%%",
+      journal        = "\emph{Phys. Lett. B 336, 313-318 (1994)}"
+      pages          = "313-318 (1994)",
+      doi            = "10.1016/0370-2693(94)90538-X",
+      SLACcitation   = "%%CITATION = PHLTA,B336,313;%%",
+}
+@article{85,
+      author         = "B. Anderson \emph{et al.}",
+      title          = "%%{Extraction of the neutron magnetic form-factor from%%
+                        %%quasi-elastic polarized-He-3(polarized-e, e-prime) at Q**2%%
+                        %%= 0.1 -%% %%0.6%% %%(GeV/c)$^{\wedge}$2}%%",
+      collaboration  = "(Jefferson Lab E95-001 Collaboration)",
+      journal        = "\emph{Phys. Rev. C 75, 034003 (2007)}"
+      pages          = "034003 (2007)",
+      doi            = "10.1103/PhysRevC.75.034003",
+      eprint         = "nucl-ex/0605006",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-06-491",
+      SLACcitation   = "%%CITATION = NUCL-EX/0605006;%%",
+}
+@article{86,
+      author         = "W. Xu \emph{et al.}",
+      title          = "%%{PWIA extraction of the neutron magnetic form-factor from%%
+                        %%quasielastic polarized-He-3(polarized-e, e-prime) at Q**2%%
+                        %%=%% %%0.3-(GeV/c)**2 - 0.6-(GeV/c)**2}%%",
+      collaboration  = "(Jefferson Lab E95-001 Collaboration)",
+      journal        = "\emph{Phys. Rev. C 67, 012201 (2003) (supeseded by \cite{85})}"
+      pages          = "012201 (2003) (supeseded by \cite{85})",
+      doi            = "10.1103/PhysRevC.67.012201",
+      eprint         = "nucl-ex/0208007",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-02-96",
+      SLACcitation   = "%%CITATION = NUCL-EX/0208007;%%",
+}
+@article{87,
+      author         = "W. Xu \emph{et al.}",
+      title          = "%%{The Transverse asymmetry A(T-prime) from quasielastic%%
+                        %%polarized He-3 (polarized e, e-prime) process and the%%
+                        %%neutron%% %%magnetic%% %%form-factor}%%",
+      journal        = "\emph{Phys. Rev. Lett. 85, 2900-2904 (2000) (supeseded by \cite{85})}"
+      pages          = "2900-2904 (2000) (supeseded by \cite{85})",
+      doi            = "10.1103/PhysRevLett.85.2900",
+      eprint         = "nucl-ex/0008003",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-00-78",
+      SLACcitation   = "%%CITATION = NUCL-EX/0008003;%%",
+}
+@article{88,
+      author         = "H. Gao \emph{et al.}",
+      title          = "%%{Measurement of the neutron magnetic form-factor from%%
+                        %%inclusive%% %%quasielastic scattering of polarized electrons%%
+                        %%from%% %%polarized He-3}%%",
+      journal        = "\emph{Phys. Rev. C 50, 546-549 (1994)}"
+      pages          = "546-549 (1994)",
+      doi            = "10.1103/PhysRevC.50.R546",
+      SLACcitation   = "%%CITATION = PHRVA,C50,546;%%",
+}
+@article{90,
+      author         = "M. P. Rekalo and Egle Tomasi-Gustafsson",
+      title          = "%%{Model independent properties of two photon exchange in%%
+                        %%elastic%% %%electron proton scattering}%%",
+      journal        = "\emph{Eur. Phys. J. A 22, 331-336 (2004)}"
+      pages          = "331-336 (2004)",
+      doi            = "10.1140/epja/i2004-10039-3",
+      eprint         = "nucl-th/0307066",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = NUCL-TH/0307066;%%",
+}
+@article{91,
+      author         = "P. G. Blunden and W. Melnitchouk and J. A. Tjon",
+      title          = "%%{Two photon exchange and elastic electron proton%%
+                        %%scattering}%%",
+      journal        = "\emph{Phys. Rev. Lett. 91, 142304 (2003)}"
+      pages          = "142304 (2003)",
+      doi            = "10.1103/PhysRevLett.91.142304",
+      eprint         = "nucl-th/0306076",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "JLAB-THY-03-120",
+      SLACcitation   = "%%CITATION = NUCL-TH/0306076;%%",
+}
+@article{92,
+      author         = "P. G. Blunden and W. Melnitchouk and J. A. Tjon",
+      title          = "%%{Two-photon exchange in elastic electron-nucleon%%
+                        %%scattering}%%",
+      journal        = "\emph{Phys. Rev. C 72, 034612 (2005)}"
+      pages          = "034612 (2005)",
+      doi            = "10.1103/PhysRevC.72.034612",
+      eprint         = "nucl-th/0506039",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "JLAB-THY-05-372",
+      SLACcitation   = "%%CITATION = NUCL-TH/0506039;%%",
+}
+@article{93,
+      author         = "Y. C. Chen and A. Afanasev and S. J. Brodsky and
+                        C. E. Carlson and M. Vanderhaeghen",
+      title          = "%%{Partonic calculation of the two photon exchange%%
+                        %%contribution%% %%to elastic electron proton scattering at%%
+                        %%large momentum transfer}%%",
+      journal        = "\emph{Phys. Rev. Lett. 93, 122301 (2004)}"
+      pages          = "122301 (2004)",
+      doi            = "10.1103/PhysRevLett.93.122301",
+      eprint         = "hep-ph/0403058",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "SLAC-PUB-10366, JLAB-THY-04-10, WM-04-103",
+      SLACcitation   = "%%CITATION = HEP-PH/0403058;%%",
+}
+@article{94,
+      author         = "A. V. Afanasev and S. J. Brodsky and C. E. Carlson
+                        and Yu-Chun Chen and M. Vanderhaeghen",
+      title          = "%%{The Two-photon exchange contribution to elastic%%
+                        %%electron-nucleon scattering at large momentum transfer}%%",
+      journal        = "\emph{Phys. Rev. D 72, 013008 (2005)}"
+      pages          = "013008 (2005)",
+      doi            = "10.1103/PhysRevD.72.013008",
+      eprint         = "hep-ph/0502013",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "SLAC-PUB-10990, WM-05-102, JLAB-PHY-05-297",
+      SLACcitation   = "%%CITATION = HEP-PH/0502013;%%",
+}
+@article{95,
+      author         = "D. Borisyuk and A. Kobushkin",
+      title          = "%%{Box diagram in the elastic electron-proton scattering}%%",
+      journal        = "\emph{Phys. Rev. C 74, 065203 (2006)}"
+      pages          = "065203 (2006)",
+      doi            = "10.1103/PhysRevC.74.065203",
+      eprint         = "nucl-th/0606030",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = NUCL-TH/0606030;%%",
+}
+@article{96,
+      author         = "D. Borisyuk and A. Kobushkin",
+      title          = "%%{Two-photon exchange in dispersion approach}%%",
+      journal        = "\emph{Phys. Rev. C 78, 025208 (2008)}"
+      pages          = "025208 (2008)",
+      doi            = "10.1103/PhysRevC.78.025208",
+      eprint         = "0804.4128",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = ARXIV:0804.4128;%%",
+}
+@article{97,
+      author         = "D. Borisyuk and A. Kobushkin",
+      title          = "%%{Perturbative QCD predictions for two-photon exchange}%%",
+      journal        = "\emph{Phys. Rev. D 79, 034001 (2009)}"
+      pages          = "034001 (2009)",
+      doi            = "10.1103/PhysRevD.79.034001",
+      eprint         = "0811.0266",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = ARXIV:0811.0266;%%",
+}
+@article{98,
+      author         = "N. Kivel and M. Vanderhaeghen",
+      title          = "%%{Two-photon exchange in elastic electron-proton%%
+                        %%scattering:%% %%QCD%% %%factorization approach}%%",
+      journal        = "\emph{Phys. Rev. Lett. 103, 092004 (2009)}"
+      pages          = "092004 (2009)",
+      doi            = "10.1103/PhysRevLett.103.092004",
+      eprint         = "0905.0282",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = ARXIV:0905.0282;%%",
+}
+@article{99,
+      author         = "J. Arrington \emph{et al.}",
+      title          = "{Proposal E05-017. Jefferson Lab, Hall C, (2005)}"
+      year           = "2005",
+}
+@article{100,
+      author         = "J. Arrington \emph{et al.}",
+      title          = "{Proposal E07-005. Jefferson Lab, Hall B, (2004)}"
+      year           = "2004",
+      SLACcitation   = "%%Beyond the Born Approximation: A precise comparison%% 
+                        %%of positron-proton and electron-proton elastic %%
+                        %%scattering in CLAS%%",
+}
+@article{101,
+      author         = "J. Arrington \emph{et al.}",
+      title          = "{Proposal for an experiment at VEPP-3. Novosibirsk}",
+      journal        = "\emph{nucl-ex/0408020, (2004)}"
+      year           = "2004",
+      SLACcitation   = "%%Two-photon Exchange and elastic scattering of%%
+                        %%electrons/positrons on the proton%%",
+}
+@article{102,
+      author         = "D. Hasell and M. Kohl and R. Milner  \emph{et al.}",
+      title          = "{OLYMPUS Proposal at DESY, Germany, (2008)}"
+      year           = "2008",
+}
+@article{103,
+      author         = "T. Averett \emph{et al.}",
+      title          = "{Proposal E05-015. Jefferson Lab, Hall A, (2005)}"
+      year           = "2005",
+}
+@article{104,
+  title = "%%{Transverse Beam Spin Asymmetries at Backward Angles%% 
+           %%in%% %%Elastic%% %%Electron-Proton and Quasielastic Electron-Deuteron%%
+           %%Scattering}%%",
+  author = {D. Androic \emph{et al.}},
+  collaboration = {(G0 Collaboration)},
+  journal = {\emph{Phys. Rev. Lett. 107(2), 022501, (2011)}}
+  pages = {022501, (2011)},
+  doi = {10.1103/PhysRevLett.107.022501},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.107.022501},
+  publisher = {American Physical Society}
+}
+@article{105,
+      author         = "L. Capozza",
+      title          = "%%{Transverse single spin asymmetry at the A4 experiment:%%
+                        %%Preliminary backward-scattering results}%%",
+      journal        = "\emph{Eur. Phys. J. A 32, 497-499 (2007)}"
+      pages          = "497-499 (2007)",
+      doi            = "10.1140/epja/i2006-10428-6",
+      SLACcitation   = "%%CITATION = EPHJA,A32,497;%%",
+}
+@article{106,
+      author         = "D. Beck \emph{et al.}",
+      title          = "{(E06-008-G0 Collaboration). Jefferson Lab, Hall C, (2006)}"
+      year           = "2006",
+}
+@article{107,
+  title = "%%{Measurement of the Transverse Beam Spin Asymmetry in Elastic%% %%Electron-Proton Scattering and the Inelastic Contribution to the Imaginary%% %%Part of the Two-Photon Exchange Amplitude}%%",
+  author = {F. E. Maas \emph{et al.}},
+  journal = {\emph{Phys. Rev. Lett. 94(8), 082001 (2005)}}
+  pages = {082001 (2005)},
+  doi = {10.1103/PhysRevLett.94.082001},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.94.082001},
+  publisher = {American Physical Society}
+}
+@article{108,
+  title = "%%{Measurement of the vector analyzing power in elastic%% %%electron-proton scattering as a probe of the double virtual Compton%% %%amplitude}%%",
+  author = {S. P. Wells \emph{et al.}},
+  journal = {\emph{Phys. Rev. C 63(6), 064001, (2001)}}
+  pages = {064001, (2001)},
+  month = {May},
+  doi = {10.1103/PhysRevC.63.064001},
+  url = {http://link.aps.org/doi/10.1103/PhysRevC.63.064001},
+  publisher = {American Physical Society}
+}
+@article{109,
+      author         = "C. Perdrisat \emph{et al.}",
+      title          = "{12 GeV Proposal PR12-07-109. Jefferson Lab, Hall A, (2007)}"
+      year           = "2007",
+}
+@article{110,
+      author         = "S. Gilad \emph{et al.}",
+      title          = "{12 GeV Proposal PR12-07-108. Jefferson Lab, Hall A, (2007)}"
+      year           = "2007",
+}
+@article{111,
+      author         = "E. J. Brash \emph{et al.}",
+      title          = "{12 GeV Proposal PR12-09-001. Jefferson Lab, Hall C, (2009)}"
+      year           = "2009",
+}
+@article{112,
+      author         = "J. Arrington \emph{et al.}",
+      title          = "{12 GeV Proposal E08-007. Jefferson Lab, Hall A, (2008)}"
+      year           = "2008",
+}
+@article{113,
+  title = "%%{High-Precision Determination of the Electric and Magnetic Form%% %%Factors of the Proton}%%",
+  author = {J. C. Bernauer \emph{et al.}},
+  collaboration = {(A1 Collaboration)},
+  journal = {\emph{Phys. Rev. Lett. 105(24), 242001 (2010)}}
+  pages = {242001 (2010)},
+  doi = {10.1103/PhysRevLett.105.242001},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.105.242001},
+  publisher = {American Physical Society}
+}
+@article{114,
+      author         = "S. Galster \emph{et al.}",
+      title          = "%%{Elastic electron - deuteron scattering and the electric%%
+                        %%neutron form-factor at four momentum transfers 5-fm**-2%%
+                        %%$\textless$ q**2 $\textless$ 14-fm**-2}%%",
+      journal        = "\emph{Nucl. Phys. B 32, 221-237 (1971)}"
+      pages          = "221-237 (1971)",
+      doi            = "10.1016/0550-3213(71)90068-X",
+      SLACcitation   = "%%CITATION = NUPHA,B32,221;%%",
+}
+@article{115,
+      author         = "J. Friedrich and T. Walcher",
+      title          = "%%{A Coherent interpretation of the form-factors of the%%
+                        %%nucleon%% %%in terms of a pion cloud and constituent quarks}%%",
+      journal        = "\emph{Eur. Phys. J. A 17, 607-623 (2003)}"
+      pages          = "607-623 (2003)",
+      doi            = "10.1140/epja/i2003-10025-3",
+      eprint         = "hep-ph/0303054",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = HEP-PH/0303054;%%",
+}
+@article{116,
+      author         = "Annual Report 2004/2005",
+      title          = "{Institut fuer Kernphysik, Universitaet Mainz, (2006)}"
+      year           = "2006",
+}
+@article{117,
+      author         = "P. Achenbach \emph{et al.}",
+      title          = "{Proposal MAMI-A1-1/05(polarized $^3He$), Mainz Microtron, (2005)}"
+      year           = "2005",
+}
+@article{118,
+      author         = "B. D. Anderson \emph{et al.}",
+      title          = "{12 GeV Proposal PR12-11-009 (recoil polarization). Jefferson Lab, Hall C, (2011)}"
+      year           = "2011",
+}
+@article{119,
+      author         = "B. Wojtsekhowski \emph{et al.}",
+      title          = "{12 GeV Proposal PR12-09-016 (polarized He-3), Jefferson Lab, Hall A, (2009)}"
+      year           = "2009",
+}
+@article{120,
+      author         = "N. Meitanis",
+      title          = "{Ph.D. theses, Massachusetts Institute of Technology, (2006)}"
+      year           = "2006",
+}
+@article{121,
+      author         = "B. O'Neill",
+      title          = "{Ph.D. theses, Arizona State University (in preparation)}",
+}
+@article{122,
+      author         = "G. P. Gilfoyle \emph{et al.}",
+      title          = "{12 GeV Proposal PR12-07-104 (ratio method). Jefferson Lab, Hall B, (2007)}"
+      year           = "2007",
+}
+@article{123,
+      author         = "B. Quinn \emph{et al.}",
+      title          = "{12 GeV Proposal PR12-09-019 (ratio method). Jefferson Lab, Hall A, (2009)}"
+      year           = "2009",
+}
+@article{124,
+      author         = "C. F. Perdrisat and V. Punjabi and M. Vanderhaeghen",
+      title          = "%%{Nucleon Electromagnetic Form Factors}%%",
+      journal        = "\emph{Prog. Part. Nucl. Phys. 59, 694-764 (2007)}"
+      pages          = "%%694-764 (2007)%%",
+      doi            = "10.1016/j.ppnp.2007.05.001",
+      eprint         = "hep-ph/0612014",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "WM-06-115, JLAB-THY-06-595",
+      SLACcitation   = "%%CITATION = HEP-PH/0612014;%%",
+}
+@article{125,
+      author         = "M. A. Belushkin and H. -W. Hammer and U. -G. Meissner",
+      title          = "%%{Dispersion analysis of the nucleon form-factors%%
+                        %%including%% %%meson continua}%%",
+      journal        = "\emph{Phys. Rev. C 75, 035202 (2007)}"
+      pages          = "035202 (2007)",
+      doi            = "10.1103/PhysRevC.75.035202",
+      eprint         = "hep-ph/0608337",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "HISKP-TH-06-25",
+      SLACcitation   = "%%CITATION = HEP-PH/0608337;%%",
+}
+@article{126,
+      author         = "M. Guidal and M. V. Polyakov and A. V. Radyushkin and
+                        M. Vanderhaeghen",
+      title          = "%%{Nucleon form-factors from generalized parton%%
+                        %%distributions}%%",
+      journal        = "\emph{Phys. Rev. D 72, 054013 (2005)}"
+      pages          = "054013 (2005)",
+      doi            = "10.1103/PhysRevD.72.054013",
+      eprint         = "hep-ph/0410251",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "JLAB-THY-04-286",
+      SLACcitation   = "%%CITATION = HEP-PH/0410251;%%",
+}
+@article{127,
+      author         = "G. A. Miller",
+      title          = "%%{Light front cloudy bag model: Nucleon electromagnetic%%
+                        %%form-factors}%%",
+      journal        = "\emph{Phys. Rev. C 66, 032201 (2002)}"
+      pages          = "032201 (2002)",
+      doi            = "10.1103/PhysRevC.66.032201",
+      eprint         = "nucl-th/0207007",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "NT-UW-02-017",
+      SLACcitation   = "%%CITATION = NUCL-TH/0207007;%%",
+}
+@article{128,
+      author         = "L. W. Mo and Y. S. Tsai",
+      title          = "%%{Radiative Corrections to Elastic and Inelastic e p and%%
+                        %%mu p%% %%Scattering}%%",
+      journal        = "\emph{Rev. Mod. Phys. 41, 205-235 (1969)}"
+      pages          = "%%205-235 (1969)%%",
+      doi            = "10.1103/RevModPhys.41.205",
+      reportNumber   = "SLAC-PUB-0380",
+      SLACcitation   = "%%CITATION = RMPHA,41,205;%%",
+}
+@article{129,
+      author         = "L. C. Maximon and J. A. Tjon",
+      title          = "%%{Radiative corrections to electron proton scattering}%%",
+      journal        = "\emph{Phys. Rev. C 62, 054320 (2000)}"
+      pages          = "%%054320 (2000)%%",
+      doi            = "10.1103/PhysRevC.62.054320",
+      eprint         = "nucl-th/0002058",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = NUCL-TH/0002058;%%",
+}
+@article{130,
+      author         = "J. Arrington and I. Sick",
+      title          = "%%{Coulomb distortion in high-Q**2 elastic e-p scattering}%%",
+      journal        = "\emph{Phys. Rev. C 70, 028203 (2004)}"
+      pages          = "%%028203 (2004)%%",
+      doi            = "10.1103/PhysRevC.70.028203",
+      eprint         = "nucl-ex/0406014",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/0406014;%%",
+}
+@article{131,
+      author         = "J. Arrington and W. Melnitchouk and J. A. Tjon",
+      title          = "%%{Global analysis of proton elastic form factor data with%%
+                        %%two-photon exchange corrections}%%",
+      journal        = "\emph{Phys. Rev. C 76, 035205 (2007)}"
+      pages          = "035205 (2007)",
+      doi            = "10.1103/PhysRevC.76.035205",
+      eprint         = "0707.1861",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-THY-07-678",
+      SLACcitation   = "%%CITATION = ARXIV:0707.1861;%%",
+}
+@article{132,
+      author         = "R. Rosenfelder",
+      title          = "%%{Coulomb corrections to elastic electron proton%%
+                        %%scattering and the proton charge radius}%%",
+      journal        = "\emph{Phys. Lett. B 479, 381-386 (2000)}"
+      pages          = "381-386 (2000)",
+      doi            = "10.1016/S0370-2693(00)00316-6",
+      eprint         = "nucl-th/9912031",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "PSI-PR-99-33",
+      SLACcitation   = "%%CITATION = NUCL-TH/9912031;%%",
+}
+@article{133,
+      author         = "C. Hernandez-Garcia and M. L. Stutzman and P. G. O'Shea",
+      title          = "%%{Electron source for accelerators}%%",
+      journal        = "\emph{Physics Today 61(2), 44-49 (2008)}"
+      pages          = "44-49 (2008)",
+}
+@article{134,
+      author         = "C. W. Leemann and D. R. Douglas and G. A. Krafft",
+      title          = "%%{The Continuous Electron Beam Accelerator Facility: CEBAF%%
+                        %%at%% %%the Jefferson Laboratory}%%",
+      journal        = "{\emph{Ann. Rev. Nucl. Part. Sci. 51, 413-450 (2001)}}"
+      pages          = "413-450 (2001)",
+      doi            = "10.1146/annurev.nucl.51.101701.132327",
+      reportNumber   = "JLAB-ACC-01-31",
+      SLACcitation   = "%%CITATION = ARNUA,51,413;%%",
+}
+@article{135,
+      author         = "C. Yan and R. Carlini",
+      title          = "{Hall C beamline instrumentation, (1992)}"
+      year           = "1992",
+      SLACcitation   = "%%CITATION = INSPIRE-349282;%%",
+}
+@article{136,
+      author         = "P. Gueye",
+      title          = "%%{Status of the actual beam position monitors in the hall c%% %%beamline}%%",
+      journal        = "\emph{Technical report, Jefferson Lab, (1992)}"
+      year           = "1992",
+      SLACcitation   = "%%CITATION = INSPIRE-349282;%%",
+}
+@article{137,
+      author         = "C. Yan \emph{et al.}",
+      title          = "%%{Superharp-a wire scanner with absolute position read out for beam energy measurement at CEBAF}%%",
+      journal        = "\emph{Nuclear Instruments and Methods A 365, 261 (1992)}"
+      pages          = "261 (1992)",
+      SLACcitation   = "%%CITATION = INSPIRE-349282;%%",
+}
+@article{138,
+      author         = "K. B. Unser",
+      title          = "%%{The parametric current transformer, a beam current monitor%% %%developed for LEP}%%",
+      journal        = "\emph{A. I. P. Conf. Proc. 252, 266 (1992)}"
+      volume         = "252",
+      pages          = "266",
+      year           = "1992",
+      SLACcitation   = "%%CITATION = INSPIRE-349282;%%",
+}
+@article{139,
+      author         = "G. Niculescu",
+      title          = "%%{Resonant cavities used as beam current monitors}%%",
+      journal        = "\emph{(Unpublished internal document, Jefferson Lab), (1995)}"
+      year           = "1995",
+      SLACcitation   = "%%CITATION = INSPIRE-349282;%%",
+}
+@article{140,
+      author         = "C. Armstrong",
+      title          = "%%{Beam current measurement in Hall C}%%",
+      journal        = "\emph{(Unpublished internal document, Jefferson Lab), (1996)}"
+      year           = "1996",
+}
+@article{141,
+      author         = "C. Yan and R. Carlini and D. Neuffer",
+      title          = "%%{Beam energy measurement using the arc beam line as a spectrometer}%%",
+      journal        = "\emph{Technical report, CEBAF-PR-93-004, (1993)}"
+      year           = "1993",
+}
+@article{142,
+      author         = "M. Hauger \emph{et al.}",
+      title          = "%%{A High precision polarimeter}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 462, 382-392 (2001)}"
+      pages          = "382-392 (2001)",
+      doi            = "10.1016/S0168-9002(01)00197-8",
+      eprint         = "nucl-ex/9910013",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/9910013;%%",
+}
+@article{143,
+      author         = "J. M. Grames \emph{et al.}",
+      title          = "%{Unique electron polarimeter analyzing power comparison%
+                        %and%% %%precision spin-based energy measurement}%",
+      journal        = "\emph{Phys.  Rev. ST Accel. Beams 7, 042802 (2004)}"
+      pages          = "042802 (2004)",
+      doi            = "10.1103/PhysRevSTAB.13.069901,
+                        10.1103/PhysRevSTAB.7.042802",
+      reportNumber   = "JLAB-ACO-04-11",
+      SLACcitation   = "%%CITATION = PRSTA,7,042802;%%",
+}
+@article{144,
+      author         = "B. W. Montague",
+      title          = "%%{POLARIZED BEAMS IN HIGH-ENERGY e+ e- STORAGE RINGS}%%",
+      journal        = "\emph{Phys. Rept. 113, 1-96 (1984)}"
+      pages          = "1-96",
+      doi            = "10.1016/0370-1573(84)90031-0",
+      year           = "1984",
+      reportNumber   = "CERN-LEP-TH-83-23, C83-02-01",
+      SLACcitation   = "%%CITATION = PRPLC,113,1;%%",
+}
+@article{145,
+      author         = "D. W. Higinbotham",
+      title          = "%%{Electron Spin Precession at CEBAF}%%",
+      journal        = "\emph{AIP Conf. Proc. 1149, 751-754 (2009)}"
+      volume         = "1149",
+      pages          = "751-754",
+      doi            = "10.1063/1.3215753",
+      year           = "2009",
+      eprint         = "0901.4484",
+      archivePrefix  = "arXiv",
+      primaryClass   = "physics.acc-ph",
+      reportNumber   = "JLAB-PHY-09-942",
+      SLACcitation   = "%%CITATION = ARXIV:0901.4484;%%",
+}
+@article{146,
+      author         = "C. Yan \emph{et al.}",
+      title          = "%%{Target raster system at CEBAF}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 365, 46-48 (1995)}"
+      pages          = "46-48 (1995)",
+      doi            = "10.1016/0168-9002(95)00504-8",
+      SLACcitation   = "%%CITATION = NUIMA,A365,46;%%",
+}
+@article{147,
+      author         = "C. Yan and N. Sinkine and R. Wojcik",
+      title          = "%%{Linear beam raster for cryogenic targets}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 539, 1-15 (2005)}"
+      pages          = "1-15 (2005)",
+      doi            = "10.1016/j.nima.2004.09.034",
+      reportNumber   = "JLAB-PHY-05-15, DOE-ER-40150-3247",
+      SLACcitation   = "%%CITATION = NUIMA,A539,1;%%",
+}
+@article{148,
+      author         = "M. Fukuda and S. Okumura and K. Arakawa",
+      title          = "%%{Simulation of spiral beam scaning for uniform irradiation on a%% %%large target}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 396, 45-49 (1997)}"
+      pages          = "45-49 (1997)",
+}
+@article{149,
+      author         = "Joseph K. Cobb and J. J. Muray",
+      title          = "%%{MAGNETIC CENTER LOCATION IN MULTIPOLE FIELDS}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. 46, 99-105 (1967)}"
+      pages          = "99-105 (1967)",
+      doi            = "10.1016/0029-554X(67)90397-7",
+      reportNumber   = "SLAC-PUB-0178",
+      SLACcitation   = "%%CITATION = NUIMA,46,99;%%",
+}
+@article{150,
+      author         = "M. Berz",
+      title          = "{COSY Infinity Version 7 Reference Manual, NSCL Technical Report MSUCL-977, Michigan State University, (1995)}"
+      year           = "1995",
+}
+@article{151,
+      author         = "C. F. Perdrisat",
+      title          = "%%{Hall C User Howto, Electromagnetic Calorimeter BigCal}%%",
+      journal        = "\emph{Technical report, Jefferson Lab, Hall C, (2007)}"
+      year           = "2007",
+}
+@article{152,
+      author         = "A. Puckett",
+      title          = "%%{BigCal analysis Primer}%%",
+      journal        = "\emph{Technical report, Jefferson Lab, Hall C, (2008)}"
+      year           = "2008",
+}
+@article{153,
+      author         = "L. Tang and C. Yan and Ed. V. Hungerford",
+      title          = "%%{Systematic resolution study of the CEBAF Hall C spectrometrs -%% %%HMS%% %%and SOS}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 366, 259 (1995)}"
+      pages          = "259 (1995)",
+}
+@article{154,
+      author         = "O. K. Baker \emph{et al.}",
+      title          = "%%{The High Momentum Spectrometer drift chambers in Hall C%%
+                        %%at%% %%CEBAF}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 367, 92-95 (1995)}"
+      pages          = "92-95 (1995)",
+      doi            = "10.1016/0168-9002(95)00737-7",
+      SLACcitation   = "%%CITATION = NUIMA,A367,92;%%",
+}
+@article{155,
+      author         = "J. Arrington",
+      volume         = "{Ph.D. theses, California Institute of Technology, (1998)}"
+      year           = "1998",
+}
+@article{156,
+      author         = "V. Mamyan",
+      volume         = "{Ph.D. theses, University of Virginia, (2010)}"
+      year           = "2010",
+}
+@article{157,
+      author         = "CODA-CEBAF Online Data Acquisition User's Manual",
+}
+@article{158,
+      author         = "D. G. Crabb and W. Meyer",
+      title          = "%%{Solid polarized targets for nuclear and particle physics%%
+                        %%experiments}%%",
+      journal        = "\emph{Ann. Rev. Nucl. Part. Sci. 47, 67-109 (1997)}"
+      pages          = "67-109 (1997)",
+      doi            = "10.1146/annurev.nucl.47.1.67",
+      SLACcitation   = "%%CITATION = ARNUA,47,67;%%",
+}
+@article{159,
+      author         = "M. Borghini",
+      title          = "%%{Polarized proton targets}%%",
+      journal        = "\emph{Conf. Proc. C680922V4P2, 191-242 (1968)}"
+      volume         = "C680922V4P2",
+      pages          = "191-242",
+      year           = "1968",
+      SLACcitation   = "%%CITATION = CONFP,C680922V4P2,191;%%",
+}
+@article{160,
+      author         = "M. Goldman",
+      title          = "%%{Measurement of dipolar energy in nuclear spin systems}%%",
+      journal        = "\emph{Journal of Magnetic Resonance (1969) 17(3), 393-398 (1975)}"
+      volume         = "17(3)",
+      pages          = "393-398",
+      year           = "1975",
+      SLACcitation   = "%%CITATION = CONFP,C680922V4P2,191;%%",
+}
+@article{161,
+      author         = "G. R. Court and D. W. Gifford and P. Harrison and W. G. Heyes and M. A. Houlden",
+      title          = "%%{A High precision Q meter for the measurement of proton%%
+                        %%polarization in polarized targets}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 324, 433-440 (1993)}"
+      pages          = "433-440 (1993)",
+      doi            = "10.1016/0168-9002(93)91047-Q",
+      SLACcitation   = "%%CITATION = NUIMA,A324,433;%%",
+}
+@article{162,
+      author         = "C. Group",
+      title          = "{PAW (Physics Analysis Workstation) Users Guide}",
+      journal        = "\emph{Program Library Q121, CERN}",
+}
+@article{163,
+      author         = "K. Makino and M. Berz",
+      title          = "",
+      journal        = "\emph{Nucl. Instrum. Meth. A 427, 338 (1999)}"
+      pages          = "338 (1999)",
+      SLACcitation   = "%%CITATION = NUIMA,A324,433;%%",
+}
+@misc{164,
+      title          ="Time of Flight Scintillator Hodoscope Calibration",
+      howpublished   ="\url{https://hallcweb.jlab.org/document/howtos/tof_calibration/}",
+      year           ="(2009)"
+}
+@article{165,
+      author         = "K. Nakamura and the Particle Data Group",
+      title          = "%%Review of Particle Physics%%",
+      journal        = "\emph{Journel of physics G:Nuclear and Particle Physics 37(7A), 075021 (2010)}"
+      volume         = "37(7A)",
+      pages          = "075021",
+      year           = "2010",
+      SLACcitation   = "%%CITATION = NUIMA,A324,433;%%",
+}
+@misc{166,
+  author =	 "C. Delaere",
+  title =	 "{class TMultiLayerPerception.}",
+  howpublished = "\url{http://root.cern.ch/root/html/TMultiLayerPerception.html}",
+  year         = "(2003)"
+}
+@article{167,
+      author         = "D. Crabb and D. Day and O. Rondon",
+      title          = "A proposal for the Renewal of Contact No. DE-FG02-96ER40950, University of Virginia",
+      journal        = "",
+      volume         = "",
+      pages          = "",
+      year           = "",
+      SLACcitation   = "%%Electron interactions with nuclei.%%",
+}
+@article{168,
+      author         = "M. A. Shupe \emph{et al.}",
+      title          = "%%{NEUTRAL PION PHOTOPRODUCTION AND PROTON COMPTON%%
+                        %%SCATTERING%% %%AT%% %%LARGE ANGLES}%%",
+      journal        = "\emph{Phys. Rev. D 19, 1921-1930 (1979)}"
+      pages          = "1921-1930 (1979)",
+      doi            = "10.1103/PhysRevD.19.1921",
+      SLACcitation   = "%%CITATION = PHRVA,D19,1921;%%",
+}
+@article{169,
+      author         = "K. Makino and M. Berz",
+      title          = "%%{COSY INFINITY version 8}%%",
+      journal        = "\emph{Nucl. Instrum. Meth. A 427, 338-343 (1999)}"
+      pages          = "338-343 (1999)",
+      doi            = "10.1016/S0168-9002(98)01554-X",
+      SLACcitation   = "%%CITATION = NUIMA,A427,338;%%",
+}
+@article{170,
+      author         = "Arrington, J.",
+      title          = "%%{Implications of the discrepancy between proton%%
+                        %%form-factor%% %%measurements}%%",
+      journal        = "\emph{Phys. Rev. C 69, 022201 (2004)}"
+      pages          = "022201 (2004)",
+      doi            = "10.1103/PhysRevC.69.022201",
+      eprint         = "nucl-ex/0309011",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      SLACcitation   = "%%CITATION = NUCL-EX/0309011;%%",
+}
+@article{171,
+      author         = "Miller",
+      title          = "",
+      journal        = "",
+      volume         = "",
+      pages          = "",
+      doi            = "",
+      year           = "2011",
+      SLACcitation   = "%%CITATION = NUIMA,A427,338;%%",
+}
+@article{172,
+      author         = "S. Stein \emph{et al.}",
+      title          = "%%{Electron Scattering at 4-Degrees with Energies of%%
+                        %%4.5-GeV -%% %%20-GeV}%%",
+      journal        = "\emph{Phys. Rev. D 12, 1884 (1975)}"
+      pages          = "1884 (1975)",
+      doi            = "10.1103/PhysRevD.12.1884",
+      reportNumber   = "SLAC-PUB-1528",
+      SLACcitation   = "%%CITATION = PHRVA,D12,1884;%%",
+}
+@article{173,
+      author         = "Christy, M.E. and Bosted, Peter E.",
+      title          = "%%{Empirical fit to precision inclusive electron-proton%%
+                        %%cross-%% %%sections in the resonance region}%%",
+      journal        = "\emph{Phys. Rev. C 81, 055213 (2010)}"
+      pages          = "055213 (2010)",
+      doi            = "10.1103/PhysRevC.81.055213",
+      eprint         = "0712.3731",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "JLAB-PHY-08-02",
+      SLACcitation   = "%%CITATION = ARXIV:0712.3731;%%",
+}
+
+@Article{174,
+  author =	 "James D. Maxwell",
+  title =	 "{Probing Proton Spin Structure: A Measurement of $g_2$ at 
+                  Four-momentum Transfer of 2 to 6 GeV$^2$.}",
+  journal =	 "",
+  volume =	 "Ph.D. theses, University of Virginia, (2011)"
+}
+@article{175,
+      author         = "J. J. Kelly",
+      title          = "%%{Nucleon charge and magnetization densities from Sachs%%
+                        %%form-factors}%%",
+      journal        = "\emph{Phys. Rev. C 66, 065203 (2002)}"
+      pages          = "%%065203 (2002)%%",
+      doi            = "10.1103/PhysRevC.66.065203",
+      eprint         = "hep-ph/0204239",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = HEP-PH/0204239;%%",
+}
+@article{176,
+      author         = "R. Pohl \emph{et al.}",
+      title          = "",
+      journal        = "\emph{Nature 466, 213 (2010)}"
+      volume         = "466",
+      pages          = "213",
+      year           = "2010",
+}
+@Article{177,
+      author         = "X. Zhan \emph{et al.}",
+      title          = "%%{High-precision measurement of the proton%%
+                        %%elastic form factor%% %%ratio $\mu_p G_E/G_M$ at%%
+                        %%low $Q^2$.}%%",
+      journal        = "\emph{Phys. Lett. B 705, 59-64 (2011)}"
+      pages          = "59-64",
+      year           = "2011", 
+      SLACcitation   = "%%CITATION = HEP-PH/0204239;%%",
+}
+@article{178,
+      author         =  "S. Dasu \emph{et al.}",
+      title          = "%%{A precise determination of R = Sigma(L)/Sigma(T)%%
+                        %%and F(2) in%% %%deep inelastic electron scattering%%
+                        %%from deuterium at SLAC}%%",
+      year           = "Proceedings, 4th Meeting of the Division of Particles and Fields of the APS, 635-638 (1988)"
+      SLACcitation   = "%%CITATION = INSPIRE-274455;%%",
+}
+@article{179,
+      author         = "F. R. Wesselmann \emph{et al.}",
+      title          = "%%{Proton spin structure in the resonance region}%%",
+      collaboration  = "RSS Collaboration",
+      journal        = "\emph{Phys. Rev. Lett. 98, 132003 (2007)}"
+      pages          = "%%132003 (2007)%%",
+      doi            = "%%10.1103/PhysRevLett.98.132003%%",
+      year           = "%%2007%%",
+      eprint         = "%%nucl-ex/0608003%%",
+      archivePrefix  = "%%arXiv%%",
+      primaryClass   = "%%nucl-ex%%",
+      reportNumber   = "%%JLAB-PHY-06-518%%",
+      SLACcitation   = "%%CITATION = NUCL-EX/0608003;%%",
+}
+@article{180,
+      author         = "Iachello, F. and Jackson, A.D. and Lande, A.",
+      title          = "%%{Semiphenomenological fits to nucleon electromagnetic%%
+                        %%form-factors}%%",
+      journal        = "\emph{Phys. Lett. B 43, 191-196 (1973)}"
+      pages          = "191-196 (1973)",
+      doi            = "10.1016/0370-2693(73)90266-9",
+      year           = "%%1973%%",
+      SLACcitation   = "%%CITATION = PHLTA,B43,191;%%",
+}
+@article{181,
+      author         = "Isgur, Nathan and Karl, Gabriel",
+      title          = "%%{P Wave Baryons in the Quark Model}%%",
+      journal        = "\emph{Phys. Rev. D 18, 4187 (1978)}"
+      pages          = "4187 (1978)",
+      doi            = "10.1103/PhysRevD.18.4187",
+      year           = "%%1978%%",
+      reportNumber   = "%%Print-78-1057 (TORONTO)%%",
+      SLACcitation   = "%%CITATION = PHRVA,D18,4187;%%",
+}
+@article{182,
+      author         = "Frank, M. R. and Jennings, B. K. and Miller, G. A.",
+      title          = "%%{The Role of color neutrality in nuclear physics:%%
+                        %%Modifications%% %%of nucleonic wave functions}%%",
+      journal        = "\emph{Phys. Rev. C 54, 920-935 (1996)}"
+      pages          = "920-935 (1996)",
+      doi            = "%%10.1103/PhysRevC.54.920%%",
+      year           = "%%1996%%",
+      eprint         = "%%nucl-th/9509030%%",
+      archivePrefix  = "%%arXiv%%",
+      primaryClass   = "%%nucl-th%%",
+      reportNumber   = "%%DOE-ER-40561-217, INT-95-00-99, DOE-ER-40427-15-N95%%",
+      SLACcitation   = "%%CITATION = NUCL-TH/9509030;%%",
+}
+@article{183,
+      author         = "Lepage, G. Peter and Brodsky, Stanley J.",
+      title          = "%%{Exclusive Processes in Quantum Chromodynamics: The%%
+                        %%Form-Factors of Baryons at Large Momentum Transfer}%%",
+      journal        = "\emph{Phys. Rev. Lett. 43, 545-549 (1979)}"
+      pages          = "545-549 (1979)",
+      doi            = "%%10.1103/PhysRevLett.43.545%%",
+      reportNumber   = "%%SLAC-PUB-2348%%",
+      SLACcitation   = "%%CITATION = PRLTA,43,545;%%",
+}
+@article{184,
+      author         = "Belitsky, Andrei V. and Ji, Xiang-dong and Yuan, Feng",
+      title          = "%%{A Perturbative QCD analysis of the nucleon's Pauli%%
+                        %%form-factor%% %%F(2)(Q**2)}%%",
+      journal        = "\emph{Phys. Rev. Lett. 91, 092003 (2003)}"
+      pages          = "092003 (2003)",
+      doi            = "10.1103/PhysRevLett.91.092003",
+      eprint         = "hep-ph/0212351",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "DOE-ER-400762-271, UM-PP-03-031",
+      SLACcitation   = "%%CITATION = HEP-PH/0212351;%%",
+}
+@article{185,
+      author         = "Ji, Xiang-Dong",
+      title          = "%%{Gauge invariant decomposition of nucleon spin and its%%
+                        %%spin -%% %%off}%%",
+      journal        = "\emph{Phys. Rev. Lett. 78, 610-613 (1997)}"
+      pages          = "610-613 (1997)",
+      doi            = "%%10.1103/PhysRevLett.78.610%%",
+      year           = "%%1997%%",
+      eprint         = "hep-ph/9603249",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "MIT-CTP-2517",
+      SLACcitation   = "%%CITATION = HEP-PH/9603249;%%",
+}
+@article{186,
+      author         = "Miller, Gerald A.",
+      title          = "%%{Charge Density of the Neutron}%%",
+      journal        = "\emph{Phys. Rev. Lett. 99, 112001 (2007)}"
+      pages          = "112001 (2007)",
+      doi            = "%%10.1103/PhysRevLett.99.112001%%",
+      year           = "%%2007%%",
+      eprint         = "0705.2409",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "NT@UW-07-07",
+      SLACcitation   = "%%CITATION = ARXIV:0705.2409;%%",
+}
+@article{187,
+      author         = "Gari, Manfred and Krumpelmann, W.",
+      title          = "%%{Semiphenomenological Synthesis of Meson and Quark%%
+                        %%Dynamics and%% %%the Electromagnetic Structure of the%%
+                        %%Nucleon}%%",
+      journal        = "\emph{Z. Phys. A 322, 689-693 (1985)}"
+      pages          = "689-693 (1985)",
+      doi            = "%%10.1007/BF01415153%%",
+      year           = "%%1985%%",
+      reportNumber   = "%%SLAC-PUB-3398%%",
+      SLACcitation   = "%%CITATION = ZEPYA,A322,689;%%",
+}
+@article{188,
+      author         = "I. T. Lorenz \emph{et al.}",
+      title          = "%%{The size of the proton - closing in on the radius%%
+                        %%puzzle}%%",
+      journal        = "\emph{Eur. Phys. J. A 48, 151 (2012)}"
+      pages          = "151 (2012)",
+      doi            = "10.1140/epja/i2012-12151-1",
+      year           = "2012",
+      eprint         = "1205.6628",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = ARXIV:1205.6628;%%",
+}
+@article{189,
+      author         = "C. Crawford \emph{et al.}",
+      title          = "%%{The Role of Mesons in the Electromagnetic Form Factors%%
+                        %%of%% %%the%% %%Nucleon}%%",
+      journal        = "\emph{Phys. Rev. C 82, 045211 (2010)}"
+      pages          = "045211 (2010)",
+      doi            = "10.1103/PhysRevC.82.045211",
+      year           = "2010",
+      eprint         = "1003.0903",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      SLACcitation   = "%%CITATION = ARXIV:1003.0903;%%",
+}
+@article{190,
+      author         = "Lomon, Earle L. and Pacetti, Simone",
+      title          = "%%{Time-like and space-like electromagnetic form factors of%%
+                        %%nucleons, a unified description}%%",
+      journal        = "\emph{Phys. Rev. D 85, 113004 (2012)}"
+      pages          = "113004 (2012)",
+      doi            = "10.1103/PhysRevD.86.039901",
+      year           = "2012",
+      eprint         = "1201.6126",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = ARXIV:1201.6126;%%",
+}
+@article{191,
+      author         = "Dirac and A. M. Paul",
+      title          = "%%{Forms of Relativistic Dynamics}%%",
+      journal        = "\emph{Rev. Mod. Phys. 21, 392-399 (1949)}"
+      pages          = "392-399 (1949)",
+      doi            = "10.1103/RevModPhys.21.392",
+      year           = "1949",
+      SLACcitation   = "%%CITATION = RMPHA,21,392;%%",
+}
+@article{192,
+      author         = "Alkofer, Reinhard and von Smekal, Lorenz",
+      title          = "%%{The Infrared behavior of QCD Green's functions:%%
+                        %%Confinement%% %%dynamical symmetry breaking, and hadrons as%%
+                        %%relativistic bound%% %%states}%%",
+      journal        = "\emph{Phys. Rept. 353, 281 (2001)}"
+      pages          = "281 (2001)",
+      doi            = "10.1016/S0370-1573(01)00010-2",
+      year           = "2001",
+      eprint         = "hep-ph/0007355",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      reportNumber   = "UNITUE-THEP-00-09, FAU-TP3-00-8",
+      SLACcitation   = "%%CITATION = HEP-PH/0007355;%%",
+}
+@article{193,
+      author         = "Fischer, Christian S.",
+      title          = "%%{Infrared properties of QCD from Dyson-Schwinger%%
+                        %%equations}%%",
+      journal        = "\emph{J. Phys. G 32, R253-R291 (2006)}"
+      pages          = "R253-R291 (2006)",
+      doi            = "10.1088/0954-3899/32/8/R02",
+      year           = "2006",
+      eprint         = "hep-ph/0605173",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-ph",
+      SLACcitation   = "%%CITATION = HEP-PH/0605173;%%",
+}
+@article{194,
+      author         = "Arrington, John and de Jager, Kees and Perdrisat, Charles
+                        F.",
+      title          = "%%{Nucleon Form Factors: A Jefferson Lab Perspective}%%",
+      journal        = "\emph{J. Phys. Conf. Ser. 299, 012002 (2011)}"
+      pages          = "012002 (2011)",
+      doi            = "10.1088/1742-6596/299/1/012002",
+      year           = "2011",
+      eprint         = "1102.2463",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-ex",
+      reportNumber   = "JLAB-PHY-11-1315",
+      SLACcitation   = "%%CITATION = ARXIV:1102.2463;%%",
+}
+@article{195,
+      author         = "I. Aznauryan \emph{et al.}",
+      title          = "%%{Theory Support for the Excited Baryon Program at the%%
+                        %%Jlab%% %%12-%% %%GeV Upgrade}%%",
+      year           = "(2009)"
+      eprint         = "0907.1901",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "JLAB-PHY-09-933",
+      SLACcitation   = "%%CITATION = ARXIV:0907.1901;%%",
+}
+@article{196,
+      author         = "I. C. Cloet \emph{et al.}",
+      title          = "%%{Survey of nucleon electromagnetic form factors}%%",
+      journal        = "\emph{Few Body Syst. 46, 1-36 (2009)}"
+      pages          = "1-36 (2009)",
+      doi            = "10.1007/s00601-009-0015-x",
+      year           = "2009",
+      eprint         = "0812.0416",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "NT@UW-08-23, PHY-12228-TH-2008",
+      SLACcitation   = "%%CITATION = ARXIV:0812.0416;%%",
+}
+@article{197,
+      author         = "A. Holl \emph{et al.}",
+      title          = "%%{On nucleon electromagnetic form-factors: A Precis}%%",
+      journal        = "\emph{Nucl. Phys. A 755, 298-302 (2005)}"
+      pages          = "298-302 (2005)",
+      doi            = "10.1016/j.nuclphysa.2005.03.031",
+      year           = "2005",
+      eprint         = "nucl-th/0501033",
+      archivePrefix  = "arXiv",
+      primaryClass   = "nucl-th",
+      reportNumber   = "PHY-11088-TH-2005, MPG-VT-UR-259-05, UNITU-THEP-1-2005",
+      SLACcitation   = "%%CITATION = NUCL-TH/0501033;%%",
+}
+@article{198,
+      author         = "M. Gockeler \emph{et al.}",
+      title          = "%%{Nucleon electromagnetic form-factors on the lattice and%%
+                        %%in%% %%chiral effective field theory}%%",
+      collaboration  = "QCDSF Collaboration",
+      journal        = "\emph{Phys. Rev. D 71, 034508 (2005)}"
+      pages          = "034508 (2005)",
+      doi            = "10.1103/PhysRevD.71.034508",
+      year           = "2005",
+      eprint         = "hep-lat/0303019",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      reportNumber   = "DESY-03-032, LTH-571, LU-ITP-2003-003, EDINBURGH-2003-02",
+      SLACcitation   = "%%CITATION = HEP-LAT/0303019;%%",
+}
+@article{199,
+      author         = "J. D. Ashley \emph{et al.}",
+      title          = "%%{Nucleon electromagnetic form-factors from lattice QCD}%%",
+      journal        = "\emph{Eur. Phys. J. A 19, 9-14 (2004)}"
+      pages          = "9-14 (2004)",
+      doi            = "10.1140/epjad/s2004-03-002-4",
+      year           = "2004",
+      eprint         = "hep-lat/0308024",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      SLACcitation   = "%%CITATION = HEP-LAT/0308024;%%",
+}
+@article{200,
+      author         = "R. G. Edwards \emph{et al.}",
+      title          = "%%{Nucleon structure in the chiral regime with domain wall%%
+                        %%fermions on an improved staggered sea}%%",
+      journal        = "\emph{PoS LAT2006, 121 (2006)}"
+      pages          = "121 (2006)",
+      year           = "2006",
+      eprint         = "hep-lat/0610007",
+      archivePrefix  = "arXiv",
+      primaryClass   = "hep-lat",
+      reportNumber   = "DESY-06-176, JLAB-THY-06-553",
+      SLACcitation   = "%%CITATION = HEP-LAT/0610007;%%",
+}
+@inproceedings{201,
+  author =	 "W. R. Leo",
+  title =	 "{Techniques for Nuclear and Particle Physics Experiments}",
+  publisher =	 "Springer Verlag, (1987)"
+}

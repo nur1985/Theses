@@ -1,0 +1,72 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%% Nuruzzaman's thesis.tex  %%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%   The ultimate thesis    %%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[10pt]{hamptondissertation-s}
+\input{LaTexClassNurThesis.cls}
+
+%%%------------------------- Preliminary Pages ------------------------%%
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+
+\cleardoublepage
+%%----------------------%%
+\makesignature
+%%----------------------%%
+\copyrightpage[2014]
+\title{\thesisTitle}
+%%----------------------%%
+\begin{abstract}
+\input{abstract} 					% Abstract page
+\end{abstract}
+%%----------------------%%
+\begin{dedication}
+\input{dedication} 					% Dedication page
+\end{dedication}
+%%----------------------%%
+\begin{Acknowledgements}
+\input{acknowledgments} 				% Acknowledgment page
+\end{Acknowledgements}
+%%----------------------%%
+\tableofcontents						% table of contents
+\listoffigures						% list of figures
+\listoftables						% list of tables
+%\listofacronyms						% creates a list of symbols
+%%------------------------- Main Body -------------------------%%
+\mainmatter
+\include{ch-introduction}       		% introduction\motivation
+\include{ch-theory}       			% introduction\motivation
+\include{ch-appratus}   	     		% appratus
+\include{ch-bmod}   	      			% Beam modulation system
+\include{ch-beamline}   	        		% Beamline optics and false asymmetries
+\include{ch-transverse}   	      	% Transverse N-to-Delta
+\include{ch-conclusions}        		% conclusions
+\appendix
+\include{appendixBMod}   	      	% appendix: Beam modulation
+\include{appendixQTor}   	      	% appendix: QTor
+\include{appendixHelCorPed}   	    % appendix: Helicity corelated pedestal analysis
+\include{appendixTransverse}   	    % appendix: Transverse-N2-Delta
+\include{appendixMISC}   	    		% appendix: Miscellaneous
+\include{appendixDBStressTest}   	% appendix: DB Stress Test
+\include{appendixRegScheme}   	    % appendix: Regression schemes
+\include{appendixCollaboration}   	% appendix: Collaboration list
+%%----------------------%%
+\addcontentsline{toc}{chapter}{\numberline{~}BIBLIOGRAPHY}
+\addcontentsline{toc}{chapter}{\numberline{~}REFERENCES}
+\bibliographystyle{unsrt}
+\bibliography{nur_qweak_thesis}		% references
+%%----------------------%%
+\begin{VITA}
+\include{vita}						% curriculum vitae
+\end{VITA}
+%%----------------------%%
+\begin{singlespace}
+\fancypagestyle{plain}{\pagestyle{fancy}}
+\printindex      				  	% This print a index like book
+\end{singlespace}
+%%-------------------------- THE END --------------------------%%
+\end{document}

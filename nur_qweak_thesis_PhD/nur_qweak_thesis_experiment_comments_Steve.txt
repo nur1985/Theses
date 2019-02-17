@@ -1,0 +1,81 @@
+General comment:
+
+There is a lot of detail about the accelerator.  Many specific aspects
+of the experiment have much less detail.  While it is fair to refer to
+other theses for aspects of the experiment that you did not have a
+great involvement with, details about the qweak apparatus are more
+important than accelerator details.  (Unless those details are
+particularly relevant to your physics.)
+
+thermoionic -> thermionic ??
+
+1.4
+quads and dipoles.  Not to focus/defocus.  Just say
+
+...series of quadrupole and dipole magnets to transport the beam to
+the target... 
+
+Lambartson, Labratson   spelling.
+
+Eq. 1.52 and 1.53
+Subscripts that are words should be roman
+e.g.  X_{\textrm{offset}}
+
+After Eq. 1.5.3
+Sentence starting with "Practically" is a run on sentence, break it
+up.
+
+Eq 1.5.5
+Subscripts target and 3C12 need to be \textrm
+
+1.5.4.2
+Have you discussed what asymmetries are at this point?  Or what a
+helicity correlated beam parameter is?
+
+1.5.5
+Same thing, has concept of asymmetry been introduced yet?
+
+1.6.1
+The polarimeter does not measure the asymmetry in cross sections.  It
+takes that as a given.  It measures the asymmetry in yields.  It gets
+the polarization by measuring this asymmetry and dividing by the
+polarization of the target electrons and the asymmetry in the cross
+section.  (Or something like that.)
+
+At 1.9.1
+
+Is it really called a transverse hall probe?  Or do you mean a hall
+probe oriented transverse to the magnetic field?  (Which is how one
+would normally use one.)
+
+What do you mean the "online" QTor magnetic field
+
+The hall probes were hardly controlled.  Really just read.
+
+1.10.1
+
+Say "Electrons entering the quartz produce a cone of Cereknov light
+that undergoes total internal reflection.    Light that reaches the
+ends of the bars enters the PMTS."
+
+Why does the lead improve elastic electron light yield?
+Does it have any drawbacks?
+
+1.10.1.1
+The Low noise electronics don't let us achieve the desired statistical
+accuracy.  They keep us from introducing extra noise that would
+dominate/destroy the statical accuracy from number of electrons being
+detected.
+
+1.12
+CODA does not convert analog signals into digitized signals.  It
+handles the transfer of digital data from the front end modules (such
+as the ADC) in multiple crates to a computer for storage on disk.
+
+1.13  "ASCII data files"?  What are ASCII data files and where did
+they come from.
+
+The stuff about publishing target status to the web is fairly
+important after the fact.  (May have been important to run)
+
+

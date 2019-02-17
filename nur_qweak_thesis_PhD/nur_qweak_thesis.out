@@ -1,0 +1,194 @@
+\BOOKMARK [0][-]{chapter.1}{INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Thesis Outline}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{The Standard Model and the Electroweak Interaction}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{The Q-weak Experiment}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Inelastic Parity Violating Asymmetry}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.4.1}{The \040Resonance}{section.1.4}% 6
+\BOOKMARK [1][-]{section.1.5}{The Beam Normal Single Spin Asymmetry}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.6}{Inelastic Beam Normal Single Spin Asymmetry}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{THEORY}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Electron Scattering Beyond the Born Approximation}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.1.1}{Two-photon Exchange}{section.2.1}% 11
+\BOOKMARK [1][-]{section.2.2}{Experimental Observation of Beam Spin Asymmetry}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.1}{Measurement of the Beam Normal Single Spin Asymmetry}{section.2.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.2}{Imaginary Part of Two-photon Diagram}{section.2.2}% 14
+\BOOKMARK [1][-]{section.2.3}{The ^* Form Factors}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.4}{Model Calculations}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.5}{Goals of the Inelastic Transverse Physics Program}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{EXPERIMENTAL SETUP}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Q-weak Kinematics}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.2}{Experimental Techniques}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.3}{TJNAF Overview}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.1}{Polarized Source and Helicity Reversal}{section.3.3}% 22
+\BOOKMARK [1][-]{section.3.4}{Accelerator}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.5}{Beamline}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.6}{Beam Monitoring}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.6.1}{Beam Position Monitor}{section.3.6}% 26
+\BOOKMARK [2][-]{subsection.3.6.2}{Superharp}{section.3.6}% 27
+\BOOKMARK [2][-]{subsection.3.6.3}{Beam Current Monitor}{section.3.6}% 28
+\BOOKMARK [2][-]{subsection.3.6.4}{Beam Energy}{section.3.6}% 29
+\BOOKMARK [3][-]{subsubsection.3.6.4.1}{Absolute Beam Energy}{subsection.3.6.4}% 30
+\BOOKMARK [3][-]{subsubsection.3.6.4.2}{Energy Asymmetry}{subsection.3.6.4}% 31
+\BOOKMARK [2][-]{subsection.3.6.5}{Beam Modulation}{section.3.6}% 32
+\BOOKMARK [2][-]{subsection.3.6.6}{Halo Monitors}{section.3.6}% 33
+\BOOKMARK [2][-]{subsection.3.6.7}{Fast Feed Back}{section.3.6}% 34
+\BOOKMARK [1][-]{section.3.7}{Polarimetry}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.7.1}{M\370ller Polarimetry}{section.3.7}% 36
+\BOOKMARK [2][-]{subsection.3.7.2}{Compton Polarimetry}{section.3.7}% 37
+\BOOKMARK [1][-]{section.3.8}{Targets}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.8.1}{Liquid Hydrogen Target}{section.3.8}% 39
+\BOOKMARK [3][-]{subsubsection.3.8.1.1}{Raster}{subsection.3.8.1}% 40
+\BOOKMARK [2][-]{subsection.3.8.2}{Solid Target}{section.3.8}% 41
+\BOOKMARK [1][-]{section.3.9}{Collimators and Shielding }{chapter.3}% 42
+\BOOKMARK [1][-]{section.3.10}{Q-weak Toroidal Magnetic Spectrometer: QTor}{chapter.3}% 43
+\BOOKMARK [2][-]{subsection.3.10.1}{Hall Probe}{section.3.10}% 44
+\BOOKMARK [1][-]{section.3.11}{Detector System}{chapter.3}% 45
+\BOOKMARK [2][-]{subsection.3.11.1}{Main Cerenkov Detectors}{section.3.11}% 46
+\BOOKMARK [3][-]{subsubsection.3.11.1.1}{Low Noise Electronics}{subsection.3.11.1}% 47
+\BOOKMARK [3][-]{subsubsection.3.11.1.2}{Focal Plane Scanner}{subsection.3.11.1}% 48
+\BOOKMARK [2][-]{subsection.3.11.2}{Luminosity Monitors}{section.3.11}% 49
+\BOOKMARK [1][-]{section.3.12}{Tracking Detector System}{chapter.3}% 50
+\BOOKMARK [1][-]{section.3.13}{Data Acquisition}{chapter.3}% 51
+\BOOKMARK [1][-]{section.3.14}{Online Displays and Data Monitoring}{chapter.3}% 52
+\BOOKMARK [1][-]{section.3.15}{Parity Analysis}{chapter.3}% 53
+\BOOKMARK [0][-]{chapter.4}{BEAM MODULATION}{}% 54
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 55
+\BOOKMARK [1][-]{section.4.2}{Design Measurement Time vs Modulation Asymmetry}{chapter.4}% 56
+\BOOKMARK [1][-]{section.4.3}{Design Modulation Amplitude}{chapter.4}% 57
+\BOOKMARK [1][-]{section.4.4}{Optics Calculation}{chapter.4}% 58
+\BOOKMARK [2][-]{subsection.4.4.1}{Simulation using OptiM}{section.4.4}% 59
+\BOOKMARK [2][-]{subsection.4.4.2}{Inverse Beamline}{section.4.4}% 60
+\BOOKMARK [2][-]{subsection.4.4.3}{Forward Beamline with Position or Angle Kicks}{section.4.4}% 61
+\BOOKMARK [2][-]{subsection.4.4.4}{Forward Rays with Energy Kick}{section.4.4}% 62
+\BOOKMARK [1][-]{section.4.5}{Beam Modulation Hardware}{chapter.4}% 63
+\BOOKMARK [2][-]{subsection.4.5.1}{Air-Core Coils}{section.4.5}% 64
+\BOOKMARK [2][-]{subsection.4.5.2}{IOC}{section.4.5}% 65
+\BOOKMARK [2][-]{subsection.4.5.3}{VME 4145 Signal Generator}{section.4.5}% 66
+\BOOKMARK [2][-]{subsection.4.5.4}{Relay Board}{section.4.5}% 67
+\BOOKMARK [2][-]{subsection.4.5.5}{Trim Power Amplifier}{section.4.5}% 68
+\BOOKMARK [2][-]{subsection.4.5.6}{LEM Current Transducer}{section.4.5}% 69
+\BOOKMARK [2][-]{subsection.4.5.7}{Energy Modulation Hardware}{section.4.5}% 70
+\BOOKMARK [2][-]{subsection.4.5.8}{ADCs}{section.4.5}% 71
+\BOOKMARK [1][-]{section.4.6}{Hardware Components Calibration and Important Constraints}{chapter.4}% 72
+\BOOKMARK [2][-]{subsection.4.6.1}{Coil Positioning}{section.4.6}% 73
+\BOOKMARK [2][-]{subsection.4.6.2}{Waveform}{section.4.6}% 74
+\BOOKMARK [2][-]{subsection.4.6.3}{Waveform Phase}{section.4.6}% 75
+\BOOKMARK [2][-]{subsection.4.6.4}{Frequency Range}{section.4.6}% 76
+\BOOKMARK [2][-]{subsection.4.6.5}{Maximum Current}{section.4.6}% 77
+\BOOKMARK [2][-]{subsection.4.6.6}{Magnetic Field Calibration of the MAT Coils}{section.4.6}% 78
+\BOOKMARK [1][-]{section.4.7}{Controls and Software Sketch}{chapter.4}% 79
+\BOOKMARK [1][-]{section.4.8}{Modulation Modes}{chapter.4}% 80
+\BOOKMARK [1][-]{section.4.9}{Machine Protection Analysis}{chapter.4}% 81
+\BOOKMARK [1][-]{section.4.10}{Beam Modulation Cycle}{chapter.4}% 82
+\BOOKMARK [1][-]{section.4.11}{Response to Modulation Signal and Applications}{chapter.4}% 83
+\BOOKMARK [1][-]{section.4.12}{Extension to Other JLab Parity Violation Experiments}{chapter.4}% 84
+\BOOKMARK [1][-]{section.4.13}{Summary}{chapter.4}% 85
+\BOOKMARK [0][-]{chapter.5}{BEAMLINE OPTICS AND FALSE ASYMMETRIES}{}% 86
+\BOOKMARK [1][-]{section.5.1}{Detector Sensitivities}{chapter.5}% 87
+\BOOKMARK [1][-]{section.5.2}{Beamline Optics}{chapter.5}% 88
+\BOOKMARK [2][-]{subsection.5.2.1}{BPM Sign Corrections}{section.5.2}% 89
+\BOOKMARK [2][-]{subsection.5.2.2}{Beam Modulation Tune Parameter Scan}{section.5.2}% 90
+\BOOKMARK [2][-]{subsection.5.2.3}{Effect of Fast Feed Back on Beam Modulation}{section.5.2}% 91
+\BOOKMARK [1][-]{section.5.3}{QTOR Fringe Field and Optics Change}{chapter.5}% 92
+\BOOKMARK [2][-]{subsection.5.3.1}{QTOR Corrector Magnet}{section.5.3}% 93
+\BOOKMARK [1][-]{section.5.4}{BPM Resolution}{chapter.5}% 94
+\BOOKMARK [2][-]{subsection.5.4.1}{Position Resolution}{section.5.4}% 95
+\BOOKMARK [2][-]{subsection.5.4.2}{Target BPM Angle Resolution}{section.5.4}% 96
+\BOOKMARK [2][-]{subsection.5.4.3}{Consistency Check of the Target Variable}{section.5.4}% 97
+\BOOKMARK [1][-]{section.5.5}{Helicity Correlated Pedestal Analysis}{chapter.5}% 98
+\BOOKMARK [2][-]{subsection.5.5.1}{Motivation}{section.5.5}% 99
+\BOOKMARK [2][-]{subsection.5.5.2}{Analysis Procedure and Goal}{section.5.5}% 100
+\BOOKMARK [2][-]{subsection.5.5.3}{Experimental Method}{section.5.5}% 101
+\BOOKMARK [2][-]{subsection.5.5.4}{Results}{section.5.5}% 102
+\BOOKMARK [3][-]{subsubsection.5.5.4.1}{Helicity Correlated Pedestal Signal Pickup}{subsection.5.5.4}% 103
+\BOOKMARK [3][-]{subsubsection.5.5.4.2}{Helicity Correlated Pedestal Sensitivities}{subsection.5.5.4}% 104
+\BOOKMARK [3][-]{subsubsection.5.5.4.3}{Stability of Pedestal Subtracted Signal}{subsection.5.5.4}% 105
+\BOOKMARK [3][-]{subsubsection.5.5.4.4}{Detector Resolution}{subsection.5.5.4}% 106
+\BOOKMARK [2][-]{subsection.5.5.5}{Summary of Helicity Correlated Pedestal Survey}{section.5.5}% 107
+\BOOKMARK [0][-]{chapter.6}{BEAM NORMAL SINGLE SPIN ASYMMETRY}{}% 108
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 109
+\BOOKMARK [1][-]{section.6.2}{Available Data Set and Conditions of Experimental Data Taking}{chapter.6}% 110
+\BOOKMARK [1][-]{section.6.3}{Extraction of Raw Asymmetries}{chapter.6}% 111
+\BOOKMARK [1][-]{section.6.4}{Asymmetry Correction using Linear Regression}{chapter.6}% 112
+\BOOKMARK [1][-]{section.6.5}{Systematic Uncertainties}{chapter.6}% 113
+\BOOKMARK [2][-]{subsection.6.5.1}{Regression Scheme Dependence}{section.6.5}% 114
+\BOOKMARK [2][-]{subsection.6.5.2}{Regression Time Dependence}{section.6.5}% 115
+\BOOKMARK [2][-]{subsection.6.5.3}{Nonlinearity}{section.6.5}% 116
+\BOOKMARK [2][-]{subsection.6.5.4}{Cut Dependence}{section.6.5}% 117
+\BOOKMARK [2][-]{subsection.6.5.5}{Fit Scheme Dependence}{section.6.5}% 118
+\BOOKMARK [2][-]{subsection.6.5.6}{Summary of Systematic Uncertainties}{section.6.5}% 119
+\BOOKMARK [1][-]{section.6.6}{Extraction of Physics Asymmetry}{chapter.6}% 120
+\BOOKMARK [2][-]{subsection.6.6.1}{Beam Polarization}{section.6.6}% 121
+\BOOKMARK [2][-]{subsection.6.6.2}{Background Corrections}{section.6.6}% 122
+\BOOKMARK [3][-]{subsubsection.6.6.2.1}{Target Aluminum Windows}{subsection.6.6.2}% 123
+\BOOKMARK [3][-]{subsubsection.6.6.2.2}{Beamline Background}{subsection.6.6.2}% 124
+\BOOKMARK [3][-]{subsubsection.6.6.2.3}{Other Neutral Background}{subsection.6.6.2}% 125
+\BOOKMARK [3][-]{subsubsection.6.6.2.4}{Elastic Radiative Tail}{subsection.6.6.2}% 126
+\BOOKMARK [2][-]{subsection.6.6.3}{Other Corrections}{section.6.6}% 127
+\BOOKMARK [3][-]{subsubsection.6.6.3.1}{Radiative Correction}{subsection.6.6.3}% 128
+\BOOKMARK [3][-]{subsubsection.6.6.3.2}{Detector Bias Correction}{subsection.6.6.3}% 129
+\BOOKMARK [3][-]{subsubsection.6.6.3.3}{Q^2 Precision}{subsection.6.6.3}% 130
+\BOOKMARK [3][-]{subsubsection.6.6.3.4}{Azimuthal Acceptance Correction}{subsection.6.6.3}% 131
+\BOOKMARK [2][-]{subsection.6.6.4}{Beam Normal Single Spin Asymmetry in LH_2}{section.6.6}% 132
+\BOOKMARK [1][-]{section.6.7}{Comparison With Model Calculation}{chapter.6}% 133
+\BOOKMARK [1][-]{section.6.8}{BNSSA in LH_2 at Both Sides of the Inelastic Peak}{chapter.6}% 134
+\BOOKMARK [1][-]{section.6.9}{BNSSA in Nuclear Targets}{chapter.6}% 135
+\BOOKMARK [1][-]{section.6.10}{Conclusion}{chapter.6}% 136
+\BOOKMARK [0][-]{chapter.7}{SUMMARY OF CONTRIBUTIONS AND CONCLUSIONS}{}% 137
+\BOOKMARK [1][-]{section.7.1}{Beam Modulation}{chapter.7}% 138
+\BOOKMARK [1][-]{section.7.2}{Beamline Work}{chapter.7}% 139
+\BOOKMARK [1][-]{section.7.3}{Beam Normal Single Spin Asymmetry in Inelastic e+p Scattering}{chapter.7}% 140
+\BOOKMARK [0][-]{appendix.A}{Beam Modulation}{}% 141
+\BOOKMARK [1][-]{section.A.1}{Beam Modulation}{appendix.A}% 142
+\BOOKMARK [0][-]{appendix.B}{QTor}{}% 143
+\BOOKMARK [1][-]{section.B.1}{Hall Probe}{appendix.B}% 144
+\BOOKMARK [1][-]{section.B.2}{QTor Corrector Magnet}{appendix.B}% 145
+\BOOKMARK [2][-]{subsection.B.2.1}{TOSCA}{section.B.2}% 146
+\BOOKMARK [0][-]{appendix.C}{Helicity Corelated Pedestal Analysis}{}% 147
+\BOOKMARK [1][-]{section.C.1}{Helicity Corelated Pedestal Analysis}{appendix.C}% 148
+\BOOKMARK [2][-]{subsection.C.1.1}{Condition of Experimental Data Taking}{section.C.1}% 149
+\BOOKMARK [2][-]{subsection.C.1.2}{Condition of This Analysis}{section.C.1}% 150
+\BOOKMARK [2][-]{subsection.C.1.3}{Configuration}{section.C.1}% 151
+\BOOKMARK [2][-]{subsection.C.1.4}{List of Variables}{section.C.1}% 152
+\BOOKMARK [3][-]{subsubsection.C.1.4.1}{Main Cerenkov Detector\(17\)}{subsection.C.1.4}% 153
+\BOOKMARK [3][-]{subsubsection.C.1.4.2}{Downstream Luminosity Detector\(9\)}{subsection.C.1.4}% 154
+\BOOKMARK [3][-]{subsubsection.C.1.4.3}{Uptream Luminosity Detector\(9\)}{subsection.C.1.4}% 155
+\BOOKMARK [3][-]{subsubsection.C.1.4.4}{Beam Current Monitor\(9\)}{subsection.C.1.4}% 156
+\BOOKMARK [2][-]{subsection.C.1.5}{List of Runs}{section.C.1}% 157
+\BOOKMARK [3][-]{subsubsection.C.1.5.1}{Wien 0}{subsection.C.1.5}% 158
+\BOOKMARK [3][-]{subsubsection.C.1.5.2}{Wien 1}{subsection.C.1.5}% 159
+\BOOKMARK [3][-]{subsubsection.C.1.5.3}{Wien 2}{subsection.C.1.5}% 160
+\BOOKMARK [3][-]{subsubsection.C.1.5.4}{Wien 3}{subsection.C.1.5}% 161
+\BOOKMARK [3][-]{subsubsection.C.1.5.5}{Wien 4}{subsection.C.1.5}% 162
+\BOOKMARK [3][-]{subsubsection.C.1.5.6}{Wien 5}{subsection.C.1.5}% 163
+\BOOKMARK [3][-]{subsubsection.C.1.5.7}{Wien 6}{subsection.C.1.5}% 164
+\BOOKMARK [3][-]{subsubsection.C.1.5.8}{Wien 7}{subsection.C.1.5}% 165
+\BOOKMARK [3][-]{subsubsection.C.1.5.9}{Wien 8}{subsection.C.1.5}% 166
+\BOOKMARK [3][-]{subsubsection.C.1.5.10}{Wien 9}{subsection.C.1.5}% 167
+\BOOKMARK [3][-]{subsubsection.C.1.5.11}{Wien 10}{subsection.C.1.5}% 168
+\BOOKMARK [1][-]{section.C.2}{Background Detectors}{appendix.C}% 169
+\BOOKMARK [0][-]{appendix.D}{Beam Normal Single Spin Asymmetry in Inelastic e-p Scattering}{}% 170
+\BOOKMARK [1][-]{section.D.1}{Condition of Experimental Data Taking}{appendix.D}% 171
+\BOOKMARK [1][-]{section.D.2}{Weight Calculation for Main Detector Yields}{appendix.D}% 172
+\BOOKMARK [1][-]{section.D.3}{Uncertainty in Physics Asymmetries}{appendix.D}% 173
+\BOOKMARK [1][-]{section.D.4}{Corrections}{appendix.D}% 174
+\BOOKMARK [1][-]{section.D.5}{Barsum vs PMTavg Asymmetries}{appendix.D}% 175
+\BOOKMARK [1][-]{section.D.6}{PMT Asymmetries}{appendix.D}% 176
+\BOOKMARK [1][-]{section.D.7}{Detector Sensitivities}{appendix.D}% 177
+\BOOKMARK [1][-]{section.D.8}{Regression Scheme Dependence}{appendix.D}% 178
+\BOOKMARK [2][-]{subsection.D.8.1}{Regression Time Dependence}{section.D.8}% 179
+\BOOKMARK [2][-]{subsection.D.8.2}{Cut Dependence}{section.D.8}% 180
+\BOOKMARK [1][-]{section.D.9}{Systematic Uncertainties for Other Transverse Datasets}{appendix.D}% 181
+\BOOKMARK [1][-]{section.D.10}{Beamline Background Correction}{appendix.D}% 182
+\BOOKMARK [0][-]{appendix.E}{Miscellaneous}{}% 183
+\BOOKMARK [1][-]{section.E.1}{Target BPM Angle Resolution}{appendix.E}% 184
+\BOOKMARK [1][-]{section.E.2}{Regression Independent Variable Correlation}{appendix.E}% 185
+\BOOKMARK [1][-]{section.E.3}{Relative Weighted Yield Stability for Q-weak}{appendix.E}% 186
+\BOOKMARK [0][-]{appendix.F}{Database Stress Test}{}% 187
+\BOOKMARK [1][-]{section.F.1}{Database Stress Test}{appendix.F}% 188
+\BOOKMARK [2][-]{subsection.F.1.1}{Database Stress Test}{section.F.1}% 189
+\BOOKMARK [0][-]{appendix.G}{Regression Schemes}{}% 190
+\BOOKMARK [0][-]{appendix.H}{Q-weak Collaboration}{}% 191
+\BOOKMARK [0][-]{figure.caption.200}{BIBLIOGRAPHY}{}% 192
+\BOOKMARK [0][-]{figure.caption.200}{REFERENCES}{}% 193
+\BOOKMARK [0][-]{appendix*.201}{VITA}{}% 194

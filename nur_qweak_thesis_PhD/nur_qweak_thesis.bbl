@@ -1,0 +1,1283 @@
+\begin{thebibliography}{100}
+
+\bibitem{SM_figure}
+MissMJ.
+\newblock Standard model of elementary particles.
+\newblock (free to use, original file created by user) Own work by uploader,
+  PBS NOVA, Fermilab, Office of Science, United States Department of Energy,
+  Particle Data Group. Licensed under Creative Commons Attribution 3.0 via
+  Wikimedia Commons
+  -\url{http://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg\#mediaviewer/File:Standard_Model_of_Elementary_Particles.svg},
+  2014.
+
+\bibitem{presentation:kent_crex}
+Kent Paschke.
+\newblock {Overview of Parity-Viola1ng Electron Scattering.}
+\newblock CREX Workshop,
+  \url{https://www.jlab.org/conferences/crex/sun/Paschke_CREX_IntroPVES.pdf},
+  March 2013.
+
+\bibitem{leacock_qweak}
+John Leacock.
+\newblock {\em Measuring the Weak Charge of the Proton and the Hadronic Parity
+  Violation of the N $\rightarrow \Delta$ Transition}.
+\newblock PhD thesis, Virginia Polytechnic Institute \& State University,
+  Blacksburg, VA 24061-0002, USA, October 2012.
+
+\bibitem{PhysRevC.76.035205}
+J.~Arrington, W.~Melnitchouk, and J.~A. Tjon.
+\newblock Global analysis of proton elastic form factor data with two-photon
+  exchange corrections.
+\newblock {\em Phys. Rev. C}, 76:035205, Sep 2007.
+
+\bibitem{PhysRevC.70.045206}
+B.~Pasquini and M.~Vanderhaeghen.
+\newblock Resonance estimates for single spin asymmetries in elastic
+  electron-nucleon scattering.
+\newblock {\em Phys. Rev. C}, 70:045206, Oct 2004.
+
+\bibitem{Pasquini2005}
+B.~Pasquini and M.~Vanderhaeghen.
+\newblock Single spin asymmetries in elastic electron-nucleon scattering.
+\newblock {\em Eur Phys J}, 24:29--32, 2005.
+
+\bibitem{presentation:pasquini_Mainz}
+Barbara Pasquini.
+\newblock {Two-Photon Physics: Theory.}
+\newblock MAMI and
+  Beyond:~\url{http://wwwkph.kph.uni-mainz.de/T//MAMIandBeyond/02\%20Dienstag/08\%20Pasquini.pdf},
+  April 2009.
+
+\bibitem{kmyers_qweak}
+Kathrine Myers.
+\newblock {\em The First Determination of the Proton's Weak Charge Through
+  Parity-Violating Asymmetry Measurements in Elastic e+p and e+Al Scattering}.
+\newblock PhD thesis, The George Washington University, Washington, DC 20052,
+  USA, May 2012.
+
+\bibitem{elog:peiqing_analysis588}
+Peiqing Wang.
+\newblock {Simulated elastic flux images on main bars.}
+\newblock
+  ELOG-Analysis-588:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/588},
+  May 2012.
+
+\bibitem{jie_qweak_thesis}
+Jie Pan.
+\newblock {\em Towards a Precision Measurement of Parity-Violating e-p Elastic
+  Scattering at Low Momentum Transfer}.
+\newblock PhD thesis, University of Manitoba, Winnipeg, Manitoba, Canada, June
+  2012.
+
+\bibitem{hclog:armd_249809}
+David Armstrong.
+\newblock {BMod energy modulation: indeed, needs FFB paused.}
+\newblock
+  HCLOG-249809:~\url{https://hallcweb.jlab.org/hclog/1201_archive/120124094154.html},
+  January 2012.
+
+\bibitem{Allison:2014tpu}
+T.~Allison et~al.
+\newblock {The Q_weak Experimental Apparatus}.
+\newblock 2014.
+
+\bibitem{elog:adesh_analysis837}
+Adesh Subedi.
+\newblock {Simulation of QTor scans using QWGEANT3.}
+\newblock
+  ELOG-Analysis-837:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/837},
+  December 2012.
+
+\bibitem{elog:nur_ancillary44}
+Nuruzzaman.
+\newblock {$Q^{2}$ for transverse N-to-Delta from GEANT-III.}
+\newblock ELOG-Ancillary-44:~\url{https://qweak.jlab.org/elog/Ancillary/44},
+  July 2013.
+
+\bibitem{elog:nur_ancillary145}
+Nuruzzaman.
+\newblock {PMT Asymmetries for Inelastic Transverse Dataset on LH2.}
+\newblock ELOG-Ancillary-145:~\url{https://qweak.jlab.org/elog/Ancillary/145},
+  November 2014.
+
+\bibitem{qweak_proposal_2007}
+Q~weak Collaboration.
+\newblock {The Q-weak Experiment: "A Search for New Physics at the TeV Scale
+  via a Measurement of the Proton's Weak Charge"}.
+\newblock Technical Report E05-008 Jeopardy proposal, December 2007.
+
+\bibitem{qweak25percent}
+D.~Androic et~al.
+\newblock {First Determination of the Weak Charge of the Proton}.
+\newblock 2013.
+
+\bibitem{nur_qweak_ICNFP_paper}
+{Nuruzzaman}.
+\newblock Qweak: First direct measurement of the weak charge of the proton.
+\newblock {\em EPJ Web of Conferences}, 71:00100, 2014.
+
+\bibitem{buddhini_qweak}
+Buddhini Waidyawansa.
+\newblock {\em A 3\% Measurement of the Beam Normal Single Spin Asymmetry in
+  Forward Angle Elastic Electron-Proton Scattering using the Qweak Setup}.
+\newblock PhD thesis, Ohio University, Athens OH 45701, USA, August 2013.
+
+\bibitem{magee_moller}
+Joshua Magee.
+\newblock {The Qweak Run 2 Moller Polarimetry Analysis.}
+\newblock Technical Report Qweak-DocDB-1955, January 2014.
+
+\bibitem{elog:nur_management5}
+Nuruzzaman.
+\newblock {Q-weak regression scheme.}
+\newblock ELOG-Management-5:~\url{https://qweak.jlab.org/elog/Management/5},
+  April 2012.
+
+\bibitem{book:QuarksAndLeptones}
+Francis Halzen and Alan~D. Martin.
+\newblock {\em Quarks and Leptones: An Introductory Course in Modern Particle
+  Physics}.
+\newblock John Wiley and Sons, Inc., 1st edition, January 1984.
+
+\bibitem{Prescott1978347}
+C.Y. Prescott, W.B. Atwood, R.L.A. Cottrell, H.~DeStaebler, Edward~L. Garwin,
+  A.~Gonidec, R.H. Miller, L.S. Rochester, T.~Sato, D.J. Sherden, C.K.
+  Sinclair, S.~Stein, R.E. Taylor, J.E. Clendenin, V.W. Hughes, N.~Sasao, K.P.
+  Schüler, M.G. Borghini, K.~Lübelsmeyer, and W.~Jentschke.
+\newblock Parity non-conservation in inelastic electron scattering.
+\newblock {\em Physics Letters B}, 77(3):347 -- 352, 1978.
+
+\bibitem{Hasert1973138}
+F.J. Hasert, S.~Kabe, W.~Krenz, J.~Von Krogh, D.~Lanske, J.~Morfin,
+  K.~Schultze, H.~Weerts, G.H. Bertrand-Coremans, J.~Sacton, W.~Van Doninck,
+  P.~Vilain, U.~Camerini, D.C. Cundy, R.~Baldi, I.~Danilchenko, W.F. Fry,
+  D.~Haidt, S.~Natali, P.~Musset, B.~Osculati, R.~Palmer, J.B.M. Pattison, D.H.
+  Perkins, A.~Pullia, A.~Rousset, W.~Venus, H.~Wachsmuth, V.~Brisson,
+  B.~Degrange, M.~Haguenauer, L.~Kluberg, U.~Nguyen-Khac, P.~Petiau,
+  E.~Belotti, S.~Bonetti, D.~Cavalli, C.~Conta, E.~Fiorini, M.~Rollier,
+  B.~Aubert, D.~Blum, L.M. Chounet, P.~Heusse, A.~Lagarrigue, A.M. Lutz,
+  A.~Orkin-Lecourtois, J.P. Vialle, F.W. Bullock, M.J. Esten, T.W. Jones,
+  J.~McKenzie, A.G. Michette, G.~Myatt, and W.G. Scott.
+\newblock Observation of neutrino-like interactions without muon or electron in
+  the gargamelle neutrino experiment.
+\newblock {\em Physics Letters B}, 46(1):138 -- 140, 1973.
+
+\bibitem{Hasert1973121}
+F.J. Hasert, H.~Faissner, W.~Krenz, J.~Von Krogh, D.~Lanske, J.~Morfin,
+  K.~Schultze, H.~Weerts, G.H. Bertrand-Coremans, J.~Lemonne, J.~Sacton, W.~Van
+  Doninck, P.~Vilain, C.~Baltay, D.C. Cundy, D.~Haidt, M.~Jaffre, P.~Musset,
+  A.~Pullia, S.~Natali, J.B.M. Pattison, D.H. Perkins, A.~Rousset, W.~Venus,
+  H.W. Wachsmuth, V.~Brisson, B.~Degrange, M.~Haguenauer, L.~Kluberg,
+  U.~Nguyen-Khac, P.~Petiau, E.~Bellotti, S.~Bonetti, D.~Cavalli, C.~Conta,
+  E.~Fiorini, M.~Rollier, B.~Aubert, L.M. Chounet, P.~Heusse, A.~Lagarrigue,
+  A.M. Lutz, J.P. Vialle, F.W. Bullock, M.J. Esten, T.~Jones, J.~McKenzie, A.G.
+  Michette, G.~Myatt, J.~Pinfold, and W.G. Scott.
+\newblock Search for elastic muon-neutrino electron scattering.
+\newblock {\em Physics Letters B}, 46(1):121 -- 124, 1973.
+
+\bibitem{Hasert19741}
+F.J. Hasert, S.~Kabe, W.~Krenz, J.~Von Krogh, D.~Lanske, J.~Morfin,
+  K.~Schultze, H.~Weerts, G.~Bertrand-Coremans, J.~Sacton, W.~Van Doninck,
+  P.~Vilain, R.~Baldi, U.~Camerini, D.C. Cundy, I.~Danilchenko, W.F. Fry,
+  D.~Haidt, S.~Natali, P.~Musset, B.~Osculati, R.~Palmer, J.B.M. Pattison, D.H.
+  Perkins, A.~Pullia, A.~Rousset, W.~Venus, H.~Wachsmuth, V.~Brisson,
+  B.~Degrange, M.~Haguenauer, L.~Kluberg, U.~Nguyen-Khac, P.~Petiau,
+  E.~Bellotti, S.~Bonetti, D.~Cavalli, C.~Conta, E.~Fiorini, M.~Rollier,
+  B.~Aubert, D.~Blum, L.M. Chounet, P.~Heusse, A.~Lagarrigue, A.M. Lutz,
+  A.~Orkin-Lecourtois, J.P. Vialle, F.W. Bullock, M.J. Esten, T.W. Jones,
+  J.~McKenzie, A.G. Michette, G.~Myatt, and W.G. Scott.
+\newblock Observation of neutrino-like interactions without muon or electron in
+  the gargamelle neutrino experiment.
+\newblock {\em Nuclear Physics B}, 73(1):1 -- 22, 1974.
+
+\bibitem{PhysRevLett.92.161802}
+G.~W. Bennett, B.~Bousquet, H.~N. Brown, G.~Bunce, R.~M. Carey, P.~Cushman,
+  G.~T. Danby, P.~T. Debevec, M.~Deile, H.~Deng, S.~K. Dhawan, V.~P. Druzhinin,
+  L.~Duong, F.~J.~M. Farley, G.~V. Fedotovich, F.~E. Gray, D.~Grigoriev,
+  M.~Grosse-Perdekamp, A.~Grossmann, M.~F. Hare, D.~W. Hertzog, X.~Huang, V.~W.
+  Hughes, M.~Iwasaki, K.~Jungmann, D.~Kawall, and B.~I. Khazin.
+\newblock Measurement of the negative muon anomalous magnetic moment to 0.7
+  ppm.
+\newblock {\em Phys. Rev. Lett.}, 92(16):161802, Apr 2004.
+
+\bibitem{Klempt:2002cu}
+E.~Klempt.
+\newblock {Baryon resonances and strong QCD}.
+\newblock 2002.
+
+\bibitem{Mukhopadhyay1998481}
+Nimai~C. Mukhopadhyay, M.J. Ramsey-Musolf, Steven~J. Pollock, Jùn Líu, and
+  H.-W. Hammer.
+\newblock Parity-violating excitation of the $\delta$(1232): hadron structure
+  and new physics.
+\newblock {\em Nuclear Physics A}, 633(3):481 -- 518, 1998.
+
+\bibitem{PhysRevD.65.033001}
+Shi-Lin Zhu, C.~M. Maekawa, G.~Sacco, B.~R. Holstein, and M.~J. Ramsey-Musolf.
+\newblock Electroweak radiative corrections to parity-violating
+  electroexcitation of the $\delta$.
+\newblock {\em Phys. Rev. D}, 65:033001, Dec 2001.
+
+\bibitem{Arrington2011782}
+J.~Arrington, P.G. Blunden, and W.~Melnitchouk.
+\newblock Review of two-photon exchange in electron scattering.
+\newblock {\em Progress in Particle and Nuclear Physics}, 66(4):782 -- 833,
+  2011.
+
+\bibitem{PhysRevLett.84.1398}
+M.~K. Jones, K.~A. Aniol, F.~T. Baker, J.~Berthot, P.~Y. Bertin, W.~Bertozzi,
+  A.~Besson, L.~Bimbot, W.~U. Boeglin, E.~J. Brash, D.~Brown, J.~R. Calarco,
+  L.~S. Cardman, C.-C. Chang, J.-P. Chen, E.~Chudakov, S.~Churchwell,
+  E.~Cisbani, D.~S. Dale, R.~De~Leo, A.~Deur, B.~Diederich, J.~J. Domingo,
+  M.~B. Epstein, L.~A. Ewell, K.~G. Fissum, A.~Fleck, H.~Fonvieille,
+  S.~Frullani, J.~Gao, F.~Garibaldi, A.~Gasparian, G.~Gerstner, S.~Gilad,
+  R.~Gilman, A.~Glamazdin, C.~Glashausser, J.~Gomez, V.~Gorbenko, A.~Green,
+  J.-O. Hansen, C.~R. Howell, G.~M. Huber, M.~Iodice, C.~W. de~Jager,
+  S.~Jaminion, X.~Jiang, W.~Kahl, J.~J. Kelly, M.~Khayat, L.~H. Kramer,
+  G.~Kumbartzki, M.~Kuss, E.~Lakuriki, G.~Lavessi\`ere, J.~J. LeRose, M.~Liang,
+  R.~A. Lindgren, N.~Liyanage, G.~J. Lolos, R.~Macri, R.~Madey, S.~Malov, D.~J.
+  Margaziotis, P.~Markowitz, K.~McCormick, J.~I. McIntyre, R.~L.~J. van~der
+  Meer, R.~Michaels, B.~D. Milbrath, J.~Y. Mougey, S.~K. Nanda, E.~A. J.~M.
+  Offermann, Z.~Papandreou, C.~F. Perdrisat, G.~G. Petratos, N.~M. Piskunov,
+  R.~I. Pomatsalyuk, D.~L. Prout, V.~Punjabi, G.~Qu\'em\'ener, R.~D. Ransome,
+  B.~A. Raue, Y.~Roblin, R.~Roche, G.~Rutledge, P.~M. Rutt, A.~Saha, T.~Saito,
+  A.~J. Sarty, T.~P. Smith, P.~Sorokin, S.~Strauch, R.~Suleiman, K.~Takahashi,
+  J.~A. Templon, L.~Todor, P.~E. Ulmer, G.~M. Urciuoli, P.~Vernin, B.~Vlahovic,
+  H.~Voskanyan, K.~Wijesooriya, B.~B. Wojtsekhowski, R.~J. Woo, F.~Xiong, G.~D.
+  Zainea, and Z.-L. Zhou.
+\newblock $g_{Ep}$/$g_{Mp}$ ratio by polarization transfer in e(pol.) p -$>$ e
+  p(pol.).
+\newblock {\em Phys. Rev. Lett.}, 84:1398--1402, Feb 2000.
+
+\bibitem{PhysRevLett.88.092301}
+O.~Gayou, K.~A. Aniol, T.~Averett, F.~Benmokhtar, W.~Bertozzi, L.~Bimbot, E.~J.
+  Brash, J.~R. Calarco, C.~Cavata, Z.~Chai, C.-C. Chang, T.~Chang, J.-P. Chen,
+  E.~Chudakov, R.~De~Leo, S.~Dieterich, R.~Endres, M.~B. Epstein, S.~Escoffier,
+  K.~G. Fissum, H.~Fonvieille, S.~Frullani, J.~Gao, F.~Garibaldi, S.~Gilad,
+  R.~Gilman, A.~Glamazdin, C.~Glashausser, J.~Gomez, V.~Gorbenko, J.-O. Hansen,
+  D.~W. Higinbotham, G.~M. Huber, M.~Iodice, C.~W. de~Jager, X.~Jiang, M.~K.
+  Jones, J.~J. Kelly, M.~Khandaker, A.~Kozlov, K.~M. Kramer, G.~Kumbartzki,
+  J.~J. LeRose, D.~Lhuillier, R.~A. Lindgren, N.~Liyanage, G.~J. Lolos, D.~J.
+  Margaziotis, F.~Marie, P.~Markowitz, K.~McCormick, R.~Michaels, B.~D.
+  Milbrath, S.~K. Nanda, D.~Neyret, Z.~Papandreou, L.~Pentchev, C.~F.
+  Perdrisat, N.~M. Piskunov, V.~Punjabi, T.~Pussieux, G.~Qu\'em\'ener, R.~D.
+  Ransome, B.~A. Raue, R.~Roch\'e, M.~Rvachev, A.~Saha, C.~Salgado,
+  S.~\ifmmode~\check{S}\else \v{S}\fi{}irca, I.~Sitnik, S.~Strauch, L.~Todor,
+  E.~Tomasi-Gustafsson, G.~M. Urciuoli, H.~Voskanyan, K.~Wijesooriya, B.~B.
+  Wojtsekhowski, X.~Zheng, and L.~Zhu.
+\newblock Measurement of ${G}_{{E}_{p}}/{G}_{{M}_{p}}$ in e(pol)p-$>$ep(pol) to
+  $q^{2}\phantom{\rule{0ex}{0ex}}=\phantom{\rule{0ex}{0ex}}5.6{\mathrm{gev}}^{2}$.
+\newblock {\em Phys. Rev. Lett.}, 88:092301, Feb 2002.
+
+\bibitem{PhysRevD.50.5491}
+L.~Andivahis, P.~E. Bosted, A.~Lung, L.~M. Stuart, J.~Alster, R.~G. Arnold,
+  C.~C. Chang, F.~S. Dietrich, W.~Dodge, R.~Gearhart, J.~Gomez, K.~A.
+  Griffioen, R.~S. Hicks, C.~E. Hyde-Wright, C.~Keppel, S.~E. Kuhn,
+  J.~Lichtenstadt, R.~A. Miskimen, G.~A. Peterson, G.~G. Petratos, S.~E. Rock,
+  S.~Rokni, W.~K. Sakumoto, M.~Spengos, K.~Swartz, Z.~Szalata, and L.~H. Tao.
+\newblock Measurements of the electric and magnetic form factors of the proton
+  from $q^{2}$=1.75 to 8.83 (gev/c)$^{2}$.
+\newblock {\em Phys. Rev. D}, 50:5491--5517, Nov 1994.
+
+\bibitem{PhysRevC.70.015206}
+M.~E. Christy, A.~Ahmidouch, C.~S. Armstrong, J.~Arrington, R.~Asaturyan,
+  S.~Avery, O.~K. Baker, D.~H. Beck, H.~P. Blok, C.~W. Bochna, W.~Boeglin,
+  P.~Bosted, M.~Bouwhuis, H.~Breuer, D.~S. Brown, A.~Bruell, R.~D. Carlini,
+  N.~S. Chant, A.~Cochran, L.~Cole, S.~Danagoulian, D.~B. Day, J.~Dunne,
+  D.~Dutta, R.~Ent, H.~C. Fenker, B.~Fox, L.~Gan, H.~Gao, K.~Garrow,
+  D.~Gaskell, A.~Gasparian, D.~F. Geesaman, P.~L.~J. Gu\`eye, M.~Harvey, R.~J.
+  Holt, X.~Jiang, C.~E. Keppel, E.~Kinney, Y.~Liang, W.~Lorenzon, A.~Lung,
+  P.~Markowitz, J.~W. Martin, K.~McIlhany, D.~McKee, D.~Meekins, M.~A. Miller,
+  R.~G. Milner, J.~H. Mitchell, H.~Mkrtchyan, B.~A. Mueller, A.~Nathan,
+  G.~Niculescu, I.~Niculescu, T.~G. O'Neill, V.~Papavassiliou, S.~F. Pate,
+  R.~B. Piercey, D.~Potterveld, R.~D. Ransome, J.~Reinhold, E.~Rollinde,
+  P.~Roos, A.~J. Sarty, R.~Sawafta, E.~C. Schulte, E.~Segbefia, C.~Smith,
+  S.~Stepanyan, S.~Strauch, V.~Tadevosyan, L.~Tang, R.~Tieulent, A.~Uzzle,
+  W.~F. Vulcan, S.~A. Wood, F.~Xiong, L.~Yuan, M.~Zeier, B.~Zihlmann, and
+  V.~Ziskin.
+\newblock Measurements of electron-proton elastic cross sections for
+  $0.4\&lt;{Q}^{2}\&lt;5.5\phantom{\rule{0.3em}{0ex}}{(\mathrm{GeV}c)}^{2}$.
+\newblock {\em Phys. Rev. C}, 70:015206, Jul 2004.
+
+\bibitem{Arrington:2003tq}
+J.~Arrington.
+\newblock {New measurement of G(E) / G(M) for the proton}.
+\newblock 2003.
+
+\bibitem{PhysRevLett.91.142303}
+P.~A.~M. Guichon and M.~Vanderhaeghen.
+\newblock How to reconcile the rosenbluth and the polarization transfer methods
+  in the measurement of the proton form factors.
+\newblock {\em Phys. Rev. Lett.}, 91:142303, Oct 2003.
+
+\bibitem{Dahiya:2011tv}
+Harleen Dahiya and Neetika Sharma.
+\newblock {Electromagnetic form factors of the nucleon in the chiral
+  constituent quark model}.
+\newblock 2011.
+
+\bibitem{PhysRevLett.95.172503}
+S.~Kondratyuk, P.~G. Blunden, W.~Melnitchouk, and J.~A. Tjon.
+\newblock $\delta$ resonance contribution to two-photon exchange in
+  electron-proton scattering.
+\newblock {\em Phys. Rev. Lett.}, 95:172503, Oct 2005.
+
+\bibitem{PhysRevD.49.5671}
+R.~C. Walker, B.~W. Filippone, J.~Jourdan, R.~Milner, R.~McKeown,
+  D.~Potterveld, L.~Andivahis, R.~Arnold, D.~Benton, P.~Bosted, G.~deChambrier,
+  A.~Lung, S.~E. Rock, Z.~M. Szalata, A.~Para, F.~Dietrich, K.~Van~Bibber,
+  J.~Button-Shafer, B.~Debebe, R.~S. Hicks, S.~Dasu, P.~de~Barbaro, A.~Bodek,
+  H.~Harada, M.~W. Krasny, K.~Lang, E.~M. Riordan, R.~Gearhart, L.~W. Whitlow,
+  and J.~Alster.
+\newblock Measurements of the proton elastic form factors for 1$\le {Q}^{2}\le$
+  3 (gev/c)$^{2}$ at slac.
+\newblock {\em Phys. Rev. D}, 49:5671--5689, Jun 1994.
+
+\bibitem{PhysRevLett.94.142301}
+I.~A. Qattan, J.~Arrington, R.~E. Segel, X.~Zheng, K.~Aniol, O.~K. Baker,
+  R.~Beams, E.~J. Brash, J.~Calarco, A.~Camsonne, J.-P. Chen, M.~E. Christy,
+  D.~Dutta, R.~Ent, S.~Frullani, D.~Gaskell, O.~Gayou, R.~Gilman,
+  C.~Glashausser, K.~Hafidi, J.-O. Hansen, D.~W. Higinbotham, W.~Hinton, R.~J.
+  Holt, G.~M. Huber, H.~Ibrahim, L.~Jisonna, M.~K. Jones, C.~E. Keppel,
+  E.~Kinney, G.~J. Kumbartzki, A.~Lung, D.~J. Margaziotis, K.~McCormick,
+  D.~Meekins, R.~Michaels, P.~Monaghan, P.~Moussiegt, L.~Pentchev,
+  C.~Perdrisat, V.~Punjabi, R.~Ransome, J.~Reinhold, B.~Reitz, A.~Saha,
+  A.~Sarty, E.~C. Schulte, K.~Slifer, P.~Solvignon, V.~Sulkosky,
+  K.~Wijesooriya, and B.~Zeidman.
+\newblock Precision rosenbluth measurement of the proton elastic form factors.
+\newblock {\em Phys. Rev. Lett.}, 94:142301, Apr 2005.
+
+\bibitem{PhysRevLett.91.142304}
+P.~G. Blunden, W.~Melnitchouk, and J.~A. Tjon.
+\newblock Two-photon exchange and elastic electron-proton scattering.
+\newblock {\em Phys. Rev. Lett.}, 91:142304, Oct 2003.
+
+\bibitem{Kondratyuk:2006am}
+S.~Kondratyuk, P.G. Blunden, W.~Melnitchouk, and J.A. Tjon.
+\newblock {Two-photon exchange in elastic and inelastic electron-proton
+  scattering}.
+\newblock {\em AIP Conf.Proc.}, 842:336--338, 2006.
+
+\bibitem{Niroula_BornApproximation_thesis}
+Megh~Raj Niroula.
+\newblock {\em {Beyond the Born Approximation: a Precise Comparison of e+p and
+  e-p Elastic Scattering in the CEBAF Large Acceptance Spectrometer (CLAS)}}.
+\newblock PhD thesis, Old Dominion University, VA, May 2010.
+
+\bibitem{PhysRev.184.1860}
+Gary~K. Greenhut.
+\newblock Two-photon exchange in electron-proton scattering.
+\newblock {\em Phys. Rev.}, 184:1860--1867, Aug 1969.
+
+\bibitem{PhysRevC.23.363}
+Raymond~G. Arnold, Carl~E. Carlson, and Franz Gross.
+\newblock Polarization transfer in elastic electron scattering from nucleons
+  and deuterons.
+\newblock {\em Phys. Rev. C}, 23:363--374, Jan 1981.
+
+\bibitem{PhysRev.79.615}
+M.~N. Rosenbluth.
+\newblock High energy elastic scattering of electrons on protons.
+\newblock {\em Phys. Rev.}, 79:615--619, Aug 1950.
+
+\bibitem{PhysRevC.75.038201}
+S.~Kondratyuk and P.~G. Blunden.
+\newblock Contribution of spin 1/2 and 3/2 resonances to two-photon exchange
+  effects in elastic electron-proton scattering.
+\newblock {\em Phys. Rev. C}, 75:038201, Mar 2007.
+
+\bibitem{Gorchtein2005273}
+M.~Gorchtein, P.A.M. Guichon, and M.~Vanderhaeghen.
+\newblock Normal spin asymmetries in elastic electron-proton scattering.
+\newblock {\em Nuclear Physics A}, 755(0):273 -- 276, 2005.
+\newblock Proceedings of the 10th International Conference on the Structure of
+  Baryons.
+
+\bibitem{juliette_G0_thesis}
+Juliette Mammei.
+\newblock {\em Parity-Violating Elastic Electron Nucleon Scattering:
+  Measurement of the Strange Quark Content of the Nucleon and Towards a
+  Measurement of the Weak Charge of the Proton}.
+\newblock PhD thesis, Virginia Polytechnic Institute \& State University,
+  Blacksburg, VA 24061-0002, USA, April 2010.
+
+\bibitem{Gorchtein2004234}
+M~Gorchtein, P.A.M Guichon, and M~Vanderhaeghen.
+\newblock Beam normal spin asymmetry in elastic lepton-nucleon scattering.
+\newblock {\em Nuclear Physics A}, 741(0):234 -- 248, 2004.
+
+\bibitem{doi:10.1146/annurev.nucl.57.090506.123116}
+Carl~E. Carlson and Marc Vanderhaeghen.
+\newblock Two-photon physics in hadronic processes.
+\newblock {\em Annual Review of Nuclear and Particle Science}, 57(1):171--204,
+  2007.
+
+\bibitem{PhysRevC.73.055201}
+M.~Gorchtein.
+\newblock Beam normal spin asymmetry in the quasireal compton scattering
+  approximation.
+\newblock {\em Phys. Rev. C}, 73:055201, May 2006.
+
+\bibitem{Segovia2014}
+Jorge Segovia, Chen Chen, IanC. Cloët, CraigD. Roberts, SebastianM. Schmidt,
+  and Shaolong Wan.
+\newblock Elastic and transition form factors of the delta(1232).
+\newblock {\em Few-Body Systems}, 55(1):1--33, 2014.
+
+\bibitem{PhysRevD.86.093022}
+G.~Ramalho, M.~T. Pe\~na, and A.~Stadler.
+\newblock Shape of the $\delta$ baryon in a covariant spectator quark model.
+\newblock {\em Phys. Rev. D}, 86:093022, Nov 2012.
+
+\bibitem{Alexandrou2009115}
+Constantia Alexandrou, Tomasz Korzec, Giannis Koutsou, Cédric Lorcé, John~W.
+  Negele, Vladimir Pascalutsa, Antonios Tsapalis, and Marc Vanderhaeghen.
+\newblock Quark transverse charge densities in the from lattice \{QCD\}.
+\newblock {\em Nuclear Physics A}, 825(1-2):115 -- 144, 2009.
+
+\bibitem{presentation:CarlCarlson_qweak}
+Carl Carlson.
+\newblock {BSA.N$\Delta @$Qweak.}
+\newblock The Q-weak Collaboration Meeting,
+  \url{https://qweak.jlab.org/doc-private/ShowDocument?docid=2060}, August
+  2014.
+
+\bibitem{website:jlab}
+{Thomas Jefferson National Accelerator Facility}.
+\newblock \url{http://www.jlab.org/}.
+
+\bibitem{qweak_proposal_2001}
+Q~weak Collaboration.
+\newblock {The Q-Weak Experiment: A search for New Physics at the TeV Scale via
+  a Measurement of the Proton's Weak Charge}.
+\newblock Technical Report E02-020 proposal, December 2001.
+
+\bibitem{qweak_proposal_2004}
+Q~weak Collaboration.
+\newblock {The Q-weak Experiment: "A Search for New Physics at the TeV Scale
+  via a Measurement of the Proton's Weak Charge"}.
+\newblock Technical Report E05-008 Jeopardy proposal, December 2004.
+
+\bibitem{Beise2005289}
+E.J. Beise, M.L. Pitt, and D.T. Spayde.
+\newblock The sample experiment and weak nucleon structure.
+\newblock {\em Progress in Particle and Nuclear Physics}, 54(1):289 -- 350,
+  2005.
+
+\bibitem{PhysRevLett.95.092001}
+D.~S. Armstrong, J.~Arvieux, R.~Asaturyan, T.~Averett, S.~L. Bailey,
+  G.~Batigne, D.~H. Beck, E.~J. Beise, J.~Benesch, L.~Bimbot, J.~Birchall,
+  A.~Biselli, P.~Bosted, E.~Boukobza, H.~Breuer, R.~Carlini, R.~Carr, N.~Chant,
+  Y.-C. Chao, S.~Chattopadhyay, R.~Clark, S.~Covrig, A.~Cowley, D.~Dale,
+  C.~Davis, W.~Falk, J.~M. Finn, T.~Forest, G.~Franklin, C.~Furget, D.~Gaskell,
+  J.~Grames, K.~A. Griffioen, K.~Grimm, B.~Guillon, H.~Guler, L.~Hannelius,
+  R.~Hasty, A.~Hawthorne Allen, T.~Horn, K.~Johnston, M.~Jones, P.~Kammel,
+  R.~Kazimi, P.~M. King, A.~Kolarkar, E.~Korkmaz, W.~Korsch, S.~Kox, J.~Kuhn,
+  J.~Lachniet, L.~Lee, J.~Lenoble, E.~Liatard, J.~Liu, B.~Loupias, A.~Lung,
+  G.~A. MacLachlan, D.~Marchand, J.~W. Martin, K.~W. McFarlane, D.~W. McKee,
+  R.~D. McKeown, F.~Merchez, H.~Mkrtchyan, B.~Moffit, M.~Morlet, I.~Nakagawa,
+  K.~Nakahara, M.~Nakos, R.~Neveling, S.~Niccolai, S.~Ong, S.~Page,
+  V.~Papavassiliou, S.~F. Pate, S.~K. Phillips, M.~L. Pitt, M.~Poelker, T.~A.
+  Porcelli, G.~Qu\'em\'ener, B.~Quinn, W.~D. Ramsay, A.~W. Rauf, J.-S. Real,
+  J.~Roche, P.~Roos, G.~A. Rutledge, J.~Secrest, N.~Simicevic, G.~R. Smith,
+  D.~T. Spayde, S.~Stepanyan, M.~Stutzman, V.~Sulkosky, V.~Tadevosyan,
+  R.~Tieulent, J.~van~de Wiele, W.~van Oers, E.~Voutier, W.~Vulcan, G.~Warren,
+  S.~P. Wells, S.~E. Williamson, S.~A. Wood, C.~Yan, J.~Yun, and V.~Zeps.
+\newblock Strange-quark contributions to parity-violating asymmetries in the
+  forward g0 electron-proton scattering experiment.
+\newblock {\em Phys. Rev. Lett.}, 95:092001, Aug 2005.
+
+\bibitem{PhysRevLett.96.022003}
+K.~A. Aniol, D.~S. Armstrong, T.~Averett, H.~Benaoum, P.~Y. Bertin, E.~Burtin,
+  J.~Cahoon, G.~D. Cates, C.~C. Chang, Y.-C. Chao, J.-P. Chen, Seonho Choi,
+  E.~Chudakov, B.~Craver, F.~Cusanno, P.~Decowski, D.~Deepa, C.~Ferdi, R.~J.
+  Feuerbach, J.~M. Finn, S.~Frullani, K.~Fuoti, F.~Garibaldi, R.~Gilman,
+  A.~Glamazdin, V.~Gorbenko, J.~M. Grames, J.~Hansknecht, D.~W. Higinbotham,
+  R.~Holmes, T.~Holmstrom, T.~B. Humensky, H.~Ibrahim, C.~W. de~Jager,
+  X.~Jiang, L.~J. Kaufman, A.~Kelleher, A.~Kolarkar, S.~Kowalski, K.~S. Kumar,
+  D.~Lambert, P.~LaViolette, J.~LeRose, D.~Lhuillier, N.~Liyanage, D.~J.
+  Margaziotis, M.~Mazouz, K.~McCormick, D.~G. Meekins, Z.-E. Meziani,
+  R.~Michaels, B.~Moffit, P.~Monaghan, C.~Munoz-Camacho, S.~Nanda, V.~Nelyubin,
+  D.~Neyret, K.~D. Paschke, M.~Poelker, R.~Pomatsalyuk, Y.~Qiang, B.~Reitz,
+  J.~Roche, A.~Saha, J.~Singh, R.~Snyder, P.~A. Souder, R.~Subedi, R.~Suleiman,
+  V.~Sulkosky, W.~A. Tobias, G.~M. Urciuoli, A.~Vacheret, E.~Voutier, K.~Wang,
+  R.~Wilson, B.~Wojtsekhowski, and X.~Zheng.
+\newblock Parity-violating electron scattering from $^{4}\mathrm{He}$ and the
+  strange electric form factor of the nucleon.
+\newblock {\em Phys. Rev. Lett.}, 96:022003, Jan 2006.
+
+\bibitem{Leemann_CEBAF}
+C.~W. Leemann, D.~R. Douglas, and G.~A. Krafft.
+\newblock {"The Continuous Electron Beam Accelerator Facility: CEBAF at the
+  Jefferson Laboratory"}.
+\newblock Annual review of nuclear and particle science, vol. 51, no. 1, pp.
+  413-450, 2001.
+
+\bibitem{website:jlab_12GeV}
+{12 GeV Upgrade: Future Science at Jefferson Lab}.
+\newblock \url{http://www.jlab.org/12GeV/index.html}.
+
+\bibitem{presentation:poelker_source_1436}
+B.~Poelker.
+\newblock {Q-weak e-Source Issues.}
+\newblock Q-weak Collaboration Meeting,
+  Q-weak-DocDB1436:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1436},
+  June 2011.
+
+\bibitem{jlab_source_book}
+{C. Hernandez-Garcia, P. G. O'Shea, and M. L. Stutzman.}
+\newblock {\em {Electron sources for accelerators.}}
+\newblock Physics Today, February 2008.
+
+\bibitem{grames_double_wien_proceedings}
+J.~Grames, P.~Adderley, J.~Benesch, J.~Clark, J.~Hansknecht, R.~Kazimi,
+  D.~Machie, M.~Poelker, M.~Stutzman, R.~Suleiman, and Y.~Zhang.
+\newblock Two wien filter spin flipper.
+\newblock {\em Particle Accelerator Conference Proceedings}, page 862, 2011.
+
+\bibitem{nur_beamline_sketch}
+Nuruzzaman and $\textit{et}$. $\textit{all}$.
+\newblock {List of Beam Components \& Critical BPMs}.
+\newblock Technical Report Qweak-DocDB-1203, Feb 2010.
+
+\bibitem{sarah_G0}
+Sarah Phillips.
+\newblock {\em {Measurement of the Strange Quark Contribution to the Vector
+  Structure of the Proton}}.
+\newblock PhD thesis, College of William and Mary, Virginia, Nov 2007.
+
+\bibitem{bpm1}
+G.~Krafft and A.~Hofler.
+\newblock {How the Linac Beam Position Monitors Work}.
+\newblock CEBAF Technical Note CEBAF-TN-93-004, 1993.
+
+\bibitem{puckett_GEPIII}
+Andrew James~Ruehe Puckett.
+\newblock {\em {Recoil Polarization Measurements of the Proton Electromagnetic
+  Form Factor Ratio to High Momentum Transfer}}.
+\newblock PhD thesis, Massachusetts Institute of Technology, MA, Feb 2010.
+
+\bibitem{hauger_polarimeter}
+M.~Hauger, A.~Honegger, J.~Jourdan, G.~Kubon, T.~Petitjean, D.~Rohe, I.~Sick,
+  G.~Warren, H.~Wöhrle, J.~Zhao, R.~Ent, J.~Mitchell, D.~Crabb, A.~Tobias,
+  M.~Zeier, and B.~Zihlmann.
+\newblock A high-precision polarimeter.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators,Spectrometers,Detectors and Associated Equipment}, 462(3):382 --
+  392, 2001.
+
+\bibitem{bpm2}
+Paul Gueye.
+\newblock {Status of the actual beam position monitors in the Hall C beamline.}
+\newblock CEBAF Technical Note Unpublished internal document, December 1995.
+
+\bibitem{nur_linear_reg}
+Nuruzzaman and $\textit{et}$. $\textit{all}$.
+\newblock {Position and Angle Determination at the $Q^p_{weak}$ Target for Beam
+  Modulation}.
+\newblock Technical Report Qweak-DocDB-1208, March 2010.
+\newblock Used as a reference for how the position and angle determination at
+  the target for beam modulation in the $Q^p_{weak}$ experiment.
+
+\bibitem{leo_book}
+William~R. Leo.
+\newblock {\em Techniques for Nuclear and Particle Physics Experiments: A
+  How-to Approach}.
+\newblock Springer, Berlin, second revised edition, February 1994.
+
+\bibitem{bclasie}
+Benjamin Micheal~Patrick Clasie.
+\newblock {\em {Measurement of Nuclear Transparency from $A(e,e^\prime \pi^+)$
+  Reactions}}.
+\newblock PhD thesis, Massachusetts Institute of Technology, MA, Aug 2006.
+
+\bibitem{nur_kaon_thesis}
+Nuruzzaman.
+\newblock {Effective Kaon-Nucleon Cross Section from Nuclear Transparency
+  Measured in the $A(e e^\prime K^+)$ Reaction}.
+\newblock Master's thesis, Mississippi State University, MS, Aug 2010.
+
+\bibitem{ramesh_bcm}
+Ramesh Subedi.
+\newblock {Summary report on the BCMs for QWEAK}.
+\newblock Technical Report Qweak-DocDB-1777, January 2013.
+
+\bibitem{Yan:1993fd}
+C.~Yan, R.~Carlini, and D.~Neuffer.
+\newblock {Beam energy measurement using the Hall C beamline}.
+\newblock {\em Conf.Proc.}, C930517:2136--2138, 1993.
+
+\bibitem{Yan1995261}
+C.~Yan, P.~Adderley, D.~Barker, J.~Beaufait, K.~Capek, R.~Carlini, J.~Dahlberg,
+  E.~Feldl, K.~Jordan, B.~Kross, W.~Oren, R.~Wojcik, and J.~VanDyke.
+\newblock Superharp - a wire scanner with absolute position readout for beam
+  energy measurement at \{CEBAF\}.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  365(2-3):261 -- 267, 1995.
+
+\bibitem{OPTIM}
+Valery Lebedev.
+\newblock {OPTIM: Computer code for linear and non-linear optics calculations}.
+\newblock
+  \url{http://www-bdnew.fnal.gov/pbar/organizationalchart/lebedev/OptiM/optim.htm},
+  June 2007.
+
+\bibitem{nur_bm_final}
+Nuruzzaman and $\textit{et}$. $\textit{all}$.
+\newblock {Beam Modulation in the 3C Line for the $Q^p_{weak}$ Experiment}.
+\newblock Hall-C Technical Note Qweak-DocDB-2126, Jun 2009.
+\newblock Beam Modulation write up for $Q^p_{weak}$ experiment.
+
+\bibitem{jlab_ffb1}
+V.~Lebedev R.~Dickson.
+\newblock {Fast Feedback System for Energy and Beam Stabilization}.
+\newblock Technical Report JLAB-ACE-99-10, Jefferson Lab, Newport News, VA,
+  1999.
+
+\bibitem{jlab_ffb2}
+B.~Bevins.
+\newblock {A Distributed Feedback System for Rapid Stabilazation of Arbitrary
+  Process Variables}.
+\newblock Technical Report JLAB-ACE-01-09, Jefferson Lab, Newport News, VA.
+
+\bibitem{Hauger2001382}
+M.~Hauger, A.~Honegger, J.~Jourdan, G.~Kubon, T.~Petitjean, D.~Rohe, I.~Sick,
+  G.~Warren, H.~Wöhrle, J.~Zhao, R.~Ent, J.~Mitchell, D.~Crabb, A.~Tobias,
+  M.~Zeier, and B.~Zihlmann.
+\newblock A high-precision polarimeter.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 462(3):382
+  -- 392, 2001.
+
+\bibitem{Loppacher_moeller_thesis}
+Matthias Loppacher.
+\newblock {\em {Moller polarimeter for CEBAF Hall-C}}.
+\newblock PhD thesis, University of Basel, Basel, April 1996.
+
+\bibitem{rakitha_qweak}
+Rakitha Beminiwattha.
+\newblock {\em A Measurement of the Weak Charge of the Proton through Parity
+  Violating Electron Scattering using the Qweak Apparatus: A 21\% Result}.
+\newblock PhD thesis, Ohio University, Athens OH 45701, USA, August 2013.
+
+\bibitem{presentation:amar_compton_1732}
+A.~Narayan.
+\newblock {Precision Compton Polarimetry During the Qweak Experiment.}
+\newblock DNP 2012 Conference,
+  Q-weak-DocDB1732:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1732},
+  October 2012.
+
+\bibitem{amar_compton_thesis}
+Amrendra Narayan.
+\newblock {\em {Electron Detector in Compton polarimeter for CEBAF Hall-C}}.
+\newblock PhD thesis, Mississippi State University, Mississippi State, MS,
+  December 2014.
+
+\bibitem{carlos_compton_thesis}
+Juan~Carlos Cornejo.
+\newblock {\em {Photon Detector in Compton polarimeter for CEBAF Hall-C}}.
+\newblock PhD thesis, College of William and Mary, Williamsburg, VA, USA, April
+  2015.
+
+\bibitem{greg_target_hydrogen}
+Gregory Smith, Silviu Covrig, and Jim Dunne.
+\newblock {"Qweak Liquid Hydrogen Target: Preliminary Design \& Safety
+  Document"}.
+\newblock Technical Report Qweak-DocDB-1041, August 2009.
+
+\bibitem{website:ansys}
+{ANSYS: A fluid dynamics simulation code}.
+\newblock \url{http://www.ansys.com/}.
+
+\bibitem{greg_target_solid}
+Gregory Smith.
+\newblock {"Optics Target"}.
+\newblock Technical Report Qweak-DocDB-1144, December 2009.
+
+\bibitem{peiqing_qweak_masters}
+Peiqing Wang.
+\newblock {Magnetic Field Simulation and Mapping for the $Q_{Weak}^{p}$
+  Experiment}.
+\newblock Master's thesis, University of Manitoba, Winnipeg, Manitoba, Canada,
+  2009.
+
+\bibitem{manual_hall_probe}
+Lake Shore Cryotronics Inc., 575 McCorkle Boulevard, Westerville, OH 43082.
+\newblock {\em {Gaussmeter Hall Probes}}.
+
+\bibitem{nur_qtor_hallprobe}
+Nuruzzaman.
+\newblock {Hall Probe Mount Design for QTOR}.
+\newblock Technical Report Qweak-DocDB-1244, May 2010.
+
+\bibitem{peiqing_qweak}
+Peiqing Wang.
+\newblock {\em A Measurement Of The Protons Weak Charge Using An Integration
+  Cerenkov Detector System}.
+\newblock PhD thesis, University of Manitoba, Winnipeg, Manitoba, Canada, June
+  2011.
+
+\bibitem{website:TRIUMF}
+{TRIUMF: Canada's national laboratory for particle and nuclear physics.}
+\newblock \url{http://www.triumf.ca/}.
+
+\bibitem{manual_TRIUMF_ADC}
+B.~Roberts and H.~Hui.
+\newblock {\em {VME QWEAK 8 Channel 18-bit ADC}}.
+\newblock TRIUMF, rev 1 edition, November 2007.
+
+\bibitem{lackey_qweak}
+John Lackey.
+\newblock {\em The First Direct Measurement of the Weak Charge of the Proton}.
+\newblock PhD thesis, College of William and Mary, Williamsburg, VA, USA,
+  October 2011.
+
+\bibitem{website:CODA_wiki}
+Jlab~DAQ Group.
+\newblock {CEBAF Online Data Acquisition.}
+\newblock \url{https://coda.jlab.org/wiki/index.php/Main_Page}.
+
+\bibitem{Banta:1997ac}
+P.~Banta, J.~Chen, W.G. Heyes, E.~Jastrzembski, C.~Timmer, et~al.
+\newblock {The Front end readout control software for the CODA data acquisition
+  toolkit}.
+\newblock 1997.
+
+\bibitem{brads_communication}
+Brad Sawatzky.
+\newblock Private communication, 2009-2014.
+
+\bibitem{website:target}
+Nuruzzaman and Greg Smith.
+\newblock {Hall-C Target Status Page}.
+\newblock \url{https://hallcweb.jlab.org/poltar/}.
+
+\bibitem{website:bmod}
+Nuruzzaman.
+\newblock {Beam Modulation Website: Hall-C Beamline Optics}.
+\newblock \url{https://hallcweb.jlab.org/qweak/bmod/}.
+
+\bibitem{jhoskins_thesis}
+Josh Hoskins.
+\newblock {\em {Region III rotator, beam modulation sensitivities}}.
+\newblock PhD thesis, College of William and Mary, Williamsburg, VA, December
+  2014.
+
+\bibitem{don_thesis}
+Donald Jones.
+\newblock {\em {Compton polarimeter}}.
+\newblock PhD thesis, University of Virginia, Charlottesville, VA, December
+  2014.
+
+\bibitem{mack_communication}
+Dave Mack.
+\newblock Private communication, 2009-2014.
+
+\bibitem{PhysRevLett.98.032301}
+A.~Acha, K.~A. Aniol, D.~S. Armstrong, J.~Arrington, T.~Averett, S.~L. Bailey,
+  J.~Barber, A.~Beck, H.~Benaoum, J.~Benesch, P.~Y. Bertin, P.~Bosted,
+  F.~Butaru, E.~Burtin, G.~D. Cates, Y.-C. Chao, J.-P. Chen, E.~Chudakov,
+  E.~Cisbani, B.~Craver, F.~Cusanno, R.~De~Leo, P.~Decowski, A.~Deur, R.~J.
+  Feuerbach, J.~M. Finn, S.~Frullani, S.~A. Fuchs, K.~Fuoti, R.~Gilman, L.~E.
+  Glesener, K.~Grimm, J.~M. Grames, J.~O. Hansen, J.~Hansknecht, D.~W.
+  Higinbotham, R.~Holmes, T.~Holmstrom, H.~Ibrahim, C.~W. de~Jager, X.~Jiang,
+  J.~Katich, L.~J. Kaufman, A.~Kelleher, P.~M. King, A.~Kolarkar, S.~Kowalski,
+  E.~Kuchina, K.~S. Kumar, L.~Lagamba, P.~LaViolette, J.~LeRose, R.~A.
+  Lindgren, D.~Lhuillier, N.~Liyanage, D.~J. Margaziotis, P.~Markowitz, D.~G.
+  Meekins, Z.-E. Meziani, R.~Michaels, B.~Moffit, S.~Nanda, V.~Nelyubin,
+  K.~Otis, K.~D. Paschke, S.~K. Phillips, M.~Poelker, R.~Pomatsalyuk,
+  M.~Potokar, Y.~Prok, A.~Puckett, X.~Qian, Y.~Qiang, B.~Reitz, J.~Roche,
+  A.~Saha, B.~Sawatzky, J.~Singh, K.~Slifer, S.~Sirca, R.~Snyder, P.~Solvignon,
+  P.~A. Souder, M.~L. Stutzman, R.~Subedi, R.~Suleiman, V.~Sulkosky, W.~A.
+  Tobias, P.~E. Ulmer, G.~M. Urciuoli, K.~Wang, A.~Whitbeck, R.~Wilson,
+  B.~Wojtsekhowski, H.~Yao, Y.~Ye, X.~Zhan, X.~Zheng, S.~Zhou, and V.~Ziskin.
+\newblock Precision measurements of the nucleon strange form factors at
+  ${Q}^{2} \sim$ (gev)$^{2}$.
+\newblock {\em Phys. Rev. Lett.}, 98:032301, Jan 2007.
+
+\bibitem{jim_sensitivity}
+James Birchall.
+\newblock {Updated Requirements on Beam Properties for Qweak, August 2008}.
+\newblock Technical Report Qweak-DocDB-818, August 2008.
+
+\bibitem{jay_communication}
+Jay Benesch.
+\newblock Private communication, 2009-2014.
+
+\bibitem{optim_deck}
+Jay Benesch and Nuruzzaman.
+\newblock {OptiM Deck for Beam Modulation in Hall-C beamline.}
+\newblock
+  Q-weak-DocDB1367:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1367},
+  May 2011.
+
+\bibitem{tiefenback_communication}
+Michael Tiefenback.
+\newblock Private communication, 2009.
+
+\bibitem{nur_bm_energy}
+Nuruzzaman and $\textit{et}$. $\textit{all}$.
+\newblock {How Beam Energy will be Identified in $Q^p_{weak}$}.
+\newblock Technical Report Qweak-DocDB-1149, January 2010.
+\newblock Used as a reference for how the beam enegy will be identified in the
+  $Q^p_{weak}$ experiment.
+
+\bibitem{DocDB:sarin_979}
+Sarin Philip.
+\newblock {JLab MAT (or HF) coil characteristics.}
+\newblock
+  DocDB-979:~\url{http://qweak.jlab.org/doc-public/ShowDocument?docid=979},
+  June 2009.
+
+\bibitem{epics_ioc}
+Martin~R. Kraimer.
+\newblock {Experimental Physics and Industrial Control System (EPICS): Input /
+  Output Controller (IOC) Application Developer's Guide}.
+\newblock Technical Report APS Release 3.11.6, May 1994.
+
+\bibitem{manual_vmivme4145}
+GE Fanuc.
+\newblock {\em {VME-4145 4-Channel 16-bit Arbitrary Waveform Generator Board
+  with Autocalibration}}, first edition edition, June 2008.
+
+\bibitem{website:kword}
+{KWord is an intuitive word processor and desktop publisher application. With
+  it, you can create informative and attractive documents with pleasure and
+  ease.}
+\newblock \url{http://www.kde.org/applications/office/kword/}.
+
+\bibitem{jlab_relay}
+Chad Seaton.
+\newblock {VME 16-Channel Relay Output Register}.
+\newblock Technical Report Qweak-DocDB-2122, May 2009.
+
+\bibitem{presentation:nur_bmod_1312}
+Nuruzzaman.
+\newblock {An Update on Beam Modulation for the Q-weak Experiment.}
+\newblock Q-weak Collaboration Meeting,
+  Q-weak-DocDB1312:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1312},
+  September 2010.
+
+\bibitem{1591576}
+T.~Allison, S.~Higgins, E.~Martin, W.~Merz, and S.~Philip.
+\newblock Jefferson lab's trim card ii.
+\newblock In {\em Particle Accelerator Conference, 2005. PAC 2005. Proceedings
+  of the}, pages 3670--3672, May 2005.
+
+\bibitem{LEM_CT-10T}
+LEM, West Lancashire Investment Centre, Skelmersdale, WN8 9TG, England.
+\newblock {\em Current Transducer CT 5..25-T}, 2006-2014.
+
+\bibitem{philip_communication}
+Sarin Philip.
+\newblock Private communication, 2009-2010.
+
+\bibitem{LEM_LA_55-P}
+LEM, West Lancashire Investment Centre, Skelmersdale, WN8 9TG, England.
+\newblock {\em Current Transducer LA 55-P/SP1}, 2006-2014.
+
+\bibitem{nur_bm_lem}
+Nuruzzaman.
+\newblock {LEM Current Transducer for the Beam Modulation System}.
+\newblock Technical Report Qweak-DocDB-2120, September 2011.
+
+\bibitem{JLab_ADC}
+Chad Seaton.
+\newblock {VME 32-Channel ADC Module}.
+\newblock Technical Report Qweak-DocDB-2121, May 2010.
+
+\bibitem{elog:don_analysis948}
+Donald Jones.
+\newblock {Ramp fill procedure documentation.}
+\newblock
+  ELOG-Analysis-948:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/948},
+  July 2013.
+
+\bibitem{nur_bm_controls}
+Nuruzzaman, Scott Higgins, Dave Mack, and Josh Hoskins.
+\newblock {Beam Modulation Controls and Software Sketch for the Q-weak
+  Experiment}.
+\newblock Technical Report Qweak-DocDB-2119, May 2010.
+
+\bibitem{higgins_communication}
+Scott Higgins.
+\newblock Private communication, 2009-2010.
+
+\bibitem{nur_bm_GUI_proposal}
+Nuruzzaman and $\textit{et}$. $\textit{all}$.
+\newblock {Beam Modulation GUI proposal}.
+\newblock Technical Report Qweak-DocDB-1140, December 2009.
+\newblock Submitted to accelerator division of JLab and was used as a reference
+  for control system of Beam Modulation in the $Q^p_{weak}$ experiment.
+
+\bibitem{nur_bm_machine_protection}
+Nuruzzaman and $\textit{et}$. $\textit{all}$.
+\newblock {Machine Protection Analysis of the Beam Modulation System for the
+  $Q^p_{weak}$ Experiment}.
+\newblock Technical Report Qweak-DocDB-1207, March 2010.
+\newblock {This analysis shows the worst case possibilities we can have during
+  the experiment for Beam Modulation in $Q^p_{weak}$ experiment.}
+
+\bibitem{moller_2010}
+K.~Kumar {\em et al.}
+\newblock {The MOLLER Experiment: Measurement Of Lepton Lepton Elastic
+  Reactions.}
+\newblock http://hallaweb.jlab.org/collab/PAC/PAC37/C12-09-005-Moller.pdf,
+  December 2010.
+
+\bibitem{nur_halla_beamline}
+Nuruzzaman.
+\newblock {Hall-A Beamline elements using Pass1 beam.}
+\newblock MSU-ELOG-296:~\url{http://urvashi.ph.msstate.edu:8080/mepgroup/296},
+  November 2012.
+
+\bibitem{elog:josh_analysis690}
+Josh Hoskins.
+\newblock {Effects of fitting BPM response with fixed phase.}
+\newblock
+  ELOG-Analysis-690:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/690},
+  August 2012.
+
+\bibitem{elog:kent_analysis695}
+Kent Paschke.
+\newblock {Beam Modulation response with FFB interference.}
+\newblock
+  ELOG-Analysis-695:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/695},
+  August 2012.
+
+\bibitem{elog:rob_qtor2}
+Rob Mahurin.
+\newblock {QTor misalignment estimate due to beam steering.}
+\newblock ELOG-QTor-2:~\url{https://qweak.jlab.org/elog/QTOR/2}, April 2011.
+
+\bibitem{elog:nur_qtor3}
+Nuruzzaman.
+\newblock {Estimation of beam steering due to QTOR fringe field using OPTIM.}
+\newblock ELOG-QTor-3:~\url{https://qweak.jlab.org/elog/QTOR/3}, April 2011.
+
+\bibitem{elog:nur_qtor4}
+Nuruzzaman.
+\newblock {Low Energy Electron Deflectng Due to QTOR fringe field using OPTIM.}
+\newblock ELOG-QTor-4:~\url{https://qweak.jlab.org/elog/QTOR/4}, April 2011.
+
+\bibitem{elog:nur_qtor5}
+Nuruzzaman.
+\newblock {Effect of corrector magnet in front of QTOR on beam steering due to
+  fringe field.}
+\newblock ELOG-QTor-5:~\url{https://qweak.jlab.org/elog/QTOR/5}, April 2011.
+
+\bibitem{elog:nur_qtor6}
+Nuruzzaman.
+\newblock {Effect of different fields in the corrector magnet in front of
+  QTOR.}
+\newblock ELOG-QTor-6:~\url{https://qweak.jlab.org/elog/QTOR/6}, April 2011.
+
+\bibitem{elog:nur_qtor7}
+Nuruzzaman.
+\newblock {Preliminary QTOR corrector magnet design and field map using TOSCA.}
+\newblock ELOG-QTor-7:~\url{https://qweak.jlab.org/elog/QTOR/7}, April 2011.
+
+\bibitem{elog:nur_qtor8}
+Nuruzzaman.
+\newblock {Realistic QTOR corrector magnet design, field map and basics using
+  TOSCA.}
+\newblock ELOG-QTor-8:~\url{https://qweak.jlab.org/elog/QTOR/8}, April 2011.
+
+\bibitem{elog:nur_qtor9}
+Nuruzzaman.
+\newblock {Power calculation for QTOR corrector magnet.}
+\newblock ELOG-QTor-9:~\url{https://qweak.jlab.org/elog/QTOR/9}, April 2011.
+
+\bibitem{elog:nur_qtor10}
+Nuruzzaman.
+\newblock {QTOR corrector magnet sensitivity to position and angle.}
+\newblock ELOG-QTor-10:~\url{https://qweak.jlab.org/elog/QTOR/10}, April 2011.
+
+\bibitem{elog:nur_qtor11}
+Nuruzzaman.
+\newblock {QTOR corrector magnet field along different octant.}
+\newblock ELOG-QTor-11:~\url{https://qweak.jlab.org/elog/QTOR/11}, April 2011.
+
+\bibitem{elog:nur_qtor12}
+Nuruzzaman.
+\newblock {QTOR corrector magnet project summary.}
+\newblock ELOG-QTor-12:~\url{https://qweak.jlab.org/elog/QTOR/12}, April 2011.
+
+\bibitem{buddhini_resolution}
+Buddhini Waidyawansa.
+\newblock {Beam Position and Angle Determination in Qweak}.
+\newblock Technical Report Qweak-DocDB-1772, December 2012.
+
+\bibitem{presentation:nur_BPMAngleResolution_1779}
+Nuruzzaman.
+\newblock {Target BPM Angle Resolution from OPTIM.}
+\newblock Q-weak Physics Meeting,
+  Q-weak-DocDB1779:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1779},
+  January 2013.
+
+\bibitem{presentation:mack_Wien0MDSensitivities_1776}
+Nuruzzaman.
+\newblock {Scheme Dependence of Rescaled Wien0 Main Detector Sensitivities.}
+\newblock Q-weak Physics Meeting,
+  Q-weak-DocDB1776:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1776},
+  February 2013.
+
+\bibitem{leacock_hel_cor_ped_ana}
+John Leacock.
+\newblock {Helicity Correlated Pedestal Differences for April 2011 from Qweak
+  Run I}.
+\newblock Technical report, VT, VA, Nov 2011.
+
+\bibitem{linRegTechNote}
+P.~P\'{e}bay.
+\newblock {Formulas for robust, One-Pass Parallel Computation of Covariances
+  and Arbitrary-Order Statistical Moments.}
+\newblock Sandia Report SAND2008-6212, Sandia National Laboratories, 2008.
+
+\bibitem{elogAcc:riad_1567146}
+R.~Suleiman, M.~Poelker, and J.~Grames.
+\newblock {Mott Measurements For Hall C.}
+\newblock HCLOG-1567146:~\url{https://cebaf.jlab.org/elog/entry/1567146},
+  February 2011.
+
+\bibitem{hclog:page_219054}
+Shelley Page.
+\newblock {Beam: Polarization studies at injector.}
+\newblock
+  HCLOG-219054:~\url{https://hallcweb.jlab.org/hclog/1102_archive/110208121825.html},
+  February 2011.
+
+\bibitem{mack_BCMLinearity}
+Dave Mack.
+\newblock {BCM Normalization Issues Part II: Calibrations and Linearity.}
+\newblock
+  Q-weak-DocDB1369:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1369},
+  March 2011.
+
+\bibitem{mack_nonlinearity}
+Dave Mack.
+\newblock {Non-linearity Specification for the Qweak Detector Chain}.
+\newblock Technical Report Qweak-DocDB-172, November 2004.
+
+\bibitem{magee_communication}
+Joshua Magee.
+\newblock Private communication, 2014.
+
+\bibitem{elog:nur_ancillary91}
+Nuruzzaman.
+\newblock {Beam Polarization from Moller Polarimeter for Transverse Run-II
+  Dataset.}
+\newblock ELOG-Ancillary-91:~\url{https://qweak.jlab.org/elog/Ancillary/91},
+  April 2014.
+
+\bibitem{elog:nur_ancillary43}
+Nuruzzaman.
+\newblock {Transverse Asymmetries for N-to-Delta in Nuclear Targets.}
+\newblock ELOG-Ancillary-43:~\url{https://qweak.jlab.org/elog/Ancillary/43},
+  July 2013.
+
+\bibitem{PhysRevC.72.034602}
+E.~D. Cooper and C.~J. Horowitz.
+\newblock Vector analyzing power in elastic electron-nucleus scattering.
+\newblock {\em Phys. Rev. C}, 72:034602, Sep 2005.
+
+\bibitem{PhysRevC.77.044606}
+M.~Gorchtein and C.~J. Horowitz.
+\newblock Analyzing power in elastic scattering of electrons off a spin-0
+  target.
+\newblock {\em Phys. Rev. C}, 77:044606, Apr 2008.
+
+\bibitem{presentation:josh_1891}
+Josh Magee.
+\newblock {Aluminum Status Qweak Collaboration Meeting.}
+\newblock Hall C collaboration meeting,
+  Q-weak-DocDB1891:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1819},
+  April 2013.
+
+\bibitem{mack_QweakBackgroundCorrections}
+Dave Mack.
+\newblock {Formalism for Qweak Background Corrections and Error Propagation}.
+\newblock Technical Report Qweak-DocDB-965, June 2014.
+
+\bibitem{elog:mack_analysis784}
+Dave Mack.
+\newblock {Wien0 Beamline Background Dilution Central Value and Uncertainty.}
+\newblock
+  ELOG-Analysis-784:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/784},
+  October 2012.
+
+\bibitem{elog:mack_analysis714}
+Dave Mack.
+\newblock {Input file for Wien 0 elastic e+p asymmetry corrections (v11 frozen
+  modulo unblinding).}
+\newblock
+  ELOG-Analysis-714:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/714},
+  September 2012.
+
+\bibitem{presentation:marty_2072}
+Martin McHugh.
+\newblock {Neutral Background Analysis.}
+\newblock \url{https://qweak.jlab.org/doc-private/ShowDocument?docid=2072},
+  September 2014.
+
+\bibitem{rakitha_neutral_background}
+Rakitha~S Beminiwattha.
+\newblock {Main Detector Neutral Background Contribution.}
+\newblock Technical Report Qweak-DocDB-1549, July 2012.
+
+\bibitem{presentation:BPWQweakTransverse_02_21_14}
+Buddhini Waidyawansa.
+\newblock {Qweak Transverse Asymmetry Measurements.}
+\newblock Hall C collaboration meeting,
+  Q-weak-DocDB1961:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1961},
+  February 2014.
+
+\bibitem{PhysRevLett.111.141803}
+D.~Androic, D.~S. Armstrong, A.~Asaturyan, T.~Averett, J.~Balewski,
+  J.~Beaufait, R.~S. Beminiwattha, J.~Benesch, F.~Benmokhtar, J.~Birchall,
+  R.~D. Carlini, G.~D. Cates, J.~C. Cornejo, S.~Covrig, M.~M. Dalton, C.~A.
+  Davis, W.~Deconinck, J.~Diefenbach, J.~F. Dowd, J.~A. Dunne, D.~Dutta, W.~S.
+  Duvall, M.~Elaasar, W.~R. Falk, J.~M. Finn, T.~Forest, D.~Gaskell, M.~T.~W.
+  Gericke, J.~Grames, V.~M. Gray, K.~Grimm, F.~Guo, J.~R. Hoskins, K.~Johnston,
+  D.~Jones, M.~Jones, R.~Jones, M.~Kargiantoulakis, P.~M. King, E.~Korkmaz,
+  S.~Kowalski, J.~Leacock, J.~Leckey, A.~R. Lee, J.~H. Lee, L.~Lee, S.~MacEwan,
+  D.~Mack, J.~A. Magee, R.~Mahurin, J.~Mammei, J.~W. Martin, M.~J. McHugh,
+  D.~Meekins, J.~Mei, R.~Michaels, A.~Micherdzinska, A.~Mkrtchyan,
+  H.~Mkrtchyan, N.~Morgan, K.~E. Myers, A.~Narayan, L.~Z. Ndukum, V.~Nelyubin,
+  Nuruzzaman, W.~T.~H. van Oers, A.~K. Opper, S.~A. Page, J.~Pan, K.~D.
+  Paschke, S.~K. Phillips, M.~L. Pitt, M.~Poelker, J.~F. Rajotte, W.~D. Ramsay,
+  J.~Roche, B.~Sawatzky, T.~Seva, M.~H. Shabestari, R.~Silwal, N.~Simicevic,
+  G.~R. Smith, P.~Solvignon, D.~T. Spayde, A.~Subedi, R.~Subedi, R.~Suleiman,
+  V.~Tadevosyan, W.~A. Tobias, V.~Tvaskis, B.~Waidyawansa, P.~Wang, S.~P.
+  Wells, S.~A. Wood, S.~Yang, R.~D. Young, and S.~Zhamkochyan.
+\newblock First determination of the weak charge of the proton.
+\newblock {\em Phys. Rev. Lett.}, 111:141803, Oct 2013.
+
+\bibitem{elog:nur_ancillary59}
+Nuruzzaman.
+\newblock {Comparison of H2 Dilutions from Geant-III, IV, and Data at the
+  Inelastic Peak.}
+\newblock ELOG-Ancillary-59:~\url{https://qweak.jlab.org/elog/Ancillary/59},
+  December 2013.
+
+\bibitem{PhysRev.114.887}
+Haakon Olsen and L.~C. Maximon.
+\newblock Photon and electron polarization in high-energy bremsstrahlung and
+  pair production with screening.
+\newblock {\em Phys. Rev.}, 114:887--904, May 1959.
+
+\bibitem{PhysRevLett.82.1096}
+K.~A. Aniol, D.~S. Armstrong, M.~Baylac, E.~Burtin, J.~Calarco, G.~D. Cates,
+  C.~Cavata, J.-P. Chen, E.~Chudakov, D.~Dale, C.~W. de~Jager, A.~Deur,
+  P.~Djawotho, M.~B. Epstein, S.~Escoffier, L.~Ewell, N.~Falletto, J.~M. Finn,
+  K.~Fissum, A.~Fleck, B.~Frois, J.~Gao, F.~Garibaldi, A.~Gasparian, G.~M.
+  Gerstner, R.~Gilman, A.~Glamazdin, J.~Gomez, V.~Gorbenko, O.~Hansen,
+  F.~Hersman, R.~Holmes, M.~Holtrop, B.~Humensky, S.~Incerti, J.~Jardillier,
+  M.~K. Jones, J.~Jorda, C.~Jutier, W.~Kahl, D.~H. Kim, M.~S. Kim, K.~Kramer,
+  K.~S. Kumar, M.~Kuss, J.~LeRose, M.~Leuschner, D.~Lhuillier, N.~Liyanage,
+  R.~Lourie, R.~Madey, D.~J. Margaziotis, F.~Marie, J.~Martino,
+  P.~Mastromarino, K.~McCormick, J.~McIntyre, Z.-E. Meziani, R.~Michaels, G.~W.
+  Miller, D.~Neyret, C.~Perdrisat, G.~G. Petratos, R.~Pomatsalyuk, J.~S. Price,
+  D.~Prout, V.~Punjabi, T.~Pussieux, G.~Qu\'em\'ener, G.~Rutledge, P.~M. Rutt,
+  A.~Saha, P.~A. Souder, M.~Spradlin, R.~Suleiman, J.~Thompson, L.~Todor, P.~E.
+  Ulmer, B.~Vlahovic, K.~Wijesooriya, R.~Wilson, and B.~Wojtsekhowski.
+\newblock Measurement of the neutral weak form factors of the proton.
+\newblock {\em Phys. Rev. Lett.}, 82:1096--1100, Feb 1999.
+
+\bibitem{PhysRevC.69.065501}
+K.~A. Aniol, D.~S. Armstrong, T.~Averett, M.~Baylac, E.~Burtin, J.~Calarco,
+  G.~D. Cates, C.~Cavata, Z.~Chai, C.~C. Chang, J.-P. Chen, E.~Chudakov,
+  E.~Cisbani, M.~Coman, D.~Dale, A.~Deur, P.~Djawotho, M.~B. Epstein,
+  S.~Escoffier, L.~Ewell, N.~Falletto, J.~M. Finn, K.~Fissum, A.~Fleck,
+  B.~Frois, S.~Frullani, J.~Gao, F.~Garibaldi, A.~Gasparian, G.~M. Gerstner,
+  R.~Gilman, A.~Glamazdin, J.~Gomez, V.~Gorbenko, O.~Hansen, F.~Hersman, D.~W.
+  Higinbotham, R.~Holmes, M.~Holtrop, T.~B. Humensky, S.~Incerti, M.~Iodice,
+  C.~W. de~Jager, J.~Jardillier, X.~Jiang, M.~K. Jones, J.~Jorda, C.~Jutier,
+  W.~Kahl, J.~J. Kelly, D.~H. Kim, M.-J. Kim, M.~S. Kim, I.~Kominis,
+  E.~Kooijman, K.~Kramer, K.~S. Kumar, M.~Kuss, J.~LeRose, R.~De~Leo,
+  M.~Leuschner, D.~Lhuillier, M.~Liang, N.~Liyanage, R.~Lourie, R.~Madey,
+  S.~Malov, D.~J. Margaziotis, F.~Marie, P.~Markowitz, J.~Martino,
+  P.~Mastromarino, K.~McCormick, J.~McIntyre, Z.-E. Meziani, R.~Michaels,
+  B.~Milbrath, G.~W. Miller, J.~Mitchell, L.~Morand, D.~Neyret, C.~Pedrisat,
+  G.~G. Petratos, R.~Pomatsalyuk, J.~S. Price, D.~Prout, V.~Punjabi,
+  T.~Pussieux, G.~Qu\'em\'ener, R.~D. Ransome, D.~Relyea, Y.~Roblin, J.~Roche,
+  G.~A. Rutledge, P.~M. Rutt, M.~Rvachev, F.~Sabatie, A.~Saha, P.~A. Souder,
+  M.~Spradlin, S.~Strauch, R.~Suleiman, J.~Templon, T.~Teresawa, J.~Thompson,
+  R.~Tieulent, L.~Todor, B.~T. Tonguc, P.~E. Ulmer, G.~M. Urciuoli,
+  B.~Vlahovic, K.~Wijesooriya, R.~Wilson, B.~Wojtsekhowski, R.~Woo, W.~Xu,
+  I.~Younus, and C.~Zhang.
+\newblock Parity-violating electroweak asymmetry in $\vec{e}p$ scattering.
+\newblock {\em Phys. Rev. C}, 69:065501, Jun 2004.
+
+\bibitem{elog:peiqing_analysis589}
+Peiqing Wang.
+\newblock {Simulated octant-by-octant event rate, scattering angle and momentum
+  transfer.}
+\newblock
+  ELOG-Analysis-589:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/589},
+  May 2012.
+
+\bibitem{Afanasev200448}
+Andrei~V. Afanasev and N.P. Merenkov.
+\newblock Collinear photon exchange in the beam normal polarization asymmetry
+  of elastic electron-proton scattering.
+\newblock {\em Physics Letters B}, 599(1-2):48 -- 54, 2004.
+
+\bibitem{elog:birchall_analysis373}
+Jim Birchall.
+\newblock {Effect of averaging over azimuthal angle.}
+\newblock
+  ELOG-Analysis-373:~\url{https://qweak.jlab.org/elog/Analysis+&+Simulation/373},
+  June 2011.
+
+\bibitem{nurBModCIPANP2012}
+Nuruzzaman and Qweak Collaboration.
+\newblock Beam modulation system for the q-weak experiment at jefferson lab.
+\newblock {\em AIP Conference Proceedings}, 1560(1):240--242, 2013.
+
+\bibitem{Alexandrou:2009hs}
+Constantia Alexandrou, Tomasz Korzec, Giannis Koutsou, Cedric Lorce, John~W.
+  Negele, et~al.
+\newblock {Quark transverse charge densities in the $Delta$(1232) from lattice
+  QCD}.
+\newblock {\em Nucl.Phys.}, A825:115--144, 2009.
+
+\bibitem{presentation:nur_hel_cor_ped_talk1}
+Nuruzzaman.
+\newblock {Q-weak Physics Meeting: Helicity Correlated Pedestal Differences for
+  Wien 0 - 9.}
+\newblock Q-weak Physics Meeting,
+  Q-weak-DocDB1608:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1608},
+  March 2012.
+
+\bibitem{presentation:nur_hel_cor_ped_talk2}
+Nuruzzaman.
+\newblock {Q-weak Physics Meeting: Pedestal Survey for the Q-weak Experiment.}
+\newblock Q-weak Physics Meeting,
+  Q-weak-DocDB1608:~\url{https://qweak.jlab.org/doc-private/ShowDocument?docid=1678},
+  June 2012.
+
+\bibitem{pking}
+{Private communication with Paul King}.
+\newblock \href{mailto:pking@jlab.org}{pking@jlab.org}.
+
+\bibitem{nur_hel_cor_ped_ana}
+Nuruzzaman.
+\newblock {Survey of Helicity Correlated Pedestal Differences for the Full
+  Q-weak Data Set}.
+\newblock Technical Report Qweak-DocDB-2016, July 2014.
+
+\bibitem{elog:buddhini_analysis800}
+Buddhini Waidyawansa.
+\newblock {New PMT weights for transverse run1 and run2 (to be used with pass5
+  onwards).}
+\newblock
+  ELOG-Analysis-800:~\url{https://qweak.jlab.org/elog/Analysis+\%26+Simulation/800},
+  October 2012.
+
+\bibitem{website:qweak}
+{$Q^p_{weak}$: A Search for New Physics}.
+\newblock \url{http://www.jlab.org/qweak/}.
+
+\end{thebibliography}

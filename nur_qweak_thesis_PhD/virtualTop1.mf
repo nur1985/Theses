@@ -1,0 +1,24 @@
+% virtualTop1.mf -- do not edit, generated automatically by nur_qweak_thesis.tex
+input feynmf
+require_RCS_revision "1.30";
+beginchar(1, 110*1.0pt#, 62*1.0pt#, 0);
+"feynmf: 1";
+LaTeX_unitlength:=1.0pt;
+subgraph (0, 0, w, h);
+vinit;
+pickup pencircle scaled thin;
+vleft (__i1);
+vright (__o1);
+vconnect ("boson,tension=2", __i1, __v1);
+vconnect ("fermion,left=0.8,label=$t$", __v1, __v2);
+vconnect ("fermion,left=0.8,label=$\bar {b}$", __v2, __v1);
+vconnect ("boson,tension=2", __v2, __o1);
+vlabel ("$W$", __i1);
+vlabel ("$W$", __o1);
+vfreeze;
+vdraw;
+endsubgraph;
+endchar;
+% the end.
+end.
+endinput;
