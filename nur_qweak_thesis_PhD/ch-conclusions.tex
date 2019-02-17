@@ -1,0 +1,100 @@
+\chapter{SUMMARY OF CONTRIBUTIONS AND CONCLUSIONS}
+%\chapter{DISCUSSION AND CONCLUSIONS}
+\label{DISCUSSION AND CONCLUSIONS}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\section{Summary of Results}%
+
+This dissertation presents the highlights of my Ph.D. research work in the context of the Q-weak experiment. This chapter summarizes the results and conclusions presented so far.
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\section{Contribution Towards Q-weak Experiment}%
+%
+My contributions towards the measurement of the weak charge of the proton can be summarized under three categories: the beam modulation system, the beamline optics and false asymmetries, and the beam normal single spin asymmetry measurement in inelastic electron-proton scattering.
+The experience gained during this experiment will help the future precision parity violating measurements at the Jefferson Lab such as the M{\o}ller experiment~\cite{moller_2010}. 
+
+%%-------------------------------------------------------------------%%
+\section{Beam Modulation}
+
+The electron-proton scattering rate largely depends on the five beam parameters: horizontal position, horizontal angle, vertical position, vertical angle, and energy. Changes in these beam parameters when the beam polarization is reversed create false asymmetries. 
+Although attempts have been made to keep changes in beam parameters during reversal as small as possible, it is necessary to correct for such false asymmetries. 
+%To make this correction precisely, a beam modulation system was implemented to induce small position, angle, and energy changes at the target to characterize detector response to the beam jitter. 
+To make this correction precisely, I implemented a beam modulation system to induce small position, angle, and energy changes at the target to characterize detector response to the beam jitter. 
+The beam modulation system modulated position and angle using two pairs of air-core dipoles separated by $\sim$10~m and pulsing one pair at a time to produce relatively pure position or angle changes at the target. The beam energy was modulated using an SRF cavity.
+The system has been commissioned using the simulated optics from OptiM~\cite{OPTIM} and collected data during the experiment. 
+%
+The beam modulation system was designed for sinusoidal modulation up to 250~Hz which was robust and well-suited for the experiments measuring small parity violating asymmetries like the Q-weak experiment. 
+At the cost of 1\% of beam time for one parameter, the system was able to measure all sensitivities up to 10\% accuracy each day. The pairs of coils were tuned to deliver relatively pure positions or angle modulations, making it much less likely that singular matrices are encountered when solving for the sensitivities. 
+%
+The ratio of coil currents was adjusted to incorporate any optics change in the beamline compare to move the coils physically, which made the system independent of the design optic. For 1.165~GeV electron beam, using 125~Hz sinusoidal drive signal, the Trim power amplifier was able to provide the desired beam modulation amplitudes with existing air-core MAT coils. 
+The modulation system worked quite well for the span of two years during the Q-weak experiment and collected data noninvasively with production running. 
+%
+Preliminary detector sensitivities were extracted which helped to reduce the width of the measured asymmetry. The beam modulation system also has proven valuable for tracking changes in the optics, such as dispersion at the target and beam position coupling~\cite{nurBModCIPANP2012}.
+%
+The system has also helped to track some of the hardware and software problems in the BPMs in the Hall-C beamline. 
+%
+%However, to provide similar amplitudes for the M{\o}ller PV experiment at 12~GeV in Hall-A may require an upgrade of the amplifier or magnets. 
+
+
+%%-------------------------------------------------------------------%%
+\section{Beamline Work}
+
+%I have developed and simulated the concept of the virtual beam position monitor (BPM) to determine the position and angle at the target. My simulation using OptiM, demonstrated how the beam energy asymmetry changes can be identified. 
+%I have extracted BPM resolution, and beam jitter which was used to develop least square linear regression scheme based on the BPM study.
+The beam position monitors (BPMs) in front of the target were used for the linear regression, and hence, it was necessary to know their position and angle resolutions.
+%The beam position monitors (BPMs) in front of the target were used for the linear regression and hence was necessary to know their position and angle resolutions. 
+We developed and simulated the concept of the virtual BPM to determine the position and angle at the target. 
+I extracted the position resolution of the BPM in front of the target by observing the residual of beam position differences (between two helicity states) on any BPM and the orbit projected from the virtual target BPM. 
+%The position resolution of the BPM in front of the target were extracted by observing the residual of beam position differences (between two helicity states) on any BPM and the orbit projected from the virtual target BPM. 
+%The concept of the virtual BPM was developed and simulated to determine the position and angle at the target.
+%BPM 3H09B has relatively good resolution but was not available during Run-II. The BPM 3H04 has poor resolution compared to 3H07A. This inconsistency might be due to noise injected by the existing corrector magnets between them. 
+%Position resolutions for all the BPMs in front of the target were stable during Wien-0 at fixed current. Y resolution were quite similar to the X resolution. 
+Using selective data samples from the commissioning phase of the experiment, the average BPM resolution was 0.70~$\mu$m and 0.77~$\mu$m for X and Y, respectively. 
+The target BPM angle resolution was simulated using OptiM~\cite{OPTIM}. A relatively pure position measurement, which corresponds to pure angle measurement at target, was chosen to be at BPM 3P02A from the simulation to extract the angle resolution. Assuming 0.90 (0.96)~$\mu$m X(Y)-position resolutions, the estimated target BPM angle resolutions at 180~$\mu$A are 0.048~$\mu$rad, and 0.060~$\mu$rad for $X^{\prime}$ and $Y^{\prime}$, respectively.
+A new least square linear regression scheme was developed based on my BPM study.
+
+
+%During and after the experiment I have worked as Q-weak analysis coordinator and performed overall data quality checks to sort good and bad data based on various conditions.
+%I have performed database stress test and analyzed part of the production data set.
+
+%My survey on helicity correlated pedestals improved the false asymmetry contribution for the entire data set of the experiment.
+I surveyed the helicity correlated pedestals to improve the false asymmetry contribution for the entire data set of the experiment. 
+%The helicity correlated pedestals were surveyed to improve the false asymmetry contribution for the entire data set of the experiment. 
+No helicity correlated pickups were seen for most of the detector channels and were at $\mathcal{O}$(1)~ppb. Electronic noise levels were generally acceptable, though potentially marginal for the upstream luminosity (USLumi) monitor channels near the end of Run 1 but improving during Run 2. Nonlinearity due to pedestal errors for main detectors were extremely small whereas USLumi had a nonlinearity of few percent. There is a scope for improvement in USLumi pedestal. Nonlinearity could be very large for low-yield production running on aluminum and N$\rightarrow\Delta$ but still be under 1\%. Resolutions for all the detectors were reasonably stable. 
+
+%The main challenges for this experiment arose from the small expected PV asymmetry and the high precision goal in connection with possible backgrounds and systematic effects. To improve beamline background I have designed a corrector magnet for the Q-weak torodial (QTor) magnet and a real time magnetic field monitoring system for the QTor. 
+%I have also worked on online analysis display software and other helpful tools for real time data monitoring to track and improve data collection, which was one of the key aspect during the experiment.
+
+%%-------------------------------------------------------------------%%
+\section{Beam Normal Single Spin Asymmetry in Inelastic e+p Scattering}
+
+The objective of the Q-weak experiment is to challenge the predictions of the Standard Model in low $Q^{2}$ range and search for new physics at the TeV scale through a 4\% measurement of the weak charge of the proton \textit{via} the parity-violating asymmetry ($\sim$250 ppb) in elastic electron-proton scattering~\cite{qweak_proposal_2007}.
+One of the potential corrections for the PV asymmetry comes from the residual transverse polarization in the beam. 
+There is a parity conserving beam normal single spin asymmetry or transverse asymmetry ($B_{n}$) on H$_{2}$ with a $\sin$($\phi$) like dependence due to two-photon exchange. The size of $B_{n}$ is few ppm. So, a few percent residual transverse polarization in the beam, in addition to potentially small broken azimuthal symmetries in the detector, might lead to few ppb corrections to the Q-weak data. As part of a program of $B_{n}$ background studies, we made the first measurement of $B_{n}$ in the N$\rightarrow\Delta$ transition using the Q-weak apparatus. %I have dicussed the detailed analysis of this dataset in this dissertation.
+$B_{n}$ provides direct access to the imaginary part of the two-photon exchange amplitude. The magnitude of $B_{n}$ in the N$\rightarrow\Delta$ transition has never been measured before. 
+The $B_{n}$ from electron-nucleon scattering is also a unique tool to study the $\gamma^{*}\Delta\Delta$ form factors~\cite{Alexandrou:2009hs}. 
+%Currently I am performing an independent analysis on electron-nucleon scattering data to extract these transverse asymmetries in the inelastic region which included the first in-depth look at systematic uncertainties and backgrounds. 
+
+%There is a parity conserving BNSSA or transverse asymmetry ($B_{n}$) on H$_{2}$ with a $\sin(\phi)$-like dependence due to 2-photon exchange. The size of $B_{n}$ is few ppm, so a few percent residual transverse polarization in the beam, in addition to potentially small broken azimuthal asymmetries in the main detector, might lead to few ppb corrections to the Q-weak data. As part of a program of $B_{n}$ background studies, the first measurement of $B_{n}$ in the N-to-$\Delta$ transition was performed using the Q-weak apparatus. 
+%
+%The objective of the Q-weak experiment is to challenge the predictions of the Standard Model in low $Q^{2}$ range and search for new physics at the TeV scale through a 4\% measurement of the weak charge of proton via the parity-violating asymmetry ( $\sim$250 ppb) in elastic e+p scattering~\cite{qweak_proposal_2007}. There is a parity conserving beam normal single spin asymmetry, or transverse asymmetry, $B_{n}$ on LH$_{2}$ with a sin($\phi$)-like dependence due to 2-photon exchange. The expected magnitude of $B_{n}$ is few ppm which is an order larger than PV asymmetry for the Q-weak. 
+%Also $B_{n}$ provides direct access to the imaginary part of the two-photon exchange amplitude. It will be interesting to see the magnitude of $B_{n}$ in the N$\rightarrow\Delta$ region which has never been measured before.
+%$B_{n}$ from electron-nucleon scattering is also a unique tool to study the $\gamma^{*}\Delta\Delta$ form factors~\cite{Alexandrou:2009hs}.
+%This dissertation presents the analysis of the 9\% measurement of beam normal single spin asymmetry in inelastic electron-proton scattering at a $Q^{2}$ of 0.0209 $(GeV/c)^{2}$.
+%It is the first measurement of beam normal single spin asymmetry in inelastic e+p scattering. This measurement will help to improve the theoretical models on beam normal single spin asymmetry and thereby our understanding of the doubly virtual Compton scattering process. 
+%As part of a program of $B_{n}$ background studies, we made the first measurement of $B_{n}$ in the N-to-$\Delta$(1232) transition using the Q-weak apparatus. 
+
+The Q-weak collaboration has made the first measurement of the beam normal single spin asymmetry in the N-to-$\Delta$(1232) transition. After correcting for backgrounds and beam polarization, I extracted the final transverse asymmetry $B_{n} = 42.82 \pm 2.45~\text{(stat)} \pm 16.07~\text{(sys)}~\text{ppm}$ using transversely polarized 1.155~GeV electrons scattering in-elastically from protons with a $Q^{2}$ of 0.0209 (GeV/c)$^{2}$ and missing mass of 1.204~GeV. This measurement would be an excellent test of theoretical calculations. 
+%The Q-weak collaboration has made the first measurement of the beam normal single spin asymmetry as $B_{n} = 42.82 \pm 2.45~\text{(stat)} \pm 16.07~\text{(sys)}~\text{ppm}$ using transversely polarized 1.155~GeV electrons scattering in-elastically from protons with a $Q^{2}$ of 0.0209 (GeV/c)$^{2}$ and missing mass of 1.204~GeV. This measurement would be an excellent test of theoretical calculations. 
+%So far, I have presented a discussion of the inelastic beam normal single spin asymmetry measurement in electron-proton scattering.
+In addition to the inelastic data from the proton, Q-weak has data on the $B_{n}$ measurements from several other physics processes. 
+The asymmetries were measured on liquid hydrogen cell, 4\% thick downstream aluminum alloy, and a 1.6\% thick downstream carbon foil. 
+Some of these measurements are the first of their kind and carry interesting physics. 
+%The analysis of these data is ongoing and expected to test model calculations of beam normal single spin asymmetry. 
+The analysis of these data is ongoing and expected to test the theoretical models on beam normal single spin asymmetry and thereby our understanding of the doubly virtual Compton scattering process. 
+Unfortunately, at the time of this analysis, there was no existing theoretical calculation or model to compare with the data. Hopefully this thesis will encourage theoreticians to produce new calculations. 
+
+%In addition to the elastic data from the proton, Qweak has data on the beam normal single spin asymmetry measurements (see Table 8.3) from several other physics processes. Some of these measurements are the first of their kind and carry interesting physics. The analysis of these data is ongoing. Due to the small relative precisions of these measurements, when finalized, they can be expected to be good candidates to test model calculations of beam normal single spin asymmetry.
+%
+%Going further, Qweak beam normal single spin asymmetry measurements can be used to estimate the real part of the two-photon exchange with the use of dispersion relations. This will provide a valuable cross-check of both the dispersion relations and the models of the real part of the two-photon exchange process. - Buddhini
